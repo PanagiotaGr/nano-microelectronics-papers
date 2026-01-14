@@ -1,53 +1,86 @@
-days_back: 2
-max_results_per_topic: 20
+# Nano & Microelectronics ArXiv Daily configuration
 
-# arXiv categories relevant to nanotech / microelectronics
+days_back: 2
+max_results_per_topic: 15
+
+# Match only in 'title' (strict) or 'title+abstract' (broader)
+match_in: title+abstract
+
+# Domain gate: paper must contain at least one of these terms
+must_have_any:
+  - semiconductor
+  - device
+  - transistor
+  - cmos
+  - mosfet
+  - mems
+  - nanomaterial
+  - thin film
+  - photonic
+  - waveguide
+  - sensor
+  - fabrication
+  - lithography
+  - oxide
+  - dielectric
+  - junction
+  - graphene
+  - mos2
+  - perovskite
+  - tcad
+
 categories:
-  - cond-mat.mtrl-sci   # Materials Science
-  - cond-mat.mes-hall   # Mesoscale and Nanoscale Physics
-  - cond-mat.dis-nn     # Disordered Systems and Neural Networks (often materials/transport too)
-  - physics.app-ph      # Applied Physics
-  - physics.ins-det     # Instrumentation and Detectors
-  - eess.SP             # Signal Processing (devices/sensing papers sometimes appear here)
-  - eess.SY             # Systems and Control (less central, optional)
-  - cs.ET               # Emerging Technologies (optional)
-  - cs.AR               # Hardware Architecture (optional)
+  - cond-mat.mtrl-sci
+  - cond-mat.mes-hall
+  - physics.app-ph
+  - physics.ins-det
+  - eess.SP
+  - cs.ET
+  - cs.AR
 
 topics:
   Nanomaterials & Synthesis:
     - nanomaterial
     - nanoparticles
-    - quantum dots
-    - 2d materials
+    - quantum dot
+    - 2d material
     - graphene
     - mos2
+    - ws2
+    - hbn
     - heterostructure
     - thin film
     - deposition
     - epitaxy
     - cvd
     - ald
+    - sputtering
     - sol-gel
     - self-assembly
 
-  Nanoelectronics & Devices:
-    - nanoelectronics
+  Nano/Microelectronic Devices:
     - transistor
     - fet
     - mosfet
     - finfet
     - gate-all-around
-    - gaaq
-    - memristor
-    - rram
-    - ferroelectric
-    - negative capacitance
-    - tunneling
+    - gaa
     - tfet
     - schottky
+    - tunneling
     - contact resistance
+    - ferroelectric
+    - negative capacitance
+    - rram
+    - memristor
+    - neuromorphic device
+    - wide bandgap
+    - gan
+    - sic
 
-  Semiconductor Processing & Fabrication:
+  CMOS, Process & Fabrication:
+    - cmos
+    - process integration
     - lithography
     - e-beam lithography
     - etching
@@ -55,9 +88,9 @@ topics:
     - annealing
     - doping
     - implantation
-    - process integration
-    - fab
-    - cmos
+    - metrology
+    - yield
+    - variability
 
   Photonics, Optoelectronics & Plasmonics:
     - photonics
@@ -67,49 +100,48 @@ topics:
     - metamaterial
     - waveguide
     - microresonator
-    - led
     - photodetector
     - laser
+    - led
+    - modulator
 
-  Sensors, BioMEMS & Lab-on-Chip:
-    - sensor
-    - biosensor
-    - microfluidics
-    - lab-on-chip
+  MEMS/NEMS & Sensors:
     - mems
     - nems
-    - bioMEMS
+    - resonator
+    - inertial sensor
+    - accelerometer
+    - gyroscope
+    - pressure sensor
+    - biosensor
+    - gas sensor
+    - chemical sensor
     - wearable
-    - point-of-care
+    - microfluidics
+    - lab-on-chip
 
-  Power & Energy Materials (Micro/Nano):
+  Energy & Power Materials (Micro/Nano):
+    - photovoltaic
+    - perovskite
+    - thermoelectric
     - battery
     - solid-state battery
     - supercapacitor
     - fuel cell
     - electrolyzer
-    - photovoltaic
-    - perovskite
-    - thermoelectric
+    - piezoelectric
+    - triboelectric
 
-  Reliability, Variability & Modeling:
+  Reliability, Modeling & TCAD:
     - reliability
-    - variability
-    - aging
     - degradation
-    - hot carrier
+    - aging
     - bias temperature instability
     - bti
+    - hot carrier
+    - trap
     - noise
     - 1/f noise
     - compact model
     - tcad
-
-  Packaging & Advanced Integration:
-    - 3d integration
-    - chiplet
-    - through-silicon via
-    - tsv
-    - heterogenous integration
-    - advanced packaging
-    - thermal management
+    - drift-diffusion
