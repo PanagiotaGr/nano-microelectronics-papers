@@ -1,51 +1,46 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-01-14
+**Last update:** 2026-01-15
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Forbidden second harmonics in centrosymmetric bilayer crystals**
-  - Authors: Haoning Tang, Zhitong Ding, Tianyi Ruan, Zeyu Hao, Kenji Watanabe, Takashi Taniguchi, Haozhe Wang, Ali Javey, Feng Wang, Yuan Cao
-  - Published: 2026-01-13 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08830v1) | [PDF](https://arxiv.org/pdf/2601.08830v1)
+- **Disorder-induced strong-field strong-localization in 2D systems**
+  - Authors: Yi Huang, Sankar Das Sarma
+  - Published: 2026-01-14 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09687v1) | [PDF](https://arxiv.org/pdf/2601.09687v1)
   - Matched: graphene
-- **Dynamical stability by spin transfer in nearly isotropic magnets**
-  - Authors: Hidekazu Kurebayashi, Joseph Barker, Takumi Yamazaki, Varun K. Kushwaha, Kilian D. Stenning, Harry Youel, Xueyao Hou, Troy Dion, Daniel Prestwood, Gerrit E. W. Bauer et al.
-  - Published: 2026-01-13 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08738v1) | [PDF](https://arxiv.org/pdf/2601.08738v1)
+- **Geometric dependence of exchange bias in tilted three-dimensional CoFe/IrMn microwires**
+  - Authors: Balram Singh, Aman Singh, Stefan Mikulik, Jakub Jurczyk, Volker Neu, Amalio Fernández-Pacheco
+  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09653v1) | [PDF](https://arxiv.org/pdf/2601.09653v1)
+  - Matched: deposition, sputtering
+- **Batch-Fabricated PDMS Templates for the Robotic Transfer of 2D Materials**
+  - Authors: Zhili Lin, Luosha Han, Jinkun He, Xiaoxue Fan, Tongyao Zhang, Xiaoxi Li, Baojuan Dong, Kai Zhao
+  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09378v1) | [PDF](https://arxiv.org/pdf/2601.09378v1)
+  - Matched: 2d material, heterostructure
+- **The Diffusion Kinetics of Ba Cations in Perovskite BaTiO$_3$: A Combined Tracer Diffusion and Metadynamics Study**
+  - Authors: Sylvia Koerfer, Bianca Dißmann, Norman Schier, Han-Ill Yoo, Manfred Martin, Roger A. De Souza
+  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09344v1) | [PDF](https://arxiv.org/pdf/2601.09344v1)
   - Matched: thin film
-- **Coupling of Klein-Andreev Resonant States in Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$-graphene-Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ Devices**
-  - Authors: Sharadh Jois, Jose L. Lado, Genda Gu, Qiang Li, Ji Ung Lee
-  - Published: 2026-01-13 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08637v1) | [PDF](https://arxiv.org/pdf/2601.08637v1)
-  - Matched: graphene
-- **Effect of Interatomic Potential Choice on Fracture Modes of Graphene with Parallel Cracks**
-  - Authors: Suyeong Jin, Jung-Wuk Hong, Alexandre F. Fonseca
-  - Published: 2026-01-13 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08346v1) | [PDF](https://arxiv.org/pdf/2601.08346v1)
-  - Matched: graphene
-- **Giant Hole-doping in 2H-WSe2 via Ta Substitution**
-  - Authors: Minhee Kang, Woojin Choi, Choongyu Hwang, Jinwoong Hwang
-  - Published: 2026-01-13 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08284v1) | [PDF](https://arxiv.org/pdf/2601.08284v1)
-  - Matched: epitaxy
-- **Magnetoelectric torque in polar magnetic bilayers**
-  - Authors: Zhong Shen, Jun Chen, Xiaoyan Yao, Shuai Dong
-  - Published: 2026-01-13 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08117v1) | [PDF](https://arxiv.org/pdf/2601.08117v1)
-  - Matched: heterostructure
-- **Multi-level charge fluctuations in a Si/SiGe double quantum dot device**
-  - Authors: Dylan Albrecht, Feiyang Ye, N. Tobias Jacobson, John M. Nichol
-  - Published: 2026-01-13 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08088v1) | [PDF](https://arxiv.org/pdf/2601.08088v1)
-  - Matched: quantum dot
-- **Chiral Two-Body Bound States from Berry Curvature and Chiral Superconductivity**
-  - Authors: Daniil Karuzin, Leonid Levitov
-  - Published: 2026-01-12 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08055v1) | [PDF](https://arxiv.org/pdf/2601.08055v1)
-  - Matched: graphene
+- **Tunnel-Barrier-Engineered Ultrafast Demagnetization and Spin Transport in Graphene-Based Heterostructures**
+  - Authors: Suchetana Mukhopadhyay, David Muradas-Belinchon, Francesco Foggetti, Peter M. Oppeneer, M. Venkata Kamalakar, Anjan Barman
+  - Published: 2026-01-14 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09284v1) | [PDF](https://arxiv.org/pdf/2601.09284v1)
+  - Matched: graphene, heterostructure, deposition
+- **Generalization of Stoney's equation for flexoelectric thin films on elastic substrates**
+  - Authors: Swarnava Ghosh
+  - Published: 2026-01-14 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09160v1) | [PDF](https://arxiv.org/pdf/2601.09160v1)
+  - Matched: thin film
+- **Hybrid-Contact Planar HPGe Process Vehicle Toward Ring-Contact Designs**
+  - Authors: Kunming Dong, Dongming Mei, Shasika Panamaldeniya, Anupama Karki, Patrick Burns, Sanjay Bhataarai
+  - Published: 2026-01-13 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2601.08934v1) | [PDF](https://arxiv.org/pdf/2601.08934v1)
+  - Matched: deposition
 
 ---
 
