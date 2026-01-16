@@ -1,70 +1,75 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-01-15
+**Last update:** 2026-01-16
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling**
-  - Authors: Liam A. V. Nagle-Cocco, Andrew L. Goodwin, Clare P. Grey, Siân E. Dutton
-  - Published: 2026-01-14 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09705v1) | [PDF](https://arxiv.org/pdf/2601.09705v1)
+- **Quantum solver for single-impurity Anderson models with particle-hole symmetry**
+  - Authors: Mariia Karabin, Tanvir Sohail, Dmytro Bykov, Eduardo Antonio Coello Pérez, Swarnava Ghosh, Murali Gopalakrishnan Meena, Seongmin Kim, Amir Shehata, In-Saeng Suh, Hanna Terletska et al.
+  - Published: 2026-01-15 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10594v1) | [PDF](https://arxiv.org/pdf/2601.10594v1)
   - Matched: sic
-- **Radiation tolerance tests on key components of the ePIC-dRICH readout card**
-  - Authors: S. Geminiani, B. R. Achari, N. Agrawal, M. Alexeev, C. Alice, R. Ammendola, P. Antonioli, C. Baldanza, L. Barion, A. Biagioni et al.
-  - Published: 2026-01-14 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09675v1) | [PDF](https://arxiv.org/pdf/2601.09675v1)
-  - Matched: gan, sic
-- **Ferroelectric polarization mapping through pseudosymmetry-sensitive EBSD reindexing**
-  - Authors: Claire Griesbach, Tizian Scharsach, Morgan Trassin, Dennis M. Kochmann
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09627v1) | [PDF](https://arxiv.org/pdf/2601.09627v1)
-  - Matched: transistor, ferroelectric
-- **Dynamical Stabilization of Inverted Magnetization and Antimagnons by Spin Injection in an Extended Magnetic System**
-  - Authors: Emir Karadza, Hanchen Wang, Niklas Kercher, Paul Noel, William Legrand, Richard Schlitz, Pietro Gambardella
-  - Published: 2026-01-14 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09569v1) | [PDF](https://arxiv.org/pdf/2601.09569v1)
-  - Matched: tunneling, sic
-- **Ab initio study of carrier mobility in Bi$_2$O$_2$Se**
-  - Authors: Yubo Yuan, Ziye Zhu, Jiaming Hu, Wenbin Li
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09501v1) | [PDF](https://arxiv.org/pdf/2601.09501v1)
+- **Quantum bianisotropy in light-matter interaction**
+  - Authors: E. O. Kamenetskii
+  - Published: 2026-01-15 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10287v1) | [PDF](https://arxiv.org/pdf/2601.10287v1)
   - Matched: sic
-- **Molecular-based coordination polymer as reversible and precise acetonitrile electro-optical readout**
-  - Authors: Esther Resines-Urien, Enrique Burzurí, Estefania Fernandez-Bartolome, Miguel Ángel García García-Tuñón, Patricia de la Presa, Roberta Poloni, Simon J. Teat, Jose Sanchez Costa
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09370v1) | [PDF](https://arxiv.org/pdf/2601.09370v1)
-  - Matched: gan
-- **Chemical heterogeneity at conducting ferroelectric domain walls**
-  - Authors: Kasper A. Hunnestad, Guo-Dong Zhao, Mao-Hua Zhang, Tiannan Yang, Elzbieta Gradauskaite, Antonius T. J. van Helvoort, Morgan Trassin, Long-Qing Chen, Tadej Rojac, Dennis Meier
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09323v1) | [PDF](https://arxiv.org/pdf/2601.09323v1)
+- **Coherence Limits in Interference-Based cos(2$\varphi$) Qubits**
+  - Authors: S. Messelot, A. Leblanc, J. -S. Tettekpoe, F. Lefloch, Q. Ficheux, J. Renard, É. Dumur
+  - Published: 2026-01-15 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10209v1) | [PDF](https://arxiv.org/pdf/2601.10209v1)
+  - Matched: fet, tunneling
+- **Physically Unclonable Functions Based on Single-Walled Carbon Nanotubes: A Scalable and Inexpensive Method toward Unique Identifiers**
+  - Authors: Enrique Burzurí, Daniel Granados, Emilio M. Pérez
+  - Published: 2026-01-15 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10196v1) | [PDF](https://arxiv.org/pdf/2601.10196v1)
+  - Matched: sic
+- **A Neuroevolution Potential for Gallium Oxide: Accurate and Efficient Modeling of Polymorphism and Swift Heavy-Ion Irradiation**
+  - Authors: Yaohui Gu, Binbo Li, Lingyang Jiang, Yuhui Hu, Wenqiang Liu, Lijun Xu, Pengfei Zhai, Jie Liu, Jinglai Duan
+  - Published: 2026-01-15 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10174v1) | [PDF](https://arxiv.org/pdf/2601.10174v1)
+  - Matched: sic
+- **Effect of hole pitch reduction on electron transport and diffusion: A comparative simulation study of Triple GEM detectors**
+  - Authors: Rajiv Gupta, Sunidhi Saxena, Ajay Kumar
+  - Published: 2026-01-15 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10139v1) | [PDF](https://arxiv.org/pdf/2601.10139v1)
+  - Matched: sic
+- **Casimir interactions as a probe of broadband optical response**
+  - Authors: Calum F. Shelden, Jeremy N. Munday
+  - Published: 2026-01-15 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10118v1) | [PDF](https://arxiv.org/pdf/2601.10118v1)
+  - Matched: sic
+- **Electroluminescence in dopant-free GaAs/AlGaAs single heterojunctions: 2D free excitons, H-band, and the tidal effect**
+  - Authors: N. Sherlekar, S. R. Harrigan, L. Tian, B. Cunard, Y. Qi, B. Khromets, M. C. Tam, H. S. Kim, Z. R. Wasilewski, J. Baugh et al.
+  - Published: 2026-01-15 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.10081v1) | [PDF](https://arxiv.org/pdf/2601.10081v1)
+  - Matched: transistor, fet, gaa, sic
+- **FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**
+  - Authors: Tianqi Zhang, Flavio Ponzina, Tajana Rosing
+  - Published: 2026-01-15 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09985v1) | [PDF](https://arxiv.org/pdf/2601.09985v1)
+  - Matched: fet
+- **Topological textures and emergent altermagnetic signatures in ultrathin BiFeO3**
+  - Authors: George Fratian, Maya Ramesh, Xinyan Li, Evangelos Golias, Yousra Nahas, Sebastian Maria Ulrich Schultheis, Julian Skolaut, Marti Checa, Arundhati Ghosal, Jan Priessnitz et al.
+  - Published: 2026-01-15 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09970v1) | [PDF](https://arxiv.org/pdf/2601.09970v1)
   - Matched: ferroelectric, sic
-- **Data-Driven Exploration and Insights into Temperature-Dependent Phonons in Inorganic Materials**
-  - Authors: Huiju Lee, Zhi Li, Jiangang he, Yi Xia
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09123v1) | [PDF](https://arxiv.org/pdf/2601.09123v1)
-  - Matched: gan
-- **Unexpected type-II multiferroic phase in GdMnO3 under high magnetic fields**
-  - Authors: Ming Yang, Jun Chen, Junfeng Wang, Chao Dong, Chengliang Lu, Gang Xu, Jinguang Cheng, Jianshi Zhou, Shuai Dong
-  - Published: 2026-01-14 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09092v1) | [PDF](https://arxiv.org/pdf/2601.09092v1)
-  - Matched: ferroelectric, gan
-- **Multi parameter discrimination using multiple spectral troughs in a cascaded fiber sensor**
-  - Authors: Riming Xu, Yanbo Li, Xingnan Chen, Jin Wang
-  - Published: 2026-01-14 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2601.09055v1) | [PDF](https://arxiv.org/pdf/2601.09055v1)
+- **Interfacing Superconductor and Semiconductor Digital Electronics**
+  - Authors: Yerzhan Mustafa, Selçuk Köse
+  - Published: 2026-01-15 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09969v1) | [PDF](https://arxiv.org/pdf/2601.09969v1)
   - Matched: sic
-- **Quantifying the Relationship Between Strain and Bandgap in Thin Ga$_2$Se$_2$**
-  - Authors: Lottie L. Murray, Eric Herrmann, Igor Evangelista, Anderson Janotti, Xi Wang, Matthew F. Doty
-  - Published: 2026-01-13 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08984v1) | [PDF](https://arxiv.org/pdf/2601.08984v1)
-  - Matched: sic
-- **Charge Transport and Multiplication in Lateral Amorphous Selenium Devices Under Cryogenic Conditions**
-  - Authors: M. Rooks, S. Abbaszadeh, J. Asaadi, V. A. Chirayath, M. Á. García-Peris, E. Gramellini, K. Hellier, B. Sudarsan, I. Tzoka
-  - Published: 2026-01-13 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.08971v1) | [PDF](https://arxiv.org/pdf/2601.08971v1)
+- **Forward-only learning in memristor arrays with month-scale stability**
+  - Authors: Adrien Renaudineau, Mamadou Hawa Diallo, Théo Dupuis, Bastien Imbert, Mohammed Akib Iftakher, Kamel-Eddine Harabi, Clément Turck, Tifenn Hirtzlin, Djohan Bonnet, Franck Melul et al.
+  - Published: 2026-01-14 | Category: `cs.ET`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09903v1) | [PDF](https://arxiv.org/pdf/2601.09903v1)
+  - Matched: memristor
+- **Multiple Andreev Reflection Effects in Asymmetric STM Josephson Junctions**
+  - Authors: Wan-Ting Liao, S. K. Dutta, R. E. Butera, C. J. Lobb, F. C. Wellstood, M. Dreyer
+  - Published: 2026-01-14 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2601.09889v1) | [PDF](https://arxiv.org/pdf/2601.09889v1)
   - Matched: tunneling, sic
 
 ---
