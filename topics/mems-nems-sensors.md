@@ -1,6 +1,6 @@
 # MEMS/NEMS & Sensors
 
-**Last update:** 2026-01-22
+**Last update:** 2026-01-23
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
