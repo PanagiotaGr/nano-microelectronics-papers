@@ -1,6 +1,6 @@
 # Reliability, Modeling & TCAD
 
-**Last update:** 2026-01-25
+**Last update:** 2026-01-26
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 

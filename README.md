@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-25  
-**Daily archive:** `digests/2026-01-25.md`  
+**Last update:** 2026-01-26  
+**Daily archive:** `digests/2026-01-26.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
