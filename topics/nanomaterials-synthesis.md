@@ -1,66 +1,56 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-01-28
+**Last update:** 2026-01-29
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Atomic imaging of 2D transition metal dihalides**
-  - Authors: Wendong Wang, Gareth R. M Tainton, Nick Clark, James G. McHugh, Xue Li, Sam Sullivan-Allsop, David G. Hopkinson, Oldrich Cicvarek, Francisco Selles, Rui Zhang et al.
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19796v1) | [PDF](https://arxiv.org/pdf/2601.19796v1)
-  - Matched: heterostructure
-- **Revealing the (111) surface electronic structure of epitaxially grown Na$_2$KSb photocathode**
-  - Authors: N. Yu. Solovova, V. A. Golyashov, S. V. Eremeev, S. Yu. Priobrazhenskii, S. P. Lebedev, A. A. Lebedev, V. S. Rusetsky, O. E. Tereshchenko
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19652v1) | [PDF](https://arxiv.org/pdf/2601.19652v1)
-  - Matched: graphene, deposition, cvd
-- **Lanthanide-Dependent Clustering in Yb$^{3+}$/Ln$^{3+}$ Co-Doped CaF$_2$ Nanocrystals: Correlating Spectroscopic Signatures with DFT Insights**
-  - Authors: Sangeetha Balabhadra, Haoming Xu, Jiajia Cai, Chang-Kui Duan, Michael F. Reid, Jon-Paul R. Wells
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19566v1) | [PDF](https://arxiv.org/pdf/2601.19566v1)
-  - Matched: nanomaterial, nanoparticles
-- **Near-field effects on cathodoluminescence outcoupling in perovskite thin films**
-  - Authors: Robin Schot, Imme Schuringa, Álvaro Rodríguez Echarri, Lars Sonneveld, Tom Veeken, Yang Lu, Samuel D. Stranks, Albert Polman, Bruno Ehrler, Saskia Fiedler
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19534v1) | [PDF](https://arxiv.org/pdf/2601.19534v1)
+- **Impact of O concentration on the thermal stability and decomposition mechanism of (Cr,Al)N compared to (Ti,Al)N thin films**
+  - Authors: Pauline Kümmerl, Ganesh Kumar Nayak, Felix Leinenbach, Zsolt Czigány, Daniel Primetzhofer, Szilárd Kolozsvári, Peter Polcik, Marcus Hans, Jochen M. Schneider
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20691v1) | [PDF](https://arxiv.org/pdf/2601.20691v1)
   - Matched: thin film
-- **Si-Ga2O3/p-GaN epitaxial heterostructure based self-powered and visible-blind UV photodetectors with fast and electrically tuneable response time**
-  - Authors: Ajoy Biswas, Amandeep Kaur, Bhabani Prasad Sahu, Sushantika Saha, Umakanta Patra, Rupa Jeena, Pradeep Sarin, Subhabrata Dhar
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19492v1) | [PDF](https://arxiv.org/pdf/2601.19492v1)
-  - Matched: heterostructure, deposition
-- **Graphene Nanoribbon-Graphdiyne Lateral Heterojunctions with Atomically Abrupt Interfaces**
-  - Authors: Alice Cartoceti, Simona Achilli, Masoumeh Alihosseini, Adriana E. Candia, Enrico Beltrami, Paolo D'Agosta, Alessio Orbelli Biroli, Francesco Sedona, Andrea Li Bassi, Jorge Lobo Checa et al.
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19437v1) | [PDF](https://arxiv.org/pdf/2601.19437v1)
-  - Matched: graphene, heterostructure
-- **Design and fabrication of guiding patterns for topography-based searching of 2D devices for scanning tunneling microscopy measurements**
-  - Authors: Huandong Chen, Hong Li, Yutao Li, He Zhao, Ming Lu, Kazuhiro Fujita, Abhay N. Pasupathy
-  - Published: 2026-01-27 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19077v1) | [PDF](https://arxiv.org/pdf/2601.19077v1)
-  - Matched: graphene
-- **Transport spin polarization in RuO$_2$ films**
-  - Authors: Alexandra J. Howzen, Sachin Gupta, Gavin Burnell, Nathan Satchell
+- **Exchange-dominated origin of spin-wave nonreciprocity in planar magnetic multilayers**
+  - Authors: Claudia Negrete, Attila Kákay, Jorge A. Otálora
+  - Published: 2026-01-28 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20636v1) | [PDF](https://arxiv.org/pdf/2601.20636v1)
+  - Matched: heterostructure
+- **Epitaxial Ni/Cu Superlattice Nanowires with Atomically Sharp Interfaces for Spin Transport**
+  - Authors: Janez Zavašnik, Sama Derakshan-Nejad, Maryam Ghaffari, Amir Hassan Montazer, Mohammad Reza Mardaneh, Mohammad Almasi Kashi, Alexandre Nomine, Stephane Mangin, Uroš Cvelbar
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20497v1) | [PDF](https://arxiv.org/pdf/2601.20497v1)
+  - Matched: epitaxy
+- **Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain**
+  - Authors: Chun-Xiao Liu
+  - Published: 2026-01-28 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20252v1) | [PDF](https://arxiv.org/pdf/2601.20252v1)
+  - Matched: quantum dot
+- **Tunable Nanoparticle Stripe Patterns at Inclined Surfaces**
+  - Authors: Suman Bhattacharjee, Sanjoy Khawas, Sunita Srivastava
+  - Published: 2026-01-28 | Category: `cond-mat.soft`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20165v1) | [PDF](https://arxiv.org/pdf/2601.20165v1)
+  - Matched: nanoparticles
+- **Revealing Strain Effects on the Graphene-Water Contact Angle Using a Machine Learning Potential**
+  - Authors: Darren Wayne Lim, Xavier R. Advincula, William C. Witt, Fabian L. Thiemann, Christoph Schran
   - Published: 2026-01-27 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19052v1) | [PDF](https://arxiv.org/pdf/2601.19052v1)
-  - Matched: thin film
-- **qNEP: A highly efficient neuroevolution potential with dynamic charges for large-scale atomistic simulations**
-  - Authors: Zheyong Fan, Benrui Tang, Esmée Berger, Ethan Berger, Erik Fransson, Ke Xu, Zihan Yan, Zhoulin Liu, Zichen Song, Haikuan Dong et al.
-  - Published: 2026-01-26 | Category: `physics.comp-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19034v1) | [PDF](https://arxiv.org/pdf/2601.19034v1)
-  - Matched: ald
-- **Topological hybridisation of plasmons with ferrimagnetic magnons**
-  - Authors: Cooper Finnigan, Mehdi Kagarian, Dmitry K. Efimkin
-  - Published: 2026-01-26 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18995v1) | [PDF](https://arxiv.org/pdf/2601.18995v1)
+  - Links: [arXiv](https://arxiv.org/abs/2601.20134v1) | [PDF](https://arxiv.org/pdf/2601.20134v1)
+  - Matched: graphene
+- **Establishing Atomic Coherence in Twisted Oxide Membranes Containing Volatile Elements**
+  - Authors: Young-Hoon Kim, Reza Ghanbari, Min-Hyoung Jung, Young-Min Kim, Ruijuan Xu, Miaofang Chi
+  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20108v1) | [PDF](https://arxiv.org/pdf/2601.20108v1)
   - Matched: heterostructure
-- **Toward Tunable Magnetic Dirac Semimetals: Mn Doping of Cd$_3$As$_2$**
-  - Authors: Anthony D. Rice, Ian Leahy, Herve Ness, Andrew G. Norman, Karen N. Heinselman, Chun-Sheng Jiang, David Graf, Alexey Suslov, Stephan Lany, Mark Van Schilfgaarde et al.
-  - Published: 2026-01-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18989v1) | [PDF](https://arxiv.org/pdf/2601.18989v1)
-  - Matched: thin film, epitaxy
+- **Krypton-sputtered tantalum films for scalable high-performance quantum devices**
+  - Authors: Maciej W. Olszewski, Lingda Kong, Simon Reinhardt, Daniel Tong, Xinyi Du, Gabriele Di Gianluca, Haoran Lu, Saswata Roy, Luojia Zhang, Aleksandra B. Biedron et al.
+  - Published: 2026-01-27 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20091v1) | [PDF](https://arxiv.org/pdf/2601.20091v1)
+  - Matched: thin film, deposition
+- **A Surface-Scaffolded Molecular Qubit**
+  - Authors: Tian-Xing Zheng, M. Iqbal Bakti Utama, Xingyu Gao, Moumita Kar, Xiaofei Yu, Sungsu Kang, Hanyan Cai, Tengyang Ruan, David Ovetsky, Uri Zvi et al.
+  - Published: 2026-01-27 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2601.19976v1) | [PDF](https://arxiv.org/pdf/2601.19976v1)
+  - Matched: 2d material, hbn
 
 ---
 

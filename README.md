@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-28  
-**Daily archive:** `digests/2026-01-28.md`  
+**Last update:** 2026-01-29  
+**Daily archive:** `digests/2026-01-29.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,76 +50,66 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Atomic imaging of 2D transition metal dihalides**
-  - Authors: Wendong Wang, Gareth R. M Tainton, Nick Clark, James G. McHugh, Xue Li, Sam Sullivan-Allsop, David G. Hopkinson, Oldrich Cicvarek, Francisco Selles, Rui Zhang et al.
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19796v1) | [PDF](https://arxiv.org/pdf/2601.19796v1)
+- **Impact of O concentration on the thermal stability and decomposition mechanism of (Cr,Al)N compared to (Ti,Al)N thin films**
+  - Authors: Pauline Kümmerl, Ganesh Kumar Nayak, Felix Leinenbach, Zsolt Czigány, Daniel Primetzhofer, Szilárd Kolozsvári, Peter Polcik, Marcus Hans, Jochen M. Schneider
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20691v1) | [PDF](https://arxiv.org/pdf/2601.20691v1)
+  - Matched: thin film
+- **Exchange-dominated origin of spin-wave nonreciprocity in planar magnetic multilayers**
+  - Authors: Claudia Negrete, Attila Kákay, Jorge A. Otálora
+  - Published: 2026-01-28 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20636v1) | [PDF](https://arxiv.org/pdf/2601.20636v1)
   - Matched: heterostructure
-- **Revealing the (111) surface electronic structure of epitaxially grown Na$_2$KSb photocathode**
-  - Authors: N. Yu. Solovova, V. A. Golyashov, S. V. Eremeev, S. Yu. Priobrazhenskii, S. P. Lebedev, A. A. Lebedev, V. S. Rusetsky, O. E. Tereshchenko
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19652v1) | [PDF](https://arxiv.org/pdf/2601.19652v1)
-  - Matched: graphene, deposition, cvd
-- **Lanthanide-Dependent Clustering in Yb$^{3+}$/Ln$^{3+}$ Co-Doped CaF$_2$ Nanocrystals: Correlating Spectroscopic Signatures with DFT Insights**
-  - Authors: Sangeetha Balabhadra, Haoming Xu, Jiajia Cai, Chang-Kui Duan, Michael F. Reid, Jon-Paul R. Wells
-  - Published: 2026-01-27 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19566v1) | [PDF](https://arxiv.org/pdf/2601.19566v1)
-  - Matched: nanomaterial, nanoparticles
+- **Epitaxial Ni/Cu Superlattice Nanowires with Atomically Sharp Interfaces for Spin Transport**
+  - Authors: Janez Zavašnik, Sama Derakshan-Nejad, Maryam Ghaffari, Amir Hassan Montazer, Mohammad Reza Mardaneh, Mohammad Almasi Kashi, Alexandre Nomine, Stephane Mangin, Uroš Cvelbar
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20497v1) | [PDF](https://arxiv.org/pdf/2601.20497v1)
+  - Matched: epitaxy
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **Magnetization Plateaus in the Spin-Orbit Coupled Bilayer Triangular Lattice Antiferromagnet Rb2Co2(SeO3)3**
-  - Authors: Shengzhi Zhang, Gabriel Silva Freitas, Vivien S. Zapf, Minseong Lee, Wonjune Choi, Shi-Zeng Lin, Tong Chen, Collin Broholm, Xianghan Xu, Robert J. Cava et al.
-  - Published: 2026-01-27 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19882v1) | [PDF](https://arxiv.org/pdf/2601.19882v1)
-  - Matched: sic
-- **Interband State Transfer in Double-Gated Bilayer Graphene at High Electric Field**
-  - Authors: Margherita Melegari, Brian Skinner, Ignacio Gutierrez-Lezama, Alberto F. Morpurgo
-  - Published: 2026-01-27 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19869v1) | [PDF](https://arxiv.org/pdf/2601.19869v1)
-  - Matched: transistor, sic
-- **Robust Covariance-Based DoA Estimation under Weather-Induced Distortion**
-  - Authors: Chenyang Yan, Geert Leus, Mats Bengtsson
-  - Published: 2026-01-27 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19623v1) | [PDF](https://arxiv.org/pdf/2601.19623v1)
-  - Matched: sic
+- **Fingerprinting superconductors by disentangling Andreev and quasiparticle currents across tunable tunnel junctions**
+  - Authors: Petro Maksymovych, Sang Yong Song, Benjamin Lawrie, Wonhee Ko, Jose L. Lado
+  - Published: 2026-01-28 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20798v1) | [PDF](https://arxiv.org/pdf/2601.20798v1)
+  - Matched: tunneling
+- **Manipulating ferroelectricity without electrical bias: A perspective**
+  - Authors: Bixin Yan, Valentine Gillioz, Ipek Efe, Morgan Trassin
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20703v1) | [PDF](https://arxiv.org/pdf/2601.20703v1)
+  - Matched: ferroelectric, sic
+- **Topological Polar Textures in Freestanding Ultrathin Ferroelectric Oxides**
+  - Authors: Franco N. Di Rino, Tim Verhagen
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20534v1) | [PDF](https://arxiv.org/pdf/2601.20534v1)
+  - Matched: ferroelectric
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-- **Engineering Quantum Emission with Mie Voids**
-  - Authors: Yuchao Fu, Ilia Lykov, Sergejs Boroviks, Nai-Quan Zhu, Tianyue Li, Siarhei Zavatski, Makhlad Chahid, Olivier J. F. Martin
-  - Published: 2026-01-27 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19420v1) | [PDF](https://arxiv.org/pdf/2601.19420v1)
-  - Matched: yield
-- **Configurable p-Neurons Using Modular p-Bits**
-  - Authors: Saleh Bunaiyan, Mohammad Alsharif, Abdelrahman S. Abdelrahman, Hesham ElSawy, Suraj S. Cheema, Suhaib A. Fahmy, Kerem Y. Camsari, Feras Al-Dirini
-  - Published: 2026-01-26 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2601.18943v1) | [PDF](https://arxiv.org/pdf/2601.18943v1)
-  - Matched: cmos
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Design Principles for Tailoring Heat Transport via Iris-Gated Core-Double-Shell Nanoparticles in the Context of Photothermal Therapies**
-  - Authors: Javier González-Colsa, Fernando Bresme, Pablo Albella
-  - Published: 2026-01-27 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19646v1) | [PDF](https://arxiv.org/pdf/2601.19646v1)
-  - Matched: photonics, led
-- **Design of RIS-aided mMTC+ Networks for Rate Maximization under the Finite Blocklength Regime with Imperfect Channel Knowledge**
-  - Authors: Sergi Liesegang, Antonio Pascual-Iserte, Olga Muñoz, Alessio Zappone
-  - Published: 2026-01-27 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19523v1) | [PDF](https://arxiv.org/pdf/2601.19523v1)
-  - Matched: led
-- **Electrically pumped AlGaN edge-emitting UV-B laser diodes grown by molecular beam epitaxy**
-  - Authors: Huabin Yu, Shubham Mondal, Rui Shen, Md Tanvir Hasan, David He, Jiangnan Liu, Samuel Yang, Minming He, Omar Alkhazragi, Danhao Wang et al.
-  - Published: 2026-01-27 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19201v1) | [PDF](https://arxiv.org/pdf/2601.19201v1)
-  - Matched: photonics, optoelectronics, waveguide, laser
+- **Multi-Mode Pinching Antenna Systems Enabled Multi-User Communications**
+  - Authors: Xiaoxia Xu, Xidong Mu, Yuanwei Liu, Arumugam Nallanathan
+  - Published: 2026-01-28 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20780v1) | [PDF](https://arxiv.org/pdf/2601.20780v1)
+  - Matched: waveguide, led
+- **Millisecond spin coherence of electrons in semiconducting perovskites revealed by spin mode locking**
+  - Authors: Sergey R. Meliakov, Evgeny A. Zhukov, Vasilii V. Belykh, Dmitri R. Yakovlev, Bekir Turedi, Maksym V. Kovalenko, Manfred Bayer
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20768v1) | [PDF](https://arxiv.org/pdf/2601.20768v1)
+  - Matched: laser, led
+- **Multiscale Numerical Modelling of Ultrafast Laser-Matter Interactions: Maxwell Two Temperature Model Molecular Dynamics (M-TTM-MD)**
+  - Authors: Othmane Benhayoun, Martin E. Garcia
+  - Published: 2026-01-28 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20763v1) | [PDF](https://arxiv.org/pdf/2601.20763v1)
+  - Matched: laser, led
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
@@ -135,16 +125,11 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **Development of Low-Noise Two-stage dc-SQUID for TES Detector Readout**
-  - Authors: Nan Li, Mengjie Song, Sixiao Hu, Wentao Wu, Songqing Liu, Tangchong Kuang, Yudong Gu, Xiangxiang Ren, Xufang Li, He Gao et al.
-  - Published: 2026-01-27 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19565v1) | [PDF](https://arxiv.org/pdf/2601.19565v1)
-  - Matched: noise
-- **Development of Electroformed X-ray Optics Bridging Synchrotron Technology and Space Astronomy**
-  - Authors: Ryuto Fujii, Koki Sakuta, Kazuki Ampuku, Yusuke Yoshida, Makoto Yoshihara, Ayumu Takigawa, Keitoku Yoshihira, Tetsuo Kano, Naoki Ishida, Noriyuki Narukage et al.
-  - Published: 2026-01-27 | Category: `astro-ph.IM`
-  - Links: [arXiv](https://arxiv.org/abs/2601.19188v1) | [PDF](https://arxiv.org/pdf/2601.19188v1)
-  - Matched: degradation, aging
+- **VersaQ-3D: A Reconfigurable Accelerator Enabling Feed-Forward and Generalizable 3D Reconstruction via Versatile Quantization**
+  - Authors: Yipu Zhang, Jintao Cheng, Xingyu Liu, Zeyu Li, Carol Jingyi Li, Jin Wu, Lin Jiang, Yuan Xie, Jiang Xu, Wei Zhang
+  - Published: 2026-01-28 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2601.20317v1) | [PDF](https://arxiv.org/pdf/2601.20317v1)
+  - Matched: aging
 - _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
 <!-- END TODAY -->
 
