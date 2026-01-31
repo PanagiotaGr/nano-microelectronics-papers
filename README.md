@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-01-30  
-**Daily archive:** `digests/2026-01-30.md`  
+**Last update:** 2026-01-31  
+**Daily archive:** `digests/2026-01-31.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,77 +50,22 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Metal Halide Perovskites for Violet and Ultraviolet Light Emission**
-  - Authors: Sebastian Fernández, Manchen Hu, Tyler K. Colenbrander, Divine Mbachu, Daniel N. Congreve
-  - Published: 2026-01-29 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21270v1) | [PDF](https://arxiv.org/pdf/2601.21270v1)
-  - Matched: nanomaterial, thin film
-- **Interacting type-II semi-Dirac quasiparticles**
-  - Authors: Mohamed M. Elsayed, Taras I. Lakoba, Valeri N. Kotov
-  - Published: 2026-01-28 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21098v1) | [PDF](https://arxiv.org/pdf/2601.21098v1)
-  - Matched: heterostructure
-- _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
+_No matches today._
 
 
 ### Nano/Microelectronic Devices
 
-- **Designing quantum technologies with a quantum computer**
-  - Authors: Juan Naranjo, Thi Ha Kyaw, Gaurav Saxena, Kevin Ferreira, Jack S. Baker
-  - Published: 2026-01-29 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2601.22091v1) | [PDF](https://arxiv.org/pdf/2601.22091v1)
-  - Matched: sic
-- **Intrinsic Nonlinear Gyrotropic Magnetic Effect Governed by Spin-Rotation Quantum Geometry**
-  - Authors: Neelanjan Chakraborti, Snehasish Nandy, Sudeep Kumar Ghosh
-  - Published: 2026-01-29 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.22019v1) | [PDF](https://arxiv.org/pdf/2601.22019v1)
-  - Matched: sic
-- **Rapid high-temperature initialisation and readout of spins in silicon with 10 THz photons**
-  - Authors: Aidan G. McConnell, Nils Dessmann, Wojciech Adamczyk, Benedict N. Murdin, Lorenzo Amato, Nikolay V. Abrosimov, Sergey G. Pavlov, Gabriel Aeppli, Guy Matmon
-  - Published: 2026-01-29 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21880v1) | [PDF](https://arxiv.org/pdf/2601.21880v1)
-  - Matched: sic
-- _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
+_No matches today._
 
 
 ### CMOS, Process & Fabrication
 
-- **Fabrication effects on Niobium oxidation and surface contamination in Niobium-metal bilayers using X-ray photoelectron spectroscopy**
-  - Authors: Tathagata Banerjee, Maciej W. Olszewski, Valla Fatemi
-  - Published: 2026-01-29 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21953v1) | [PDF](https://arxiv.org/pdf/2601.21953v1)
-  - Matched: annealing
-- **Transferable mechanism of perpendicular magnetic anisotropy switching by hole doping in V$X_2$ ($X$=Te, Se, S) monolayers**
-  - Authors: John Lawrence Euste, Maha Hsouna, Nataša Stojić
-  - Published: 2026-01-29 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21322v1) | [PDF](https://arxiv.org/pdf/2601.21322v1)
-  - Matched: doping
-- **A Time-Domain Dual-Edge Asynchronous Pipelined SAR ADC Featuring Reset-Free Quantization at Multi-GS/s**
-  - Authors: Richard Zeng, Anthony Chan Carusone, Xilin Liu
-  - Published: 2026-01-29 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21308v1) | [PDF](https://arxiv.org/pdf/2601.21308v1)
-  - Matched: cmos
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Magnetic texture modulated superconductivity in superconductor/ferromagnet shells of semiconductor nanowires**
-  - Authors: Nabhanila Nandi, Juan Carlos Estrada Saldaña, Alexandros Vekris, Michelle Turley, Irene P. Zhang, Yu Liu, Mario Castro, Martin Bjergfelt, Sabbir A. Khan, Sebastián Allende et al.
-  - Published: 2026-01-29 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.22051v1) | [PDF](https://arxiv.org/pdf/2601.22051v1)
-  - Matched: led
-- **Photonic Links for Spin-Based Quantum Sensors**
-  - Authors: M. Reefaz Rahman, Karsten Schnier, Ryan Goldsmith, Benjamin J. Lawrie, Joseph M. Lukens, Seongsin M. Kim, Patrick Kung
-  - Published: 2026-01-29 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2601.22011v1) | [PDF](https://arxiv.org/pdf/2601.22011v1)
-  - Matched: laser
-- **Deeply nonlinear magnon-photon hybrid excitation**
-  - Authors: Dinesh Wagle, Anish Rai, M. Benjamin Jungfleisch
-  - Published: 2026-01-29 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2601.21549v1) | [PDF](https://arxiv.org/pdf/2601.21549v1)
-  - Matched: led
-- _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
+_No matches today._
 
 
 ### MEMS/NEMS & Sensors
@@ -130,12 +75,7 @@ _No matches today._
 
 ### Energy & Power Materials (Micro/Nano)
 
-- **MEIDNet: Multimodal generative AI framework for inverse materials design**
-  - Authors: Anand Babu, Rogério Almeida Gouvêa, Pierre Vandergheynst, Gian-Marco Rignanese
-  - Published: 2026-01-29 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2601.22009v1) | [PDF](https://arxiv.org/pdf/2601.22009v1)
-  - Matched: perovskite
-- _(See full topic page: [Energy & Power Materials (Micro/Nano)](topics/energy-power-materials-micro-nano.md))_
+_No matches today._
 
 
 ### Reliability, Modeling & TCAD
