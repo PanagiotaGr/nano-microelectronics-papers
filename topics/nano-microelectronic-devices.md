@@ -1,60 +1,70 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-02-04
+**Last update:** 2026-02-05
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Classical Benchmarks of a Symmetry-Adapted Variational Quantum Eigensolver for Real-Time Green's Functions in Dynamical Mean-Field Theory**
-  - Authors: Aadi Singh, Chakradhar Rangi, Ka-Ming Tam
-  - Published: 2026-02-03 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03843v1) | [PDF](https://arxiv.org/pdf/2602.03843v1)
-  - Matched: sic
-- **Transformation front kinetics in deformable ferromagnets**
-  - Authors: Michael Poluektov
-  - Published: 2026-02-03 | Category: `physics.comp-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03745v1) | [PDF](https://arxiv.org/pdf/2602.03745v1)
-  - Matched: sic
-- **Ab initio Phase Diagram of Ta2O5**
-  - Authors: Yan Gong, Huimin Tang, Yong Yang, Yoshiyuki Kawazoe
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03649v1) | [PDF](https://arxiv.org/pdf/2602.03649v1)
-  - Matched: sic
-- **Probing quantum geometric nonlinear magnetization via second-harmonic magneto-optical Kerr effect**
-  - Authors: Xuan Qian, Xiao-Bin Qiang, Wenkai Zhu, Yuqing Huang, Yiyuan Chen, Hai-Zhou Lu, Yang Ji, Kaiyou Wang
-  - Published: 2026-02-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03636v1) | [PDF](https://arxiv.org/pdf/2602.03636v1)
-  - Matched: sic
-- **Towards Polyoxometalate Nanoelectronics**
-  - Authors: Dominique Vuillaume, Anna Proust
-  - Published: 2026-02-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03512v1) | [PDF](https://arxiv.org/pdf/2602.03512v1)
-  - Matched: neuromorphic device, gan
-- **Nanoscale spin-wave frequency-selective limiter for 5G technology**
-  - Authors: Kristýna Davídková, Khrystyna Levchenko, Florian Bruckner, Roman Verba, Fabian Majcen, Qi Wang, Morris Lindner, Carsten Dubs, Vincent Vlaminck, Jan Klíma et al.
-  - Published: 2026-02-03 | Category: `cond-mat.other`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03443v1) | [PDF](https://arxiv.org/pdf/2602.03443v1)
-  - Matched: sic
-- **Acceleration of Atomistic NEGF: Algorithms, Parallelization, and Machine Learning**
-  - Authors: Mathieu Luisier, Nicolas Vetsch, Alexander Maeder, Vincent Maillou, Anders Winka, Leonard Deuschle, Chen Hao Xia, Manasa Kaniselvan, Marko Mladenovic, Jiang Cao et al.
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.03438v1) | [PDF](https://arxiv.org/pdf/2602.03438v1)
+- **Real and momentum space analysis of topological phases in 2D d-wave altermagnets**
+  - Authors: Manuel Calixto
+  - Published: 2026-02-04 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04854v1) | [PDF](https://arxiv.org/pdf/2602.04854v1)
   - Matched: transistor
-- **Ferroelectric dynamic-field-driven nucleation and growth model for predictive materials-to-circuit co-design**
-  - Authors: Yi Liang, Tony Chiang, Megan K. Lenox, John J. Plombon, Jon F. Ihlefeld, Wenhao Sun, John T. Heron
-  - Published: 2026-02-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.02957v1) | [PDF](https://arxiv.org/pdf/2602.02957v1)
-  - Matched: ferroelectric
-- **Revealing Short- and Long-range Li-ion diffusion in Li$_2$MnO$_3$ from finite-temperature dynamical mean field theory**
-  - Authors: Alex Taekyung Lee, Kristin A. Persson, Anh T. Ngo
-  - Published: 2026-02-02 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.02807v1) | [PDF](https://arxiv.org/pdf/2602.02807v1)
+- **Safe-NEureka: a Hybrid Modular Redundant DNN Accelerator for On-board Satellite AI Processing**
+  - Authors: Riccardo Tedeschi, Luigi Ghionda, Alessandro Nadalini, Yvan Tortorella, Arpan Suravi Prasad, Luca Benini, Davide Rossi, Francesco Conti
+  - Published: 2026-02-04 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04803v1) | [PDF](https://arxiv.org/pdf/2602.04803v1)
+  - Matched: fet
+- **Dicke Superradiance in Extended 2D Quantum Arrays Coupled to Metasurface Bound States in the Continuum**
+  - Authors: Daniel Eyles, Emmanuel Lassalle, Adam Stokes, Ahsan Nazir, Ramón Paniagua-Domínguez
+  - Published: 2026-02-04 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04627v1) | [PDF](https://arxiv.org/pdf/2602.04627v1)
   - Matched: sic
-- **Single-Emitter Spectra from an Ensemble**
-  - Authors: Jonah R. Horowitz, Oliver J. Tye, Oliver M. Nix, Shaun Tan, Hogeun Chang, Jihyun Min, Taehyung Kim, Moungi G. Bawendi
-  - Published: 2026-02-02 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.02757v1) | [PDF](https://arxiv.org/pdf/2602.02757v1)
+- **Scalable platform enabling reservoir computing with nanoporous oxide memristors for image recognition and time series prediction**
+  - Authors: Joshua Donald, Ben A. Johnson, Amir Mehrnejat, Alex Gabbitas, Arthur G. T. Coveney, Alexander G. Balanov, Sergey Savel'ev, Pavel Borisov
+  - Published: 2026-02-04 | Category: `cond-mat.dis-nn`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04619v1) | [PDF](https://arxiv.org/pdf/2602.04619v1)
+  - Matched: memristor, sic
+- **Doberman: a modular and distributed slow control system for small- to medium-scale experiments**
+  - Authors: Jaron Grigat, Darryl Masson, Marc Schumann
+  - Published: 2026-02-04 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04580v1) | [PDF](https://arxiv.org/pdf/2602.04580v1)
+  - Matched: sic
+- **Electronic States, Spin-Orbit Coupling and Magnetism in Germanium 60° Dislocations**
+  - Authors: Veronica Regazzoni, Fabrizio Rovaris, Anna Marzegalli, Francesco Montalenti, Emilio Scalise
+  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04469v1) | [PDF](https://arxiv.org/pdf/2602.04469v1)
+  - Matched: sic
+- **Organic Hydrogen Sensors for Potential Use in Safety-Critical Environments**
+  - Authors: Annika Morgenstern, Lucas Viriato, Frank Ortmann, Christopher Bickmann, Lukas Hertling, Dominik Weber, Dietrich R. T. Zahn, Karla Hiller, Thomas v. Unwerth, Daniel Schondelmaier et al.
+  - Published: 2026-02-04 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04434v1) | [PDF](https://arxiv.org/pdf/2602.04434v1)
+  - Matched: fet, gan
+- **Flexocurrent-induced magnetization: Strain gradient-induced magnetization in time-reversal symmetric systems**
+  - Authors: Shinnosuke Koyama, Takashi Koretsune, Kazumasa Hattori
+  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04362v1) | [PDF](https://arxiv.org/pdf/2602.04362v1)
+  - Matched: sic
+- **Dynamics of Long-lived Carriers in Molybdenum Carbide Nanosheets**
+  - Authors: Xiangyu Zhu, Zhong Wang, Tao Li, Xi Wang, Zheng Zhang, Chunlong Hu, Kaifu Huo, Wenxi Liang
+  - Published: 2026-02-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04327v1) | [PDF](https://arxiv.org/pdf/2602.04327v1)
+  - Matched: fet
+- **Advanced Superdirective Antennas**
+  - Authors: Alex Krasnok
+  - Published: 2026-02-04 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04121v1) | [PDF](https://arxiv.org/pdf/2602.04121v1)
+  - Matched: sic
+- **A Comparative Study of Digital Memristor-Based Processing-In-Memory from a Device and Reliability Perspective**
+  - Authors: Thomas Neuner, Henriette Padberg, Lior Kornblum, Eilam Yalon, Pedram Khalili Amiri, Shahar Kvatinsky
+  - Published: 2026-02-03 | Category: `cs.ET`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04035v1) | [PDF](https://arxiv.org/pdf/2602.04035v1)
+  - Matched: rram, memristor
+- **A Multi-Modal Foundational Model for Wireless Communication and Sensing**
+  - Authors: Vahid Yazdnian, Yasaman Ghasempour
+  - Published: 2026-02-03 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.04016v1) | [PDF](https://arxiv.org/pdf/2602.04016v1)
   - Matched: sic
 
 ---
