@@ -1,6 +1,6 @@
 # Energy & Power Materials (Micro/Nano)
 
-**Last update:** 2026-02-09
+**Last update:** 2026-02-10
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
