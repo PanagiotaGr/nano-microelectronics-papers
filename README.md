@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-10  
-**Daily archive:** `digests/2026-02-10.md`  
+**Last update:** 2026-02-11  
+**Daily archive:** `digests/2026-02-11.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,81 +50,76 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Heterogeneous Optically-Detected Spin-Acoustic Resonance in Solid-State Molecular Thin-film**
-  - Authors: Kuan-Cheng Chen, Yongqiang Wen, Xiaotian Xu, Max Attwood, Jingdong Xu, Chen Fu, Sami Ramadan, Shang Yu, Sandrine Heutz, Mark Oxborrow
-  - Published: 2026-02-09 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08772v1) | [PDF](https://arxiv.org/pdf/2602.08772v1)
+- **Thin-Film-Engineered Self-Assembly of 3D Coaxial Microfluidics with a Tunable Polyimide Membrane for Bioelectronic Power**
+  - Authors: Aleksandr I. Egunov, Hongmei Tang, Pablo E. Saenz, Dmitriy D. Karnaushenko, Yumin Luo, Chao Zhong, Xinyu Wang, Yang Huang, Pavel Fedorov, Minshen Zhu et al.
+  - Published: 2026-02-10 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09981v1) | [PDF](https://arxiv.org/pdf/2602.09981v1)
+  - Matched: thin film, self-assembly
+- **Relativistic Effects in LaBi$_2$ Thin Films**
+  - Authors: Reiley Dorrian, Sungmin Song, Jinwoong Kim, Mizuki Ohno, Seung-Hoon Jhi, Nicholas Kioussis, Joseph Falson
+  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09975v1) | [PDF](https://arxiv.org/pdf/2602.09975v1)
   - Matched: thin film
-- **Phase behavior and electrical transport in DBTTF-HATCN donor-acceptor mixtures**
-  - Authors: Andreas Opitz, Hongwon Kim, Dmitry Lapkin, Gianfranco Melis, Ainur Abukaev, Marie Siegert, Lennart Frohloff, Lisa Schraut-May, Oleg Konovalov, Alexander Hinderhofer et al.
-  - Published: 2026-02-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08627v1) | [PDF](https://arxiv.org/pdf/2602.08627v1)
-  - Matched: thin film
-- **Highly Polarized and Long Range Dissipationless Spin Transport Due to Counterflowing Electron and Hole Edge Channels**
-  - Authors: Maxen Cosset-Chéneau, Boxuan Yang, Bart J. van Wees
-  - Published: 2026-02-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08386v1) | [PDF](https://arxiv.org/pdf/2602.08386v1)
+- **Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials**
+  - Authors: Zekun Lou, Alan M. Lewis, Mariana Rossi
+  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09938v1) | [PDF](https://arxiv.org/pdf/2602.09938v1)
   - Matched: graphene
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **AMS-HD: Hyperdimensional Computing for Real-Time and Energy-Efficient Acute Mountain Sickness Detection**
-  - Authors: Abu Masum, Mehran Moghadam, M. Hassan Najafi, Bige Unluturk, Ulkuhan Guler, Sercan Aygun
-  - Published: 2026-02-09 | Category: `cs.SC`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08916v1) | [PDF](https://arxiv.org/pdf/2602.08916v1)
+- **Conceptual Design of a Novel Highly Granular Crystal Electromagnetic Calorimeter for Future Higgs Factories**
+  - Authors: Baohua Qi, Fangyi Guo, Yong Liu, Manqi Ruan, Weizheng Song, Shengsen Sun, Yifang Wang, Yuexin Wang, Haijun Yang, Yang Zhang et al.
+  - Published: 2026-02-10 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09836v1) | [PDF](https://arxiv.org/pdf/2602.09836v1)
   - Matched: sic
-- **Flash annealing-engineered wafer-scale relaxor antiferroelectrics for enhanced energy storage performance**
-  - Authors: Yizhuo Li, Kepeng Song, Meixiong Zhu, Xiaoqi Li, Zhaowei Zeng, KangMing Luo, Yuxuan Jiang, Zhe Zhang, Cuihong Li, Yujia Wang et al.
-  - Published: 2026-02-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08841v1) | [PDF](https://arxiv.org/pdf/2602.08841v1)
-  - Matched: ferroelectric
-- **Germanium Thermophotovoltaic Devices Achieving 7.3% Efficiency Under High-Temperature Emission by Empirical Calorimetry**
-  - Authors: A. M. Medrano, E. Lopez, Pablo Garcia-Linares, J. Villa, M. Gamel, M. Garin, I. Martin, C. Canizo, A. Datas
-  - Published: 2026-02-09 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08761v1) | [PDF](https://arxiv.org/pdf/2602.08761v1)
-  - Matched: gaa
+- **High-Harmonic Spin and Charge Pumping in Altermagnets**
+  - Authors: Ousmane Ly
+  - Published: 2026-02-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09738v1) | [PDF](https://arxiv.org/pdf/2602.09738v1)
+  - Matched: sic
+- **Field-material coupled neural network: A novel prior-free and data-free inverse problem solver for extracting complex dielectric constant in terahertz band**
+  - Authors: Pengfei Zhu, Xavier Maldague
+  - Published: 2026-02-10 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09647v1) | [PDF](https://arxiv.org/pdf/2602.09647v1)
+  - Matched: sic
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-- **Estimation of Fish Catch Using Sentinel-2, 3 and XGBoost-Kernel-Based Kernel Ridge Regression**
-  - Authors: Kanu Mohammed, Vaishnavi Joshi, Pranjali Diliprao Patil, Sandipan Mondal, Ming-An Lee, Subhadip Dey
-  - Published: 2026-02-09 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08511v1) | [PDF](https://arxiv.org/pdf/2602.08511v1)
-  - Matched: variability
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Emergent altermagnetism at surfaces of antiferromagnets: full symmetry classification and material identification**
-  - Authors: Colin Lange, Rodrigo Jaeschke-Ubiergo, Atasi Chakraborty, Xanthe H. Verbeek, Libor Šmejkal, Jairo Sinova, Alexander Mook
-  - Published: 2026-02-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08773v1) | [PDF](https://arxiv.org/pdf/2602.08773v1)
-  - Matched: led
-- **First-principles discovery of stable, anisotropic, semiconducting Sb2X2O (X = S, Se) and Janus Sb2SSeO nanosheets for optoelectronics and photocatalysis**
-  - Authors: Masoud Shahrokhi, Bohayra Mortazavi
-  - Published: 2026-02-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08622v1) | [PDF](https://arxiv.org/pdf/2602.08622v1)
-  - Matched: optoelectronics
-- **Magnon confinement and trapping at the nanoscale**
-  - Authors: J. Chen, H. Yu, R. Gallardo, P. Landeros, G. Gubbiotti
-  - Published: 2026-02-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08587v1) | [PDF](https://arxiv.org/pdf/2602.08587v1)
-  - Matched: waveguide
+- **Nonreciprocal lensing and backscattering suppression via magneto-optical nonlocality**
+  - Authors: Dmitry Vagin, Maxim A. Gorlach
+  - Published: 2026-02-10 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.10038v1) | [PDF](https://arxiv.org/pdf/2602.10038v1)
+  - Matched: photonics, metamaterial
+- **Probing Internal Dynamics of Spatiotemporal Optical Vortex Strings: Spatiotemporal Attraction and Filament Stretching**
+  - Authors: Xiuyu Yao, Xuechen Gao, Ping Zhu, Jintao Fan, Jingwen Ran, Zezhao Gong, Dongjun Zhang, Xiao Liang, Xuejie Zhang, Meizhi Sun et al.
+  - Published: 2026-02-10 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09941v1) | [PDF](https://arxiv.org/pdf/2602.09941v1)
+  - Matched: photonics, led
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
 ### MEMS/NEMS & Sensors
 
-- **The CAPSARII Approach to Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring**
-  - Authors: Luciano Bozzi, Christian Celidonio, Umberto Nuzzi, Massimo Biagini, Stefano Cherubin, Asbjørn Djupdal, Tor Andre Haugdahl, Andrea Aliverti, Alessandra Angelucci, Giovanni Agosta et al.
-  - Published: 2026-02-08 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08080v1) | [PDF](https://arxiv.org/pdf/2602.08080v1)
-  - Matched: wearable
+- **Field-Dependent Qubit Flux Noise Simulated from Materials-Specific Disordered Exchange Interactions Between Paramagnetic Adsorbates**
+  - Authors: Keith G. Ray, Yaniv Rosen, Jonathan L Dubois, Vincenzo Lordi
+  - Published: 2026-02-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09471v1) | [PDF](https://arxiv.org/pdf/2602.09471v1)
+  - Matched: resonator
+- **AI-Driven Cardiorespiratory Signal Processing: Separation, Clustering, and Anomaly Detection**
+  - Authors: Yasaman Torabi
+  - Published: 2026-02-09 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.09210v1) | [PDF](https://arxiv.org/pdf/2602.09210v1)
+  - Matched: mems, biosensor
 - _(See full topic page: [MEMS/NEMS & Sensors](topics/mems-nems-sensors.md))_
 
 
@@ -135,12 +130,7 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **Optimizing Spectral Prediction in MXene-Based Metasurfaces Through Multi-Channel Spectral Refinement and Savitzky-Golay Smoothing**
-  - Authors: Shujaat Khan, Waleed Iqbal Waseer
-  - Published: 2026-02-09 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.08406v1) | [PDF](https://arxiv.org/pdf/2602.08406v1)
-  - Matched: noise
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
