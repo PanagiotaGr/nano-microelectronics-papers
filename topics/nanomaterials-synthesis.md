@@ -1,71 +1,41 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-11
+**Last update:** 2026-02-12
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Thin-Film-Engineered Self-Assembly of 3D Coaxial Microfluidics with a Tunable Polyimide Membrane for Bioelectronic Power**
-  - Authors: Aleksandr I. Egunov, Hongmei Tang, Pablo E. Saenz, Dmitriy D. Karnaushenko, Yumin Luo, Chao Zhong, Xinyu Wang, Yang Huang, Pavel Fedorov, Minshen Zhu et al.
-  - Published: 2026-02-10 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09981v1) | [PDF](https://arxiv.org/pdf/2602.09981v1)
-  - Matched: thin film, self-assembly
-- **Relativistic Effects in LaBi$_2$ Thin Films**
-  - Authors: Reiley Dorrian, Sungmin Song, Jinwoong Kim, Mizuki Ohno, Seung-Hoon Jhi, Nicholas Kioussis, Joseph Falson
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09975v1) | [PDF](https://arxiv.org/pdf/2602.09975v1)
-  - Matched: thin film
-- **Long-Range Machine Learning of Electron Density for Twisted Bilayer Moiré Materials**
-  - Authors: Zekun Lou, Alan M. Lewis, Mariana Rossi
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09938v1) | [PDF](https://arxiv.org/pdf/2602.09938v1)
+- **Floquet Control of Electron and Exciton Transport in Kekulé-Distorted Graphene**
+  - Authors: Sita Kandel, Godfrey Gumbs
+  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11119v1) | [PDF](https://arxiv.org/pdf/2602.11119v1)
   - Matched: graphene
-- **Exciton fine structure in CdSe nanoplatelets using a quasi-2D screened configuration-interaction framework**
-  - Authors: Sumanti Patra, Gabriel Bester
+- **Interlayer-mediated catalyst engineering for ultra-high aspect ratio silicon nanostructures**
+  - Authors: Bryan Peter Jost Benz, Marco Stampanoni, Lucia Romano
+  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.10860v1) | [PDF](https://arxiv.org/pdf/2602.10860v1)
+  - Matched: deposition
+- **Ferroelectric Quantum Point Contact in Twisted Transition Metal Dichalcogenides**
+  - Authors: Wei Ren, Shiyu Guo, Daochen Long, Noah Friedman, Jingyuan Xian, David Li, Jack Tavakley, Jeongsoo Park, Kenji Watanabe, Takashi Taniguchi et al.
+  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.10554v1) | [PDF](https://arxiv.org/pdf/2602.10554v1)
+  - Matched: quantum dot, mos2
+- **Probing Plasmonic Oscillations in 2D Moiré Nanocrystal Superlattices by Low-Loss EELS**
+  - Authors: Swarnendu Das, Shengsong Yang, Kevin N. Moser, Marc R. Bourgeois, Quentin M. Ramasse, David J. Masiello, Christopher B. Murray, Eric A. Stach
+  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.10534v1) | [PDF](https://arxiv.org/pdf/2602.10534v1)
+  - Matched: 2d material, self-assembly
+- **Biaxial Strain Control of Helimagnetism via Chemical Expansion in Thin Film SrFeO3**
+  - Authors: Jennifer Fowlie, Jiarui Li, Danilo Puggioni, Lucas Barreto, Lin Ding Yuan, James M. Rondinelli, Ronny Sutarto, Teak D. Boyko, Fabio Orlandi, Pascal Manuel et al.
   - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09844v1) | [PDF](https://arxiv.org/pdf/2602.09844v1)
-  - Matched: nanomaterial
-- **Nodal-Surface and Flat-Band Driven Large Anomalous Nernst Effect in Epitaxial Ferromagnetic Weyl Metal Fe5Si3**
-  - Authors: Shubhashish Pati, Sonali Srotaswini Pradhan, Nanhe Kumar Gupta, Abhay Pandey, Nikita Sharma, Nakul Kumar, Saurav Singh, Yuya Sakuraba, V. Kanchana, Sujeet Chaudhary
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09460v1) | [PDF](https://arxiv.org/pdf/2602.09460v1)
+  - Links: [arXiv](https://arxiv.org/abs/2602.10372v1) | [PDF](https://arxiv.org/pdf/2602.10372v1)
   - Matched: thin film
-- **Three-dimensional real-space electron dynamics in graphene driven by strong laser fields**
-  - Authors: S. Li, M. Tani, A. Hashmi, K. L. Ishikawa
-  - Published: 2026-02-10 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09440v1) | [PDF](https://arxiv.org/pdf/2602.09440v1)
-  - Matched: graphene
-- **Surface-State-Driven Anomalous Hall Effect in Altermagnetic MnTe Films**
-  - Authors: Ling-Jie Zhou, Zi-Jie Yan, Hongtao Rong, Yufei Zhao, Pu Xiao, Lok-Kan Lai, Zhiyuan Xi, Ke Wang, Tibendra Adhikari, Ganesh P. Tiwari et al.
+- **Device Applications of Heterogeneously Integrated Strain-Switched Ferrimagnets/Topological Insulator/Piezoelectric Stacks**
+  - Authors: Supriyo Bandyopadhyay
   - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09363v1) | [PDF](https://arxiv.org/pdf/2602.09363v1)
-  - Matched: thin film, epitaxy
-- **Interplay of Quantum Size Effect and Tensile Strain on Surface Morphology of Sn(100) Islands**
-  - Authors: Bing Xia, Xiaoyin Li, Hongyuan Chen, Bo Yang, Jie Cai, Stephen Paolini, Zihao Wang, Zi-Jie Yan, Hao Yang, Xiaoxue Liu et al.
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09361v1) | [PDF](https://arxiv.org/pdf/2602.09361v1)
-  - Matched: graphene, thin film, epitaxy
-- **How Far Can You Grow? Characterizing the Extrapolation Frontier of Graph Generative Models for Materials Science**
-  - Authors: Can Polat, Erchin Serpedin, Mustafa Kurban, Hasan Kurban
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09309v1) | [PDF](https://arxiv.org/pdf/2602.09309v1)
-  - Matched: nanomaterial
-- **Stress-Induced Ferroelectricity in Hafnium Oxide Core-Shell Nanoparticles**
-  - Authors: Anna N. Morozovska, Eugene A. Eliseev, Richard, Liu, Sergei V. Kalinin, Dean R. Evans
-  - Published: 2026-02-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09262v1) | [PDF](https://arxiv.org/pdf/2602.09262v1)
-  - Matched: nanoparticles, thin film
-- **Adsorption of Water on Pristine Graphene: A van der Waals Density Functional Study with the vdW-C09 Approach**
-  - Authors: Aline Oliveira Santos, Bruno H. S. Mendonça, Elizane E. de Moraes
-  - Published: 2026-02-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09184v1) | [PDF](https://arxiv.org/pdf/2602.09184v1)
-  - Matched: nanomaterial, graphene
-- **Coherence Protection for Mobile Spin Qubits in Silicon**
-  - Authors: Jan A. Krzywda, Yuta Matsumoto, Maxim De Smet, Larysa Tryputen, Sander L. de Snoo, Sergey V. Amitonov, Evert van Nieuwenburg, Giordano Scappucci, Lieven M. K. Vandersypen
-  - Published: 2026-02-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.09179v1) | [PDF](https://arxiv.org/pdf/2602.09179v1)
-  - Matched: quantum dot
+  - Links: [arXiv](https://arxiv.org/abs/2602.10294v1) | [PDF](https://arxiv.org/pdf/2602.10294v1)
+  - Matched: thin film
 
 ---
 
