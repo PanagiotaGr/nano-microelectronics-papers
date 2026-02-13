@@ -1,40 +1,45 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-12
+**Last update:** 2026-02-13
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Floquet Control of Electron and Exciton Transport in Kekulé-Distorted Graphene**
-  - Authors: Sita Kandel, Godfrey Gumbs
-  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11119v1) | [PDF](https://arxiv.org/pdf/2602.11119v1)
+- **Solvothermal vapor annealing and environmental control setup with adjustable magnetic field module for GISAXS studies**
+  - Authors: Christian Kjeldbjerg, Bo Jakobsen, Miriam Varón, Kim Lefmann, Cathrine Frandsen, Dorthe Posselt
+  - Published: 2026-02-12 | Category: `cond-mat.soft`
+  - Links: [arXiv](https://arxiv.org/abs/2602.12086v1) | [PDF](https://arxiv.org/pdf/2602.12086v1)
+  - Matched: thin film, self-assembly
+- **Tuning Optical Properties of FTO via Carbonaceous Al2O3 Microdot Deposition by DC plasma sputtering**
+  - Authors: Sarah Salah, Ahmed Atlam, Nagat Elkahwagy, Abdelhamid Elshaer, Mohammed Shihab
+  - Published: 2026-02-12 | Category: `physics.plasm-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11970v1) | [PDF](https://arxiv.org/pdf/2602.11970v1)
+  - Matched: deposition, sputtering
+- **Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene**
+  - Authors: Francisco Munoz, Manuel Fuenzalida, Paula Mellado, Hari C. Manoharan, Valentina Gallardo, Carolina Parra
+  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11932v1) | [PDF](https://arxiv.org/pdf/2602.11932v1)
+  - Matched: graphene, heterostructure
+- **Ordered states of undoped AB bilayer graphene: bias induced cascade of transitions**
+  - Authors: A. V. Rozhkov, A. O. Sboychakov, A. L. Rakhmanov
+  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11647v1) | [PDF](https://arxiv.org/pdf/2602.11647v1)
   - Matched: graphene
-- **Interlayer-mediated catalyst engineering for ultra-high aspect ratio silicon nanostructures**
-  - Authors: Bryan Peter Jost Benz, Marco Stampanoni, Lucia Romano
-  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10860v1) | [PDF](https://arxiv.org/pdf/2602.10860v1)
-  - Matched: deposition
-- **Ferroelectric Quantum Point Contact in Twisted Transition Metal Dichalcogenides**
-  - Authors: Wei Ren, Shiyu Guo, Daochen Long, Noah Friedman, Jingyuan Xian, David Li, Jack Tavakley, Jeongsoo Park, Kenji Watanabe, Takashi Taniguchi et al.
-  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10554v1) | [PDF](https://arxiv.org/pdf/2602.10554v1)
-  - Matched: quantum dot, mos2
-- **Probing Plasmonic Oscillations in 2D Moiré Nanocrystal Superlattices by Low-Loss EELS**
-  - Authors: Swarnendu Das, Shengsong Yang, Kevin N. Moser, Marc R. Bourgeois, Quentin M. Ramasse, David J. Masiello, Christopher B. Murray, Eric A. Stach
-  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10534v1) | [PDF](https://arxiv.org/pdf/2602.10534v1)
-  - Matched: 2d material, self-assembly
-- **Biaxial Strain Control of Helimagnetism via Chemical Expansion in Thin Film SrFeO3**
-  - Authors: Jennifer Fowlie, Jiarui Li, Danilo Puggioni, Lucas Barreto, Lin Ding Yuan, James M. Rondinelli, Ronny Sutarto, Teak D. Boyko, Fabio Orlandi, Pascal Manuel et al.
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10372v1) | [PDF](https://arxiv.org/pdf/2602.10372v1)
-  - Matched: thin film
-- **Device Applications of Heterogeneously Integrated Strain-Switched Ferrimagnets/Topological Insulator/Piezoelectric Stacks**
-  - Authors: Supriyo Bandyopadhyay
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10294v1) | [PDF](https://arxiv.org/pdf/2602.10294v1)
+- **Epitaxial Growth and Anomalous Hall Effect in High-Quality Altermagnetic $α$-MnTe Thin Films**
+  - Authors: Tian-Hao Shao, Xingze Dai, Wenyu Hu, Ming-Yuan Zhu, Yuanqiang He, Lin-He Yang, Jingjing Liu, Meng Yang, Xiang-Rui Liu, Jing-Jing Shi et al.
+  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11645v1) | [PDF](https://arxiv.org/pdf/2602.11645v1)
+  - Matched: thin film, epitaxy
+- **Quantization Mapping on Dirac Dynamics via Voltage-Driven Charge Density in Monolayer Graphene: A Klein Paradox and Entropy-Ruled Wavevector Mechanics Study**
+  - Authors: Karuppuchamy Navamani
+  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11604v1) | [PDF](https://arxiv.org/pdf/2602.11604v1)
+  - Matched: graphene
+- **Strain-Driven Altermagnetic Spin Splitting Effect in RuO$_2$**
+  - Authors: Seungjun Lee, Seung Gyo Jeong, Jian-Ping Wang, Bharat Jalan, Tony Low
+  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11602v1) | [PDF](https://arxiv.org/pdf/2602.11602v1)
   - Matched: thin film
 
 ---

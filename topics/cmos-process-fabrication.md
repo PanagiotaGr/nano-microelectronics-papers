@@ -1,21 +1,26 @@
 # CMOS, Process & Fabrication
 
-**Last update:** 2026-02-12
+**Last update:** 2026-02-13
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits**
-  - Authors: Yerzhan Mustafa, Berker Peköz, Selçuk Köse
-  - Published: 2026-02-11 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11140v1) | [PDF](https://arxiv.org/pdf/2602.11140v1)
-  - Matched: cmos
-- **A Helical-Deflector-Based Radio-Frequency Spiral Scanning System for keV Energy Electrons**
-  - Authors: Vanik Kakoyan, Simon Zhamkochyan, Vardan Bardakhchyan, Sergey Abrahamyan, Amur Margaryan, Aram Kakoyan, Hasmik Rostomyan, Anna Safaryan, Gagik Sughyan, Hayk Gevorgyan et al.
-  - Published: 2026-02-11 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10828v1) | [PDF](https://arxiv.org/pdf/2602.10828v1)
+- **Device-Circuit Co-Design of Variation-Resilient Read and Write Drivers for Antiferromagnetic Tunnel Junction (AFMTJ) Memories**
+  - Authors: Yousuf Choudhary, Tosiron Adegbija
+  - Published: 2026-02-12 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11614v1) | [PDF](https://arxiv.org/pdf/2602.11614v1)
   - Matched: yield
+- **Dynamic Dispersion Accumulation in Fiber Loops for Realizing Record-High Frequency Resolution or Ultra-Low Signal Sampling Rate in Dispersion-Based Photonics-Assisted Wideband Microwave Measurement Systems**
+  - Authors: Chi Jiang, Taixia Shi, Hang Yang, Lei Gao, Xianxin Zhang, Yiqing Liu, Yang Chen
+  - Published: 2026-02-12 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11613v1) | [PDF](https://arxiv.org/pdf/2602.11613v1)
+  - Matched: yield
+- **Metastable Dynamical Computing with Energy Landscapes: A Primer**
+  - Authors: Christian Z. Pratt, Kyle J. Ray, James P. Crutchfield
+  - Published: 2026-02-11 | Category: `cond-mat.stat-mech`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11390v1) | [PDF](https://arxiv.org/pdf/2602.11390v1)
+  - Matched: cmos
 
 ---
 

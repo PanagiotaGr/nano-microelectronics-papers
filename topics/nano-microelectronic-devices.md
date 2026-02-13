@@ -1,66 +1,61 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-02-12
+**Last update:** 2026-02-13
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise**
-  - Authors: Abhishek Saini, Haolin Jiang, Hang Liu
-  - Published: 2026-02-11 | Category: `cs.CR`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11088v1) | [PDF](https://arxiv.org/pdf/2602.11088v1)
+- **Non-Hermitian topology of quantum spin-Hall systems to detect edge-state polarization**
+  - Authors: Raghav Chaturvedi, Ion Cosma Fulga, Jeroen van den Brink, Ewelina M. Hankiewicz
+  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.12048v1) | [PDF](https://arxiv.org/pdf/2602.12048v1)
   - Matched: sic
-- **Scalable Solar-Blind Imaging Enabled by Single-Crystalline Beta-Ga2O3 Membranes on Silicon Backplanes**
-  - Authors: Xiang Xu, Hong Huang, Qi Huang, Hao Wang, Huaze Zhu, Junwei Cao, Zheng Zhu, Yaqin Ma, Yiyang Xu, Zhongfang Zhang et al.
-  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10941v1) | [PDF](https://arxiv.org/pdf/2602.10941v1)
-  - Matched: transistor, sic
-- **Staggered Dzyaloshinskii-Moriya and canting angle in centrosymmetric altermagnetic and ferromagnetic phases: influence on the anomalous Hall effect and Weyl points**
-  - Authors: Mathews Benny, Xujia Gong, Kamil Jamroszczyk, Amar Fakhredine, Giuseppe Cuono, Rajibul Islam, Jan Skolimowski, Carmine Autieri
-  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10879v1) | [PDF](https://arxiv.org/pdf/2602.10879v1)
+- **Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites**
+  - Authors: Liz Camayo-Gutierrez, Javiera Ubeda, Ana L. Montero-Alejo, Ricardo Grau-Crespo, Eduardo Menéndez-Proupin
+  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.12031v1) | [PDF](https://arxiv.org/pdf/2602.12031v1)
+  - Matched: gan
+- **Radio Map Prediction from Noisy Environment Information and Sparse Observations**
+  - Authors: Fabian Jaensch, Çağkan Yapar, Giuseppe Caire, Begüm Demir
+  - Published: 2026-02-12 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11950v1) | [PDF](https://arxiv.org/pdf/2602.11950v1)
   - Matched: sic
-- **Enhanced effective masses, spin-orbit polarization, and dispersion relations in 2D hole gases under strongly asymmetric confinement**
-  - Authors: N. A. Cockton, F. Sfigakis, M. Korkusinski, S. R. Harrigan, G. Nichols, Z. D. Merino, T. Zou, A. C. Coschizza, T. Joshi, A. Shetty et al.
+- **Single-exposure holographic lithography of ultra-high aspect-ratio microstructures**
+  - Authors: Dajun Lin, Brian Baker, Rajesh Menon
+  - Published: 2026-02-12 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11508v1) | [PDF](https://arxiv.org/pdf/2602.11508v1)
+  - Matched: sic
+- **RooflineBench: A Benchmarking Framework for On-Device LLMs via Roofline Analysis**
+  - Authors: Zhen Bi, Xueshu Chen, Luoyang Sun, Yuhang Yao, Qing Shen, Jungang Lou, Cheng Deng
+  - Published: 2026-02-12 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11506v1) | [PDF](https://arxiv.org/pdf/2602.11506v1)
+  - Matched: sic
+- **Nanoscopic Imaging of Acoustic Dynamics in van der Waals Ferroelectric NbOI2**
+  - Authors: Zhaodong Chu, Carter Fox, Zixin Zhai, Haihua Liu, Priti Yadav, Bing Lv, Yue Li, Thomas E Gage, Jun Xiao, Haidan Wen
+  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11504v1) | [PDF](https://arxiv.org/pdf/2602.11504v1)
+  - Matched: fet, ferroelectric
+- **Optical gain in colloidal quantum dots is limited by biexciton absorption, not biexciton recombination**
+  - Authors: Davide Zenatti, Patanjali Kambhampati
   - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10852v1) | [PDF](https://arxiv.org/pdf/2602.10852v1)
-  - Matched: gaa
-- **Establishing the Magnetoelastic Origin of Spin-Wave Routing through Focused Ion Beam Patterning**
-  - Authors: Felix Naunheimer, Johannes Greil, Valentin Ahrens, Levente Maucha, Ádám Papp, György Csaba, Markus Becherer
-  - Published: 2026-02-11 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10797v1) | [PDF](https://arxiv.org/pdf/2602.10797v1)
-  - Matched: sic
-- **Fault Tolerant Design of IGZO-based Binary Search ADCs**
-  - Authors: Paula Carolina Lozano Duarte, Sule Ozev, Mehdi Tahoori
-  - Published: 2026-02-11 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10790v1) | [PDF](https://arxiv.org/pdf/2602.10790v1)
-  - Matched: transistor
-- **High-voltage generation system for a traveling-wave Stark decelerator**
-  - Authors: Lucas van Sloten, Leo Huisman, Steven Hoekstra
-  - Published: 2026-02-11 | Category: `physics.atom-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10681v1) | [PDF](https://arxiv.org/pdf/2602.10681v1)
-  - Matched: sic
-- **Fungal systems for security and resilience**
-  - Authors: Andrew Adamatzky
-  - Published: 2026-02-11 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10543v1) | [PDF](https://arxiv.org/pdf/2602.10543v1)
+  - Links: [arXiv](https://arxiv.org/abs/2602.11428v1) | [PDF](https://arxiv.org/pdf/2602.11428v1)
   - Matched: fet, sic
-- **Excitons in van der Waals magnetic materials**
-  - Authors: Pratap Chandra Adak, Florian Dirnberger, Swagata Acharya, Akashdeep Kamra, Xiaodong Xu, Vinod M. Menon
-  - Published: 2026-02-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10409v1) | [PDF](https://arxiv.org/pdf/2602.10409v1)
-  - Matched: sic
-- **Boiling flow parameter estimation from boundary layer data**
-  - Authors: Jeffrey W. Utley, Gregery T. Buzzard, Charles A. Bouman, Matthew R. Kemnetz
-  - Published: 2026-02-11 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10394v1) | [PDF](https://arxiv.org/pdf/2602.10394v1)
-  - Matched: sic
-- **Computational discovery of cathode materials for rechargeable aqueous zinc-ion batteries**
-  - Authors: Caio Miranda Miliante, Brian D. Adams, Drew Higgins, Oleg Rubel
-  - Published: 2026-02-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.10236v1) | [PDF](https://arxiv.org/pdf/2602.10236v1)
-  - Matched: fet
+- **When Blinking Helps: Suppressed Biexciton Emission in Lead Halide Perovskite Quantum Dots**
+  - Authors: Adam Olejniczak, Jehyeok Ryu, Francesco Di Stasio, Yury Rakovich, Victor Krivenkov
+  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11385v1) | [PDF](https://arxiv.org/pdf/2602.11385v1)
+  - Matched: fet, sic
+- **Jamming-controlled stochasticity in metal-insulator switching**
+  - Authors: Nicolò D'Anna, Nareg Ghazikhanian, Katherine Matthews, Daseul Ham, Su Yong Lee, Alex Frano, Ivan K. Schuller, Oleg Shpyrko
+  - Published: 2026-02-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11302v1) | [PDF](https://arxiv.org/pdf/2602.11302v1)
+  - Matched: transistor, neuromorphic device, sic
+- **Sondheimer magneto-oscillations as a probe of Fermi surface reconstruction in underdoped cuprates**
+  - Authors: Alexander Nikolaenko, Carsten Putzke, Philip J. W. Moll, Subir Sachdev, Pavel A. Nosov
+  - Published: 2026-02-11 | Category: `cond-mat.str-el`
+  - Links: [arXiv](https://arxiv.org/abs/2602.11252v1) | [PDF](https://arxiv.org/pdf/2602.11252v1)
+  - Matched: tunneling, sic
 
 ---
 
