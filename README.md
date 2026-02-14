@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-13  
-**Daily archive:** `digests/2026-02-13.md`  
+**Last update:** 2026-02-14  
+**Daily archive:** `digests/2026-02-14.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,112 +50,37 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Solvothermal vapor annealing and environmental control setup with adjustable magnetic field module for GISAXS studies**
-  - Authors: Christian Kjeldbjerg, Bo Jakobsen, Miriam Varón, Kim Lefmann, Cathrine Frandsen, Dorthe Posselt
-  - Published: 2026-02-12 | Category: `cond-mat.soft`
-  - Links: [arXiv](https://arxiv.org/abs/2602.12086v1) | [PDF](https://arxiv.org/pdf/2602.12086v1)
-  - Matched: thin film, self-assembly
-- **Tuning Optical Properties of FTO via Carbonaceous Al2O3 Microdot Deposition by DC plasma sputtering**
-  - Authors: Sarah Salah, Ahmed Atlam, Nagat Elkahwagy, Abdelhamid Elshaer, Mohammed Shihab
-  - Published: 2026-02-12 | Category: `physics.plasm-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11970v1) | [PDF](https://arxiv.org/pdf/2602.11970v1)
-  - Matched: deposition, sputtering
-- **Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb	extsubscript{2}Te	extsubscript{3} on Graphene**
-  - Authors: Francisco Munoz, Manuel Fuenzalida, Paula Mellado, Hari C. Manoharan, Valentina Gallardo, Carolina Parra
-  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11932v1) | [PDF](https://arxiv.org/pdf/2602.11932v1)
-  - Matched: graphene, heterostructure
-- _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
+_No matches today._
 
 
 ### Nano/Microelectronic Devices
 
-- **Non-Hermitian topology of quantum spin-Hall systems to detect edge-state polarization**
-  - Authors: Raghav Chaturvedi, Ion Cosma Fulga, Jeroen van den Brink, Ewelina M. Hankiewicz
-  - Published: 2026-02-12 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.12048v1) | [PDF](https://arxiv.org/pdf/2602.12048v1)
-  - Matched: sic
-- **Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites**
-  - Authors: Liz Camayo-Gutierrez, Javiera Ubeda, Ana L. Montero-Alejo, Ricardo Grau-Crespo, Eduardo Menéndez-Proupin
-  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.12031v1) | [PDF](https://arxiv.org/pdf/2602.12031v1)
-  - Matched: gan
-- **Radio Map Prediction from Noisy Environment Information and Sparse Observations**
-  - Authors: Fabian Jaensch, Çağkan Yapar, Giuseppe Caire, Begüm Demir
-  - Published: 2026-02-12 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11950v1) | [PDF](https://arxiv.org/pdf/2602.11950v1)
-  - Matched: sic
-- _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
+_No matches today._
 
 
 ### CMOS, Process & Fabrication
 
-- **Device-Circuit Co-Design of Variation-Resilient Read and Write Drivers for Antiferromagnetic Tunnel Junction (AFMTJ) Memories**
-  - Authors: Yousuf Choudhary, Tosiron Adegbija
-  - Published: 2026-02-12 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11614v1) | [PDF](https://arxiv.org/pdf/2602.11614v1)
-  - Matched: yield
-- **Dynamic Dispersion Accumulation in Fiber Loops for Realizing Record-High Frequency Resolution or Ultra-Low Signal Sampling Rate in Dispersion-Based Photonics-Assisted Wideband Microwave Measurement Systems**
-  - Authors: Chi Jiang, Taixia Shi, Hang Yang, Lei Gao, Xianxin Zhang, Yiqing Liu, Yang Chen
-  - Published: 2026-02-12 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11613v1) | [PDF](https://arxiv.org/pdf/2602.11613v1)
-  - Matched: yield
-- **Metastable Dynamical Computing with Energy Landscapes: A Primer**
-  - Authors: Christian Z. Pratt, Kyle J. Ray, James P. Crutchfield
-  - Published: 2026-02-11 | Category: `cond-mat.stat-mech`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11390v1) | [PDF](https://arxiv.org/pdf/2602.11390v1)
-  - Matched: cmos
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Unconditional full vector magnetometry using spin selectivity in Nitrogen Vacancy centers in diamond**
-  - Authors: Asier Mongelos-Martinez, Jason Tarunesh Francis, Julia Bertero-DiTella, Geza Giedke, Gabriel Molina-Terriza, Ruben Pellicer-Guridi
-  - Published: 2026-02-12 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.12090v1) | [PDF](https://arxiv.org/pdf/2602.12090v1)
-  - Matched: led
-- **On the Maintainability of Pinching-Antenna Systems: A Failure-Repair Perspective**
-  - Authors: Chongjun Ouyang, Hao Jiang, Zhaolin Wang, Yuanwei Liu, Zhiguo Ding
-  - Published: 2026-02-12 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11784v1) | [PDF](https://arxiv.org/pdf/2602.11784v1)
-  - Matched: waveguide, led
-- **Beyond One-Thousandth Energy Resolution with an AlMn TES Detector**
-  - Authors: Liangpeng Xie, Yifei Zhang, Zhengwei Li, Zhouhui Liu, Shibo Shu, Junjie Zhou, Xufang Li, Haoyu Li, He Gao, Yudong Gu et al.
-  - Published: 2026-02-12 | Category: `astro-ph.IM`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11728v1) | [PDF](https://arxiv.org/pdf/2602.11728v1)
-  - Matched: led
-- _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
+_No matches today._
 
 
 ### MEMS/NEMS & Sensors
 
-- **Theoretical description of a photonic topological insulator based on a cubic lattice of bianisotropic resonators**
-  - Authors: Alina Rozenblit, Nikita Olekhno
-  - Published: 2026-02-12 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.12179v1) | [PDF](https://arxiv.org/pdf/2602.12179v1)
-  - Matched: resonator
-- _(See full topic page: [MEMS/NEMS & Sensors](topics/mems-nems-sensors.md))_
+_No matches today._
 
 
 ### Energy & Power Materials (Micro/Nano)
 
-- **How unconventional oxidation state Au$^{2+}$ is stabilized in halide perovskite Cs$_4$Au$_3$Cl$_{12}$: a first-principles study of its polaron crystal nature**
-  - Authors: Kazuki Morita, Andrew M. Rappe
-  - Published: 2026-02-12 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11572v1) | [PDF](https://arxiv.org/pdf/2602.11572v1)
-  - Matched: perovskite
-- _(See full topic page: [Energy & Power Materials (Micro/Nano)](topics/energy-power-materials-micro-nano.md))_
+_No matches today._
 
 
 ### Reliability, Modeling & TCAD
 
-- **Using a 4-megapixel hybrid photon counting detector for fast, lab-based nanoscale x-ray tomography**
-  - Authors: Jordan Fonseca, Zachary H. Levine, Joseph W. Fowler, Felix H. Kim, Galen O'Neil, Nathan J. Ortiz, John Henry Scott, Daniel S. Swetz, Paul Szypryt, Andras E. Vladar et al.
-  - Published: 2026-02-11 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.11375v1) | [PDF](https://arxiv.org/pdf/2602.11375v1)
-  - Matched: aging, noise
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
