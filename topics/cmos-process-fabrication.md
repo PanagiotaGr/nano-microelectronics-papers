@@ -1,25 +1,25 @@
 # CMOS, Process & Fabrication
 
-**Last update:** 2026-02-17
+**Last update:** 2026-02-18
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Review of prototypes developed in a 65 nm CMOS imaging technology in view of vertexing applications at a future lepton collider**
-  - Authors: Finn King, Matthew Lewis Franks, Yajun He, Gianpiero Vignola, Simon Spannagel, Malte Backhaus, Auguste Besson, Dominik Dannheim, Andrei Dorokhov, Ingrid-Maria Gregor et al.
-  - Published: 2026-02-16 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14900v1) | [PDF](https://arxiv.org/pdf/2602.14900v1)
-  - Matched: cmos
-- **Strongly correlated Josephson junction: proximity effect in the single-layer Hubbard model**
-  - Authors: Don Rolih, Rok Žitko
-  - Published: 2026-02-16 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14796v1) | [PDF](https://arxiv.org/pdf/2602.14796v1)
+- **PRISM: Photonics-Informed Inverse Lithography for Manufacturable Inverse-Designed Photonic Integrated Circuits**
+  - Authors: Hongjian Zhou, Haoyu Yang, Nicholas Gangi, Tianle Xu, Rena Huang, Jiaqi Gu
+  - Published: 2026-02-17 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15762v1) | [PDF](https://arxiv.org/pdf/2602.15762v1)
+  - Matched: lithography, yield
+- **SCENE OTA-FD: Self-Centering Noncoherent Estimator for Over-the-Air Federated Distillation**
+  - Authors: Hao Chen, Zavareh Bozorgasl
+  - Published: 2026-02-17 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15326v1) | [PDF](https://arxiv.org/pdf/2602.15326v1)
   - Matched: yield
-- **A scalable non-superconducting tunnel junction technology**
-  - Authors: Juho Luomahaara, Kristupas Razas, Omid Sharifi Sedeh, Renan P. Loreto, Janne S. Lehtinen, Mingchi Xu, Armel A. Cotten, Aldo Tarascio, Peter Müller, Nikolai Yurttagül et al.
-  - Published: 2026-02-16 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14637v1) | [PDF](https://arxiv.org/pdf/2602.14637v1)
+- **Systematic study of high performance GeSn photodiodes with thick absorber for SWIR and extended SWIR detection**
+  - Authors: Quang Minh Thai, Rajesh Kumar, Abdulla Said Ali, Justin Rudie, Steven Akwabli, Yunsheng Qiu, Mourad Benamara, Hryhorii Stanchu, Kushal Dahal, Xuehuan Ma et al.
+  - Published: 2026-02-16 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15223v1) | [PDF](https://arxiv.org/pdf/2602.15223v1)
   - Matched: cmos, doping
 
 ---

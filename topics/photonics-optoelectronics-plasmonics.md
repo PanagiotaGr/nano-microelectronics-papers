@@ -1,26 +1,26 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-02-17
+**Last update:** 2026-02-18
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **A Low-Dispersion Depressed Core Waveguide for Dielectric Waveguide Interconnects**
-  - Authors: Mohamed Elsawaf, Neelam Prabhu Gaunkar, Georgios C. Dogiamis, Constantine Sideris
-  - Published: 2026-02-16 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14491v1) | [PDF](https://arxiv.org/pdf/2602.14491v1)
-  - Matched: waveguide, led
-- **Energy-Efficient Over-the-Air Federated Learning via Pinching Antenna Systems**
-  - Authors: Saba Asaad, Ali Bereyhi
-  - Published: 2026-02-15 | Category: `cs.IT`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14250v1) | [PDF](https://arxiv.org/pdf/2602.14250v1)
-  - Matched: waveguide
-- **Nonlinear effects in a strongly coupled Nanoelectromechanical System**
-  - Authors: Narges Tarakameh Samani, Farhad Shahbazi, Mehdi Abdi
-  - Published: 2026-02-15 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.14124v1) | [PDF](https://arxiv.org/pdf/2602.14124v1)
+- **Hydrostatic Pressure-enhanced correlated magnetism and Chern insulator in moir'e WSe2**
+  - Authors: Pengfei Jiao, Chenghao Qian, Ning Mao, Xumin Chang, Jiayong Xiao, Feng Liu, Shaozheng Wang, Xiaokai Wu, Di Peng, Cheng Xu et al.
+  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15465v1) | [PDF](https://arxiv.org/pdf/2602.15465v1)
   - Matched: led
+- **On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$**
+  - Authors: Omar Abou El Kheir, Marco Bernasconi
+  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15446v1) | [PDF](https://arxiv.org/pdf/2602.15446v1)
+  - Matched: led
+- **Tailoring multiple scattering acoustic media with perfect transmission for non-Abelian braiding and beyond**
+  - Authors: Hongkuan Zhang, Guancong Ma
+  - Published: 2026-02-17 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.15366v1) | [PDF](https://arxiv.org/pdf/2602.15366v1)
+  - Matched: waveguide, led
 
 ---
 
