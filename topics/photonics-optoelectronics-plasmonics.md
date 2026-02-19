@@ -1,26 +1,26 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-02-18
+**Last update:** 2026-02-19
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Hydrostatic Pressure-enhanced correlated magnetism and Chern insulator in moir'e WSe2**
-  - Authors: Pengfei Jiao, Chenghao Qian, Ning Mao, Xumin Chang, Jiayong Xiao, Feng Liu, Shaozheng Wang, Xiaokai Wu, Di Peng, Cheng Xu et al.
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15465v1) | [PDF](https://arxiv.org/pdf/2602.15465v1)
+- **Piezoelectric MEMS Phase Modulator for Silicon Nitride Platform in the Visible Spectrum**
+  - Authors: Firehun T. Dullo, Paul C. Thrane, Nikhil Jayakumar, Zeljko Skokic, Christopher A. Dirdal, Jo Gjessing, Balpreet S. Ahluwalia
+  - Published: 2026-02-18 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16577v1) | [PDF](https://arxiv.org/pdf/2602.16577v1)
+  - Matched: waveguide, modulator
+- **Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**
+  - Authors: Muhammad Fasih Waheed, Shonda Bernadin
+  - Published: 2026-02-18 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16118v1) | [PDF](https://arxiv.org/pdf/2602.16118v1)
   - Matched: led
-- **On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$**
-  - Authors: Omar Abou El Kheir, Marco Bernasconi
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15446v1) | [PDF](https://arxiv.org/pdf/2602.15446v1)
+- **Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era**
+  - Authors: Armin Ahmadkhaniha, Jake Doliskani
+  - Published: 2026-02-17 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16018v1) | [PDF](https://arxiv.org/pdf/2602.16018v1)
   - Matched: led
-- **Tailoring multiple scattering acoustic media with perfect transmission for non-Abelian braiding and beyond**
-  - Authors: Hongkuan Zhang, Guancong Ma
-  - Published: 2026-02-17 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15366v1) | [PDF](https://arxiv.org/pdf/2602.15366v1)
-  - Matched: waveguide, led
 
 ---
 

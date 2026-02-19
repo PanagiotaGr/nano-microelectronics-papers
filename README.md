@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-18  
-**Daily archive:** `digests/2026-02-18.md`  
+**Last update:** 2026-02-19  
+**Daily archive:** `digests/2026-02-19.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,107 +50,97 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Polarization-resolved measurement of forward volume spin waves by micro-focused Brillouin light scattering**
-  - Authors: Krzysztof Szulc, Mengying Guo, Ondřej Wojewoda, Hongyu Wang, Dominik Pavelka, Jan Klíma, Jakub Krčma, Xiufeng Han, Qi Wang, Michal Urbánek
-  - Published: 2026-02-17 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15760v1) | [PDF](https://arxiv.org/pdf/2602.15760v1)
-  - Matched: thin film
-- **Neel temperature and helical spin order of altermagnetic RuO2**
-  - Authors: Markus Meinert
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15606v1) | [PDF](https://arxiv.org/pdf/2602.15606v1)
-  - Matched: thin film
-- **Intrinsic low-spin state and strain-tunable anomalous Hall scaling in high-quality SrRuO3 (111) films**
-  - Authors: Harunori Shiratani, Yuki K. Wakabayashi, Yoshiharu Krockenberger, Masaki Kobayashi, Kohei Yamagami, Takahito Takeda, Shinobu Ohya, Masaaki Tanaka, Yoshitaka Taniyasu
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15361v1) | [PDF](https://arxiv.org/pdf/2602.15361v1)
-  - Matched: thin film, epitaxy
+- **Exceptional horns in $n$-root graphene and Lieb photonic ring lattices**
+  - Authors: A. M. Marques, D. Viedma, V. Ahufinger, R. G. Dias
+  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16670v1) | [PDF](https://arxiv.org/pdf/2602.16670v1)
+  - Matched: graphene
+- **The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**
+  - Authors: Alberto Turoldo, Marco Bianchi, Alessandro Baraldi, Silvano Lizzit
+  - Published: 2026-02-18 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16552v1) | [PDF](https://arxiv.org/pdf/2602.16552v1)
+  - Matched: thin film, deposition
+- **Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface**
+  - Authors: Zamin Mamiyev, Niclas Tilgner, Narmina O. Balayeva, Dietrich R. T. Zahn, Thomas Seyller, Christoph Tegenkamp
+  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16451v1) | [PDF](https://arxiv.org/pdf/2602.16451v1)
+  - Matched: graphene, heterostructure, epitaxy
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **Three-Dimensional Optical-Electrical Simulation of Cs2AgBiBr6 Double Perovskite Solar Cells**
-  - Authors: Md Shanian Moed, Adnan Amin Siddiquee, Md Tashfiq Bin Kashem
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15759v1) | [PDF](https://arxiv.org/pdf/2602.15759v1)
-  - Matched: fet, gan, sic
-- **Physics-Informed Anomaly Detection of Terrain Material Change in Radar Imagery**
-  - Authors: Abdel Hakiem Mohamed Abbas Mohamed Ahmed, Beth Jelfs, Airlie Chapman, Eric Schoof, Christopher Gilliam
-  - Published: 2026-02-17 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15618v1) | [PDF](https://arxiv.org/pdf/2602.15618v1)
-  - Matched: sic
-- **Uniform Narrow Excitonic Spectrum in Large-Area Suspended WSe2 Monolayers**
-  - Authors: Giacomo Mariani, Riccardo Lodo, Keigo Matsuyama, Yoji Kunihashi, Taro Wakamura, Satoshi Sasaki, Louis Smet, Makoto Kohda, Junsaku Nitta, Haruki Sanada
-  - Published: 2026-02-17 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15482v1) | [PDF](https://arxiv.org/pdf/2602.15482v1)
+- **Design Principles for Fluid Molecular Ferroelectrics**
+  - Authors: Calum J Gibb, Jordan Hobbs, William C Ogle, Richard J Mandle
+  - Published: 2026-02-18 | Category: `cond-mat.soft`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16649v1) | [PDF](https://arxiv.org/pdf/2602.16649v1)
+  - Matched: ferroelectric, gan, sic
+- **Universal Framework for Decomposing Ionic Transport into Interpretable Mechanisms**
+  - Authors: KyuJung Jun, Pablo A. Leon, Jurğis Ruža, Juno Nam, Rafael Gómez-Bombarelli
+  - Published: 2026-02-18 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16636v1) | [PDF](https://arxiv.org/pdf/2602.16636v1)
+  - Matched: gan, sic
+- **Enhanced Connectivity in Ambient Backscatter Communications via Fluid Antenna Readers**
+  - Authors: Masoud Kaveh, Farshad Rostami Ghadi, Riku Jantti, Kai-Kit Wong, F. Javier Lopez-Martinez
+  - Published: 2026-02-18 | Category: `cs.IT`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16446v1) | [PDF](https://arxiv.org/pdf/2602.16446v1)
   - Matched: sic
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-- **PRISM: Photonics-Informed Inverse Lithography for Manufacturable Inverse-Designed Photonic Integrated Circuits**
-  - Authors: Hongjian Zhou, Haoyu Yang, Nicholas Gangi, Tianle Xu, Rena Huang, Jiaqi Gu
-  - Published: 2026-02-17 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15762v1) | [PDF](https://arxiv.org/pdf/2602.15762v1)
-  - Matched: lithography, yield
-- **SCENE OTA-FD: Self-Centering Noncoherent Estimator for Over-the-Air Federated Distillation**
-  - Authors: Hao Chen, Zavareh Bozorgasl
-  - Published: 2026-02-17 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15326v1) | [PDF](https://arxiv.org/pdf/2602.15326v1)
-  - Matched: yield
-- **Systematic study of high performance GeSn photodiodes with thick absorber for SWIR and extended SWIR detection**
-  - Authors: Quang Minh Thai, Rajesh Kumar, Abdulla Said Ali, Justin Rudie, Steven Akwabli, Yunsheng Qiu, Mourad Benamara, Hryhorii Stanchu, Kushal Dahal, Xuehuan Ma et al.
-  - Published: 2026-02-16 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15223v1) | [PDF](https://arxiv.org/pdf/2602.15223v1)
-  - Matched: cmos, doping
+- **DARTH-PUM: A Hybrid Processing-Using-Memory Architecture**
+  - Authors: Ryan Wong, Ben Feinberg, Saugata Ghose
+  - Published: 2026-02-17 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16075v1) | [PDF](https://arxiv.org/pdf/2602.16075v1)
+  - Matched: cmos
 - _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Hydrostatic Pressure-enhanced correlated magnetism and Chern insulator in moir'e WSe2**
-  - Authors: Pengfei Jiao, Chenghao Qian, Ning Mao, Xumin Chang, Jiayong Xiao, Feng Liu, Shaozheng Wang, Xiaokai Wu, Di Peng, Cheng Xu et al.
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15465v1) | [PDF](https://arxiv.org/pdf/2602.15465v1)
+- **Piezoelectric MEMS Phase Modulator for Silicon Nitride Platform in the Visible Spectrum**
+  - Authors: Firehun T. Dullo, Paul C. Thrane, Nikhil Jayakumar, Zeljko Skokic, Christopher A. Dirdal, Jo Gjessing, Balpreet S. Ahluwalia
+  - Published: 2026-02-18 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16577v1) | [PDF](https://arxiv.org/pdf/2602.16577v1)
+  - Matched: waveguide, modulator
+- **Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**
+  - Authors: Muhammad Fasih Waheed, Shonda Bernadin
+  - Published: 2026-02-18 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16118v1) | [PDF](https://arxiv.org/pdf/2602.16118v1)
   - Matched: led
-- **On the origin of in-gap states in amorphous Ge$_2$Sb$_2$Te$_5$**
-  - Authors: Omar Abou El Kheir, Marco Bernasconi
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15446v1) | [PDF](https://arxiv.org/pdf/2602.15446v1)
+- **Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era**
+  - Authors: Armin Ahmadkhaniha, Jake Doliskani
+  - Published: 2026-02-17 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16018v1) | [PDF](https://arxiv.org/pdf/2602.16018v1)
   - Matched: led
-- **Tailoring multiple scattering acoustic media with perfect transmission for non-Abelian braiding and beyond**
-  - Authors: Hongkuan Zhang, Guancong Ma
-  - Published: 2026-02-17 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15366v1) | [PDF](https://arxiv.org/pdf/2602.15366v1)
-  - Matched: waveguide, led
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
 ### MEMS/NEMS & Sensors
 
-_No matches today._
+- **In-Situ Analysis of Vibration and Acoustic Data in Additive Manufacturing**
+  - Authors: Muhammad Fasih Waheed, Shonda Bernadin
+  - Published: 2026-02-18 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16119v1) | [PDF](https://arxiv.org/pdf/2602.16119v1)
+  - Matched: accelerometer
+- _(See full topic page: [MEMS/NEMS & Sensors](topics/mems-nems-sensors.md))_
 
 
 ### Energy & Power Materials (Micro/Nano)
 
-- **A brief review of high-entropy oxides in solid oxide fuel cell applications**
-  - Authors: Yueyuan Gu, Juan Shi, Dilshod Nematov, Aoqi Liu, Yanru Yin, Hailu Dai, Lei Bi
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15340v1) | [PDF](https://arxiv.org/pdf/2602.15340v1)
-  - Matched: fuel cell
+- **Exciton-Selective Phonon Coupling in a Lead Halide Perovskite**
+  - Authors: Pradeepa H. L., Sagnik Chatterjee, Sayantan Patra, Swapneswar Bisoi, Saqlain Mushtaq, Hardeep, Akshay Singh, Ashish Arora, Atikur Rahman
+  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.16533v1) | [PDF](https://arxiv.org/pdf/2602.16533v1)
+  - Matched: perovskite
 - _(See full topic page: [Energy & Power Materials (Micro/Nano)](topics/energy-power-materials-micro-nano.md))_
 
 
 ### Reliability, Modeling & TCAD
 
-- **Passive Imaging with Ambient Noise Under Wave Speed Mismatch: Mathematical Analysis and Wave Speed Estimation**
-  - Authors: Zetao Fei, Josselin Garnier
-  - Published: 2026-02-17 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15623v1) | [PDF](https://arxiv.org/pdf/2602.15623v1)
-  - Matched: aging, noise
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
