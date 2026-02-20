@@ -1,56 +1,51 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-02-19
+**Last update:** 2026-02-20
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Design Principles for Fluid Molecular Ferroelectrics**
-  - Authors: Calum J Gibb, Jordan Hobbs, William C Ogle, Richard J Mandle
-  - Published: 2026-02-18 | Category: `cond-mat.soft`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16649v1) | [PDF](https://arxiv.org/pdf/2602.16649v1)
-  - Matched: ferroelectric, gan, sic
-- **Universal Framework for Decomposing Ionic Transport into Interpretable Mechanisms**
-  - Authors: KyuJung Jun, Pablo A. Leon, Jurğis Ruža, Juno Nam, Rafael Gómez-Bombarelli
-  - Published: 2026-02-18 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16636v1) | [PDF](https://arxiv.org/pdf/2602.16636v1)
+- **Prediction of room-temperature two-dimensional $π$-electron half-metallic ferrimagnets**
+  - Authors: J. Phillips, J. C. G. Henriques, J. Fernández-Rossier, A. T. Costa
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17489v1) | [PDF](https://arxiv.org/pdf/2602.17489v1)
   - Matched: gan, sic
-- **Enhanced Connectivity in Ambient Backscatter Communications via Fluid Antenna Readers**
-  - Authors: Masoud Kaveh, Farshad Rostami Ghadi, Riku Jantti, Kai-Kit Wong, F. Javier Lopez-Martinez
-  - Published: 2026-02-18 | Category: `cs.IT`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16446v1) | [PDF](https://arxiv.org/pdf/2602.16446v1)
+- **Atomic-Scale Surface Imaging of bulk Epitaxial CsPbBr3 Perovskite Single Crystals on Mica using Light Assisted Scanning Tunneling Microscopy at Low-Temperature (80 K)**
+  - Authors: Eric Duverger, Vladimir Bruevich, Vitaly Podzorov, Damien Riedel
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17388v1) | [PDF](https://arxiv.org/pdf/2602.17388v1)
+  - Matched: tunneling
+- **Emergence of a symmetry-broken Chern insulator near a moiré Kondo breakdown**
+  - Authors: Wanghao Tian, Bowen Shen, Lizhong Li, Mingjie Zhang, Feng Liu, Chushan Li, Yaotian Liu, Fan Xu, Kenji Watanabe, Takashi Taniguchi et al.
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17349v1) | [PDF](https://arxiv.org/pdf/2602.17349v1)
   - Matched: sic
-- **Photophysical properties of Eu3+ complexes approaching electronic contact to a metal surface**
-  - Authors: Adrian Ebert, Simon Fromme, Lisa Burgert, Umar Rashid, Lukas Gerhard, Julia Feye, Senthil Kumar Kuppusamy, Barbora Brachnakova, Timo Neumann, Mario Ruben et al.
+- **g4chargeit: Geant4-based kinetic Monte Carlo simulations of charging in dielectric materials**
+  - Authors: Kush P. Gandhi, Advik D. Vira, William M. Farrell, Nikolai Simonov, Alvaro Romero-Calvo, Thomas M. Orlando, Phillip N. First, Zhigang Jiang
+  - Published: 2026-02-19 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17332v1) | [PDF](https://arxiv.org/pdf/2602.17332v1)
+  - Matched: gan
+- **Vibrational Instabilities in Charge Transport through Molecular Nanojunctions: The Role of Anharmonic Nuclear Potentials**
+  - Authors: Martin Mäck, Michael Thoss, Samuel L. Rudge
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17207v1) | [PDF](https://arxiv.org/pdf/2602.17207v1)
+  - Matched: sic
+- **A Fourier-Space Approach to Physics-Informed Magnetization Reconstruction from Nitrogen-Vacancy Measurements**
+  - Authors: Alexander Setescak, Florian Bruckner, Dieter Suess, Young-Gwan Choi, Hayden Binger, Lotte Boer, Claire Donnelly, Uri Vool, Claas Abert
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17180v1) | [PDF](https://arxiv.org/pdf/2602.17180v1)
+  - Matched: sic
+- **Rotational Soft Modes and Octahedral Distortion as Design Principles for Ultralow Thermal Conductivity in Halide Materials**
+  - Authors: Yu Wu, Luman Shang, Yufan Liu, Shuming Zeng, Liujiang Zhou, Hao Zhang, Chenhan Liu
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17147v1) | [PDF](https://arxiv.org/pdf/2602.17147v1)
+  - Matched: fet
+- **Electron viscosity and device-dependent variability in four-probe electrical transport in ultra-clean graphene field-effect transistors**
+  - Authors: Richa P. Madhogaria, Aniket Majumdar, Nishant Dahma, Pritam Pal, Rishabh Hangal, Kenji Watanabe, Takashi Taniguchi, Arindam Ghosh
   - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16377v1) | [PDF](https://arxiv.org/pdf/2602.16377v1)
-  - Matched: tunneling, sic
-- **Characterization of an MPPC-Based Scintillator Telescope and Measurement of Cosmic Muon Angular Distribution**
-  - Authors: Sahla Manithottathil, Anuj Gupta, Mudit Kumar, Navaneeth Poonthottathil
-  - Published: 2026-02-18 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16297v1) | [PDF](https://arxiv.org/pdf/2602.16297v1)
-  - Matched: sic
-- **Breaking the Moss rule**
-  - Authors: Søren Raza, Kristian Sommer Thygesen, Gururaj Naik
-  - Published: 2026-02-18 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16247v1) | [PDF](https://arxiv.org/pdf/2602.16247v1)
-  - Matched: sic
-- **Twist-induced Out-of-plane Ferroelectricity in Bilayer Hafnia**
-  - Authors: Jian Huang, Gwan Yeong Jung, Pravan Omprakash, Guodong Ren, Xin Li, Du Li, Xiaoshan Xu, Li Yang, Rohan Mishra
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16051v1) | [PDF](https://arxiv.org/pdf/2602.16051v1)
-  - Matched: ferroelectric, sic
-- **Memristive tabular variational autoencoder for compression of analog data in high energy physics**
-  - Authors: Rajat Gupta, Yuvaraj Elangovan, Tae Min Hong, James Ignowski, John Moon, Aishwarya Natarajan, Stephen Roche, Luca Buonanno
-  - Published: 2026-02-17 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15990v1) | [PDF](https://arxiv.org/pdf/2602.15990v1)
-  - Matched: memristor, sic
-- **Decomposing Large-Scale Ising Problems on FPGAs: A Hybrid Hardware Approach**
-  - Authors: Ruihong Yin, Yue Zheng, Chaohui Li, Ahmet Efe, Abhimanyu Kumar, Ziqing Zeng, Ulya R. Karpuzcu, Sachin S. Sapatnekar, Chris H. Kim
-  - Published: 2026-02-17 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2602.15985v1) | [PDF](https://arxiv.org/pdf/2602.15985v1)
-  - Matched: sic
+  - Links: [arXiv](https://arxiv.org/abs/2602.16847v1) | [PDF](https://arxiv.org/pdf/2602.16847v1)
+  - Matched: transistor, fet
 
 ---
 

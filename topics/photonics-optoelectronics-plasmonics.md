@@ -1,26 +1,41 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-02-19
+**Last update:** 2026-02-20
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Piezoelectric MEMS Phase Modulator for Silicon Nitride Platform in the Visible Spectrum**
-  - Authors: Firehun T. Dullo, Paul C. Thrane, Nikhil Jayakumar, Zeljko Skokic, Christopher A. Dirdal, Jo Gjessing, Balpreet S. Ahluwalia
-  - Published: 2026-02-18 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16577v1) | [PDF](https://arxiv.org/pdf/2602.16577v1)
-  - Matched: waveguide, modulator
-- **Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals**
-  - Authors: Muhammad Fasih Waheed, Shonda Bernadin
-  - Published: 2026-02-18 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16118v1) | [PDF](https://arxiv.org/pdf/2602.16118v1)
+- **Device-Centric ISAC for Exposure Control via Opportunistic Virtual Aperture Sensing**
+  - Authors: Marouan Mizmizi, Zhibin Yu, Guanglong Du, Umberto Spagnolini
+  - Published: 2026-02-19 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17609v1) | [PDF](https://arxiv.org/pdf/2602.17609v1)
   - Matched: led
-- **Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era**
-  - Authors: Armin Ahmadkhaniha, Jake Doliskani
-  - Published: 2026-02-17 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16018v1) | [PDF](https://arxiv.org/pdf/2602.16018v1)
-  - Matched: led
+- **Failure Detection for Pinching-Antenna Systems**
+  - Authors: Chongjun Ouyang, Hao Jiang, Zhaolin Wang, Yuanwei Liu, Zhiguo Ding
+  - Published: 2026-02-19 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17257v1) | [PDF](https://arxiv.org/pdf/2602.17257v1)
+  - Matched: waveguide, led
+- **Wide-Surface Furnace for In Situ X-Ray Diffraction of Combinatorial Samples using a High-Throughput Approach**
+  - Authors: Giulio Cordaro, Juande Sirvent, Cristian Mocuta, Fjorelo Buzi, Thierry Martin, Federico Baiutti, Alex Morata, Albert Tarancòn, Dominique Thiaudière, Guilhem Dezanneau
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17225v1) | [PDF](https://arxiv.org/pdf/2602.17225v1)
+  - Matched: laser, led
+- **Dielectric Screening in Floquet-Volkov Dressing of Semiconductors**
+  - Authors: Quentin Courtade, Umberto Dellasette, Sotirios Fragkos, Stéphane Petit, Dominique Descamps, Yann Mairesse, Samuel Beaulieu
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17214v1) | [PDF](https://arxiv.org/pdf/2602.17214v1)
+  - Matched: laser
+- **Environment-Aware Network-Level Design of Generalized Pinching-Antenna Systems--Part II: Geometry-Aware Case**
+  - Authors: Yanqing Xu, Zhiguo Ding, Xiu Yin Zhang, Trung Q. Duong, Tsung-Hui Chang
+  - Published: 2026-02-19 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17032v1) | [PDF](https://arxiv.org/pdf/2602.17032v1)
+  - Matched: waveguide, led
+- **Power attenuation in millimeter-wave and terahertz superconducting rectangular waveguides: linear response, TLS loss, and Higgs-mode nonlinearity**
+  - Authors: Takayuki Kubo
+  - Published: 2026-02-19 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17000v1) | [PDF](https://arxiv.org/pdf/2602.17000v1)
+  - Matched: waveguide
 
 ---
 

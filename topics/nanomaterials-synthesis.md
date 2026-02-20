@@ -1,56 +1,56 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-19
+**Last update:** 2026-02-20
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Exceptional horns in $n$-root graphene and Lieb photonic ring lattices**
-  - Authors: A. M. Marques, D. Viedma, V. Ahufinger, R. G. Dias
-  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16670v1) | [PDF](https://arxiv.org/pdf/2602.16670v1)
+- **Perturbative sensing of nanoscale materials with millimeter-wave photonic crystals**
+  - Authors: Kevin K. S. Multani, Zhurun Ji, Wentao Jiang, Siyuan Qi, Akasha G. Hayden, Gitanjali Multani, Sharon Ruth S. Platt, Emilio A. Nanni, Zhi-Xun Shen, Amir H. Safavi-Naeini
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17527v1) | [PDF](https://arxiv.org/pdf/2602.17527v1)
+  - Matched: graphene, hbn, heterostructure
+- **Charge and energy transport in graphene with smooth finite-range disorder**
+  - Authors: Juan A. Cañas, Daniel A. Bonilla, J. C. Pérez-Pedraza, A. Martín-Ruiz
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17453v1) | [PDF](https://arxiv.org/pdf/2602.17453v1)
   - Matched: graphene
-- **The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**
-  - Authors: Alberto Turoldo, Marco Bianchi, Alessandro Baraldi, Silvano Lizzit
-  - Published: 2026-02-18 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16552v1) | [PDF](https://arxiv.org/pdf/2602.16552v1)
-  - Matched: thin film, deposition
-- **Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface**
-  - Authors: Zamin Mamiyev, Niclas Tilgner, Narmina O. Balayeva, Dietrich R. T. Zahn, Thomas Seyller, Christoph Tegenkamp
+- **Dissipative charging of tight-binding quantum batteries**
+  - Authors: Mingdi Xu, Yiming Liu, Yefeng Song, Xiang-Ping Jiang, Lei Pan
+  - Published: 2026-02-19 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17326v1) | [PDF](https://arxiv.org/pdf/2602.17326v1)
+  - Matched: graphene
+- **Unveiling Photoluminescence Signatures of Magneto-Optical Coupling in Layered Hybrid Manganese Chloride Perovskites**
+  - Authors: Yaiza Asensio, Samuele Mattioni, Daniel Vaquero, Cédric A. Cordero-Silis, Houman Bahmani Jalali, Dorwal Marchelli, Marco Gobbi, Fèlix Casanova, Francesco Di Stasio, Marcos H. D. Guimarães et al.
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17324v1) | [PDF](https://arxiv.org/pdf/2602.17324v1)
+  - Matched: 2d material
+- **Effect of oxygen content on optical, structural, and dielectric properties of Al$_x$Ta$_y$O$_z$$ thin films**
+  - Authors: Pavel Ondračka, Richard Drevet, Daniel Franta, Jan Dvořák, Ivan Ohlídal, Petr Vašina
+  - Published: 2026-02-19 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17302v1) | [PDF](https://arxiv.org/pdf/2602.17302v1)
+  - Matched: thin film, sputtering
+- **Near-single-domain superconducting aluminum films on GaAs(111)A with exceptional crystalline quality for scalable quantum circuits**
+  - Authors: Hsien-Wen Wan, Yi-Ting Cheng, Chao-Kai Cheng, Jui-Min Chia, Chien-Ting Wu, Sheng-Shiuan Yeh, Chia-Hung Hsu, Jueinai Kwo, Minghwei Hong
+  - Published: 2026-02-19 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17249v1) | [PDF](https://arxiv.org/pdf/2602.17249v1)
+  - Matched: epitaxy
+- **Phonon-enhanced strain sensitivity of quantum dots in two-dimensional semiconductors**
+  - Authors: Sumitra Shit, Yunus Waheed, Jithin Thoppil Surendran, Indrajeet Dhananjay Prasad, Kenji Watanabe, Takashi Taniguchi, Santosh Kumar
+  - Published: 2026-02-19 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17212v1) | [PDF](https://arxiv.org/pdf/2602.17212v1)
+  - Matched: quantum dot, heterostructure
+- **Graphene FET Process and Analysis Optimization in 200 mm Pilot Line Environment**
+  - Authors: Anton Murros, Miika Soikkeli, Anni Virta, Arantxa Maestre, Leire Morillo, Alba Centeno, Amaia Zurutuza, Olli-Pekka Kilpi
+  - Published: 2026-02-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.17135v1) | [PDF](https://arxiv.org/pdf/2602.17135v1)
+  - Matched: 2d material, graphene, deposition
+- **The Multi-Scale Dynamics of All-Optical Exchange Bias Reversal**
+  - Authors: Floris J. F. van Riel, Andries B. M. Droste, Bert Koopmans, Diana C. Leitao
   - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16451v1) | [PDF](https://arxiv.org/pdf/2602.16451v1)
-  - Matched: graphene, heterostructure, epitaxy
-- **AI-Driven Structure Refinement of X-ray Diffraction**
-  - Authors: Bin Cao, Qian Zhang, Zhenjie Feng, Taolue Zhang, Jiaqiang Huang, Lu-Tao Weng, Tong-Yi Zhang
-  - Published: 2026-02-18 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16372v1) | [PDF](https://arxiv.org/pdf/2602.16372v1)
+  - Links: [arXiv](https://arxiv.org/abs/2602.16956v1) | [PDF](https://arxiv.org/pdf/2602.16956v1)
   - Matched: thin film
-- **Stack of correlated insulating states in bilayer graphene kagome superlattice**
-  - Authors: Xinyu Cai, Fengfan Ren, Qiao Li, Yanran Shi, Yifan Wang, Yifan Zhang, Zhenghang Zhi, Jiawei Luo, Yulin Chen, Jianpeng Liu et al.
-  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16210v1) | [PDF](https://arxiv.org/pdf/2602.16210v1)
-  - Matched: graphene
-- **Inverse Engineering of Optical Constants in Photochromic Micron-Scale Hybrid Films**
-  - Authors: Bahrem Serhat Danis, Amin Tabatabaei Mohseni, Smagul Karazhanov, Esra Zayim
-  - Published: 2026-02-18 | Category: `physics.comp-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16180v1) | [PDF](https://arxiv.org/pdf/2602.16180v1)
-  - Matched: thin film
-- **Enhanced Graphene-Water Thermal Transport via Edge Functionalization without Compromising In-Plane Thermal Conductivity**
-  - Authors: John Crosby, Haoran Cui, Mehrab Lotfpour, Yan Wang, Lei Cao
-  - Published: 2026-02-18 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16121v1) | [PDF](https://arxiv.org/pdf/2602.16121v1)
-  - Matched: graphene
-- **Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing**
-  - Authors: Muhammad Fasih Waheed, Shonda Bernadin, Ali Hassan
-  - Published: 2026-02-18 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16108v1) | [PDF](https://arxiv.org/pdf/2602.16108v1)
-  - Matched: deposition
-- **Stochastic Modeling of Anisotropic Strength Surfaces from Atomistic Simulations**
-  - Authors: Alexander Bonacci, John Dolbow, Johann Guilleminot
-  - Published: 2026-02-17 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.16007v1) | [PDF](https://arxiv.org/pdf/2602.16007v1)
-  - Matched: graphene
 
 ---
 
