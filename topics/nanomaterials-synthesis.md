@@ -1,6 +1,6 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-21
+**Last update:** 2026-02-22
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
