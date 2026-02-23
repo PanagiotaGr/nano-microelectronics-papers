@@ -1,6 +1,6 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-02-22
+**Last update:** 2026-02-23
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
