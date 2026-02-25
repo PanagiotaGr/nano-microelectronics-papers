@@ -1,40 +1,60 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-02-24
+**Last update:** 2026-02-25
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Vortex Tunneling and Critical State in an Oxide Heterostructure**
-  - Authors: Jordan T. McCourt, Ryan Henderson, John Chiles, Chun-Chia Chen, Shama, Divine Kumah, Vadim Geshkenbein, Gleb Finkelstein
-  - Published: 2026-02-23 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20148v1) | [PDF](https://arxiv.org/pdf/2602.20148v1)
-  - Matched: heterostructure
-- **Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti-Nb-Zr-Ag Thin Films**
-  - Authors: Anna Benediktová, Lucie Nedvědová, Michal Procházka, Zdeněk Jansa, Štěpánka Jansová, Christopher D. Woodgate, David Redka, Julie B. Staunton, Ján Minár
-  - Published: 2026-02-23 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20129v1) | [PDF](https://arxiv.org/pdf/2602.20129v1)
-  - Matched: nanoparticles, thin film, sputtering
-- **Electronic structure of Graphene/Co interfaces**
-  - Authors: Daniela Pacilé, Simone Lisi, Iolanda Di Bernardo, M. Papagno, L. Ferrari, Michele Pisarra, Marco Caputo, S. K. Mahatha, P. M. Sheverdyaeva, P. Moras et al.
-  - Published: 2026-02-23 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.19955v1) | [PDF](https://arxiv.org/pdf/2602.19955v1)
+- **Rapid Primary Radiation Damage Resistance Assessment of Precipitation-Hardened Cu Alloys**
+  - Authors: Elena Botica-Artalejo, Gregory Wallace, Michael P. Short
+  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21093v1) | [PDF](https://arxiv.org/pdf/2602.21093v1)
+  - Matched: thin film, deposition
+- **Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics**
+  - Authors: Aleksander Bach Lorentzen, Alexander Croy, Antti-Pekka Jauho, Mads Brandbyge
+  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20982v1) | [PDF](https://arxiv.org/pdf/2602.20982v1)
   - Matched: graphene
-- **Suppressed Rupture of Thin Metal Films via van der Waals Epitaxy**
-  - Authors: Wenxiang Wang, Jiaxing Wang, Guotong Wang, Zhichao Yan, Chenxiao Jiang, Siqin Zhou, Chuanli Yu, Jianhao Chen, Kun Zheng, Thomas Salez et al.
-  - Published: 2026-02-23 | Category: `cond-mat.soft`
-  - Links: [arXiv](https://arxiv.org/abs/2602.19827v1) | [PDF](https://arxiv.org/pdf/2602.19827v1)
-  - Matched: graphene, epitaxy
-- **Rashba Spin-Orbit Coupling Induced Topological Phases Transition in Honeycomb Nanoribbon Heterojunction**
-  - Authors: Hao-Ru Wu, Jhih-Shih You, Yiing-Rei Chen, Hong-Yi Chen
+- **Beyond Point-like Defects in Bulk Semiconductors: Junction Spectroscopy Techniques for Perovskite Solar Cells and 2D Materials**
+  - Authors: Ivana Capan
+  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20764v1) | [PDF](https://arxiv.org/pdf/2602.20764v1)
+  - Matched: 2d material
+- **Disorder-independent hole spin manipulation by hopping**
+  - Authors: Biel Martinez, Ana Sempere-Sanchis, José C. Abadillo-Uriel, Yann-Michel Niquet
+  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20740v1) | [PDF](https://arxiv.org/pdf/2602.20740v1)
+  - Matched: quantum dot
+- **Large Photoelasticity in Topological Antiferromagnet Mn$_3$Sn Studied by Coherent Acoustic Phonon**
+  - Authors: Yuchen Wang, Takuya Matsuda, Yuta Murotani, Hanyi Peng, Takumi Matsuo, Tomoya Higo, Satoru Nakatsuji, Ryusuke Matsunaga
+  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20686v1) | [PDF](https://arxiv.org/pdf/2602.20686v1)
+  - Matched: thin film
+- **Complex dispersion lines in gapped bilayer graphene: Analytical expressions and shear-displacement effects on monolayer--bilayer--monolayer junction conductance**
+  - Authors: Ryo Tamura
+  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20589v1) | [PDF](https://arxiv.org/pdf/2602.20589v1)
+  - Matched: graphene
+- **Omnidirectional magnetic imaging of magnetic anisotropy and phase transitions**
+  - Authors: Alexander J Healey, Kaijian Xing, Weiyao Zhao, Islay O. Robertson, Hark Hoe Tan, Mehran Kianinia, Igor Aharonovich, Jean-Philippe Tetienne, Julie Karel, David A. Broadway
+  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20464v1) | [PDF](https://arxiv.org/pdf/2602.20464v1)
+  - Matched: hbn, heterostructure, thin film
+- **Photogalvanic effect in few layer graphene**
+  - Authors: Zhaohang Li, Kainan Chang, Haoyu Li, Yuwei Shan, Wei Xin, Jinluo Cheng, Haiyang Xu
+  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20454v1) | [PDF](https://arxiv.org/pdf/2602.20454v1)
+  - Matched: graphene, heterostructure
+- **Self-driving thin film laboratory: autonomous epitaxial atomic-layer synthesis via real-time computer vision analysis of electron diffraction**
+  - Authors: Haotong Liang, Yunlong Sun, Ryan Paxson, Chih-Yu Lee, Alex T. Hall, Zoey Warecki, John Cumings, Hideomi Koinuma, Aaron Gilad Kusne, Mikk Lippmaa et al.
+  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.20432v1) | [PDF](https://arxiv.org/pdf/2602.20432v1)
+  - Matched: thin film, deposition
+- **Electromotive entrainment of charge and heat currents in graphene**
+  - Authors: E. Kirkinis, A. Levchenko, A. V. Andreev
   - Published: 2026-02-23 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.19568v1) | [PDF](https://arxiv.org/pdf/2602.19568v1)
-  - Matched: heterostructure
-- **Some effective operators for graphene monolayer superlattices, from variational perturbation theory**
-  - Authors: Louis Garrigue
-  - Published: 2026-02-22 | Category: `math-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.19185v1) | [PDF](https://arxiv.org/pdf/2602.19185v1)
+  - Links: [arXiv](https://arxiv.org/abs/2602.20251v1) | [PDF](https://arxiv.org/pdf/2602.20251v1)
   - Matched: graphene
 
 ---
