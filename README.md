@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-25  
-**Daily archive:** `digests/2026-02-25.md`  
+**Last update:** 2026-02-26  
+**Daily archive:** `digests/2026-02-26.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,111 +50,96 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Rapid Primary Radiation Damage Resistance Assessment of Precipitation-Hardened Cu Alloys**
-  - Authors: Elena Botica-Artalejo, Gregory Wallace, Michael P. Short
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.21093v1) | [PDF](https://arxiv.org/pdf/2602.21093v1)
-  - Matched: thin film, deposition
-- **Zandpack: A General Tool for Time-dependent Transport Simulation of Nanoelectronics**
-  - Authors: Aleksander Bach Lorentzen, Alexander Croy, Antti-Pekka Jauho, Mads Brandbyge
-  - Published: 2026-02-24 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20982v1) | [PDF](https://arxiv.org/pdf/2602.20982v1)
+- **Quantum Resistance in Multilayer Graphene-BiFeO3 Memristor for Brain-Inspired Computing**
+  - Authors: Suman Roy, Priyanka Sahu, Subhabrata Das, Sameer Kumar Mallik, Susmita Jana, Alok Kumar, Himadri Nandan Mohanty, Kaushik Ghosh, B. R. K. Nanda, Satyaprakash Sahoo
+  - Published: 2026-02-25 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21986v1) | [PDF](https://arxiv.org/pdf/2602.21986v1)
+  - Matched: graphene, heterostructure
+- **Geometric oscillations of local Hall and Nernst effects in ballistic graphene at weak magnetic fields**
+  - Authors: Z. Z. Alisultanov, A. V. Kavokin
+  - Published: 2026-02-25 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21934v1) | [PDF](https://arxiv.org/pdf/2602.21934v1)
   - Matched: graphene
-- **Beyond Point-like Defects in Bulk Semiconductors: Junction Spectroscopy Techniques for Perovskite Solar Cells and 2D Materials**
-  - Authors: Ivana Capan
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20764v1) | [PDF](https://arxiv.org/pdf/2602.20764v1)
-  - Matched: 2d material
+- **Charge distribution across dislocation networks induced by a strained top layer in hexagonal boron nitride substrates**
+  - Authors: Isaac Soltero, James G. McHugh, Vladimir I. Fal'ko
+  - Published: 2026-02-25 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21866v1) | [PDF](https://arxiv.org/pdf/2602.21866v1)
+  - Matched: 2d material, hbn, heterostructure
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **Ferromagnetism above 200 K in organic-ion intercalated CrSBr**
-  - Authors: Sofia Ferreira-Teixeira, Daniel Tezze, Maria Ramos, Covadonga Álvarez-García, Bertuğ Bayındır, Junhyeon Jo, Beatriz Martín-García, Maider Ormaza, Fèlix Casanova, Samuel Mañas-Valero et al.
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20940v1) | [PDF](https://arxiv.org/pdf/2602.20940v1)
-  - Matched: gan
-- **Unconventional spin valve effect in altermagnets induced by Rashba spin orbit coupling and triplet superconductivity**
-  - Authors: Saumen Acharjee, Aklanta Dihingia, Nayanav Sonowal, Abyoy Anan Kashyap
-  - Published: 2026-02-24 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20838v1) | [PDF](https://arxiv.org/pdf/2602.20838v1)
-  - Matched: tunneling
-- **Machine Learning Modeling of Temperature-Dependent Optoelectronic Properties of Anharmonic Solid Solutions**
-  - Authors: Pol Benítez, Cibrán López, Edgardo Saucedo, Claudio Cazorla
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20778v1) | [PDF](https://arxiv.org/pdf/2602.20778v1)
+- **Loss Mechanisms in High-coherence Multimode Mechanical Resonators Coupled to Superconducting Circuits**
+  - Authors: Raquel Garcia Belles, Alexander Anferov, Lukas F. Deeg, Loris Colicchio, Arianne Brooks, Tom Schatteburg, Maxwell Drimmer, Ines C. Rodrigues, Rodrigo Benevides, Marco Liffredo et al.
+  - Published: 2026-02-25 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.22117v1) | [PDF](https://arxiv.org/pdf/2602.22117v1)
+  - Matched: fet
+- **Phase-Dependent Excitonic Light Harvesting and Photovoltaic Limits in Monolayer Y2TeO2 MOenes**
+  - Authors: Bill D. A. Huacarpuma, Jose A. dos S. Laranjeira, Nicolas F. Martins, Julio R. Sambrano, Kleuton A. L. Lima, Santosh K. Tiwari, Alexandre C. Dias, Luiz A. Ribeiro
+  - Published: 2026-02-25 | Category: `physics.comp-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2602.22112v1) | [PDF](https://arxiv.org/pdf/2602.22112v1)
+  - Matched: sic
+- **Intrinsic Instabilities and Mechanical Anisotropy in Halide Perovskite Monolayers**
+  - Authors: Gabriel X. Pereira, Lucas M. Farigliano, Roberto H. Miwa, Gustavo M. Dalpian
+  - Published: 2026-02-25 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21989v1) | [PDF](https://arxiv.org/pdf/2602.21989v1)
   - Matched: sic
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-- **Effect of symmetry breaking on altermagnetism in CrSb and Formation of fragmented nodal curves**
-  - Authors: Arindom Das, Arijit Mandal, Nayana Devaraj, B. R. K. Nanda
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.21135v1) | [PDF](https://arxiv.org/pdf/2602.21135v1)
-  - Matched: doping
-- **Combining Quasiparticle Self-Consistent $GW$ and Machine-Learned DFT+$U$ in Search of Half-Metallic Heuslers**
-  - Authors: Zefeng Cai, Malcolm J. A. Jardine, Maituo Yu, Chenbo Min, Jiatian Wu, Hantian Liu, Derek Dardzinski, Christopher J. Palmstrøm, Noa Marom
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20621v1) | [PDF](https://arxiv.org/pdf/2602.20621v1)
-  - Matched: yield
-- **Toward a CMOS-integrated quantum diamond biosensor based on NV centers**
-  - Authors: Ioannis Varveris, Gianni D. Aliberti, Felix J. Barzilaij, Zhi Jin, Samantha A. van Rijs, Qiangrui Dong, Daan Brinks, Salahuddin Nur, Ryoichi Ishihara
-  - Published: 2026-02-24 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20437v1) | [PDF](https://arxiv.org/pdf/2602.20437v1)
+- **Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler**
+  - Authors: Xinxin Wang, Lixian Yan, Shuhan Liu, Luke Upton, Zhuoqi Cai, Yiming Tan, Shengman Li, Koustav Jana, Peijing Li, Jesse Cirimelli-Low et al.
+  - Published: 2026-02-24 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21278v1) | [PDF](https://arxiv.org/pdf/2602.21278v1)
   - Matched: cmos
 - _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Resonant attenuation of surface acoustic waves by a weakly bonded layer**
-  - Authors: Martin Robin, Thomas Dehoux, Maroun Abi Ghanem
-  - Published: 2026-02-24 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20692v1) | [PDF](https://arxiv.org/pdf/2602.20692v1)
-  - Matched: metamaterial
-- **A Low Cost Picoseconds Precision Timing and Synchronization Over A Hundred Kilometer**
-  - Authors: Alice Renaux, Ronic Chiche, A. Martens, Antoine Back, Paul-Éric Pottie, Daniel Charlet
-  - Published: 2026-02-24 | Category: `physics.acc-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20622v1) | [PDF](https://arxiv.org/pdf/2602.20622v1)
-  - Matched: laser
-- **Enhancing FRET through DNA-controlled Emitters and ENZ Metamaterials**
-  - Authors: Akeshi Aththanayeke, Andrew Lininger, Anh Pham, Radu Malureanu, Divita Mathur, Giuseppe Strangi
-  - Published: 2026-02-24 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20509v1) | [PDF](https://arxiv.org/pdf/2602.20509v1)
-  - Matched: metamaterial, led
+- **Spatiotemporal Thermal Modulation and Patterning using a Programmable 1024 Element Microheater Array**
+  - Authors: Rahul Goyal, Jang-Hwan Han, Sadaf Pashapour, Peer Fischer
+  - Published: 2026-02-25 | Category: `cond-mat.soft`
+  - Links: [arXiv](https://arxiv.org/abs/2602.22138v1) | [PDF](https://arxiv.org/pdf/2602.22138v1)
+  - Matched: led
+- **Purcell-enhanced Bright and Dark Exciton Emission from Perovskite Quantum Dots in Micro-ring Resonators**
+  - Authors: Lanyin Luo, Mohit Khurana, Ian M. Murray, Sina Baghbani Kordmahale, Akanksha Pandey, Xiaohan Liu, Alexei V. Sokolov, Dong Hee Son
+  - Published: 2026-02-25 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2602.22106v1) | [PDF](https://arxiv.org/pdf/2602.22106v1)
+  - Matched: waveguide, led
+- **Leaky Coaxial Cable based Generalized Pinching-Antenna Systems with Dual-Port Feeding**
+  - Authors: Kaidi Wang, Zhiguo Ding, Daniel K. C. So
+  - Published: 2026-02-25 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21856v1) | [PDF](https://arxiv.org/pdf/2602.21856v1)
+  - Matched: waveguide
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
 ### MEMS/NEMS & Sensors
 
-- **Engineering of SnO2-Graphene Oxide Nano-Heterojunctions for Selective Room-temperature Chemical Sensing and Optoelectronic Devices**
-  - Authors: Eleonora Pargoletti, Umme H. Hossain, Iolanda Di Bernardo, Hongjun Chen, Thanh Tran-Phu, Gian Luca Chiarello, Josh Lipton-Duffin, Antonio Tricoli, Giuseppe Cappelletti
-  - Published: 2026-02-24 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20978v1) | [PDF](https://arxiv.org/pdf/2602.20978v1)
-  - Matched: gas sensor, chemical sensor
-- _(See full topic page: [MEMS/NEMS & Sensors](topics/mems-nems-sensors.md))_
+_No matches today._
 
 
 ### Energy & Power Materials (Micro/Nano)
 
-_No matches today._
+- **ML-guided screening of chalcogenide perovskites as solar energy materials**
+  - Authors: Diego A. Garzón, Lauri Himanen, Luisa Andrade, Sascha Sadewasser, José A. Márquez
+  - Published: 2026-02-25 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2602.21812v1) | [PDF](https://arxiv.org/pdf/2602.21812v1)
+  - Matched: photovoltaic, perovskite
+- _(See full topic page: [Energy & Power Materials (Micro/Nano)](topics/energy-power-materials-micro-nano.md))_
 
 
 ### Reliability, Modeling & TCAD
 
-- **Development of a cost-effective X-ray imaging device based on Raspberry Pi Camera**
-  - Authors: Nguyen Duc Ton, Nguyen Thanh Luan, Faizan Anjum, D. Joseph Daniel, Sunghwan Kim, Suchart Kothan, Jakrapong Kaewkhao, Hong Joo Kim
-  - Published: 2026-02-24 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20668v1) | [PDF](https://arxiv.org/pdf/2602.20668v1)
-  - Matched: aging
-- **Omnidirectional wave energy gimbal-based electromagnetic generator**
-  - Authors: Zhichao Jiang, Shunchao Jiang
-  - Published: 2026-02-24 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2602.20665v1) | [PDF](https://arxiv.org/pdf/2602.20665v1)
-  - Matched: reliability
+- **SigmaQuant: Hardware-Aware Heterogeneous Quantization Method for Edge DNN Inference**
+  - Authors: Qunyou Liu, Pengbo Yu, Marina Zapater, David Atienza
+  - Published: 2026-02-25 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2602.22136v1) | [PDF](https://arxiv.org/pdf/2602.22136v1)
+  - Matched: degradation
 - _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
 <!-- END TODAY -->
 
