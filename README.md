@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-02-27  
-**Daily archive:** `digests/2026-02-27.md`  
+**Last update:** 2026-02-28  
+**Daily archive:** `digests/2026-02-28.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,72 +50,22 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Molecular Beam Epitaxy Growth of Wafer-scale SnSe van der Waals Ultrathin Layers**
-  - Authors: Qihua Zhang, Maria Hilse, Joshua Bardsley, Morgan Applegate, Stephanie Law
-  - Published: 2026-02-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23346v1) | [PDF](https://arxiv.org/pdf/2602.23346v1)
-  - Matched: thin film, epitaxy
-- **Engineering in-plane anisotropy in 2D materials via surface-bound ligands**
-  - Authors: Tomoaki Sakurada, Woo Seok Lee, Yeongsu Cho, Rattapon Khamlue, Petcharaphorn Chatsiri, Nicholas Samulewicz, Tejas Deshpande, Annlin Su, Peter Müller, Tadashi Kawamoto et al.
-  - Published: 2026-02-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23138v1) | [PDF](https://arxiv.org/pdf/2602.23138v1)
-  - Matched: 2d material
-- **Landau level spectroscopy in current solid state physics**
-  - Authors: Ana Akrap, Milan Orlita
-  - Published: 2026-02-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23129v1) | [PDF](https://arxiv.org/pdf/2602.23129v1)
-  - Matched: graphene
-- _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
+_No matches today._
 
 
 ### Nano/Microelectronic Devices
 
-- **Electromechanical Switching and Momentum-Selective Transport in Geometry-Defined Blue Phosphorus Homojunctions**
-  - Authors: Zewen Wu, Min Zhou, Yanxia Xing, Xianghua Kong
-  - Published: 2026-02-26 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23298v1) | [PDF](https://arxiv.org/pdf/2602.23298v1)
-  - Matched: tunneling, sic
-- **Role of the Nephelauxetic Effect in Engineering Mn4+ Luminescence Kinetics for Lifetime-Based Thermometry**
-  - Authors: A. Basheer, M. Szymczak, M. Piasecki, A. M. Srivastava, M. G. Brik, L. Marciniak
-  - Published: 2026-02-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22728v1) | [PDF](https://arxiv.org/pdf/2602.22728v1)
-  - Matched: fet
-- **Mimicking the earth core conditions with ultrafast laser materials interaction**
-  - Authors: Mohamed Yaseen Noor, Aram Yedigaryan, Gabriel Calderon, Arshak Tsaturyan, Elena Kanchan, Jinwoo Hwang, Carmen S. Menoni, Jean-Philippe Colombier, Enam Chowdhury
-  - Published: 2026-02-25 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22460v1) | [PDF](https://arxiv.org/pdf/2602.22460v1)
-  - Matched: sic
-- _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
+_No matches today._
 
 
 ### CMOS, Process & Fabrication
 
-- **Charge collection parameterization of MALTA2, a depleted monolithic active pixel sensor**
-  - Authors: L. Fasselt, P. Behera, D. V. Berlea, D. Bortoletto, C. Buttar, T. Chembakan, V. Dao, G. Dash, S. Haberl, T. Inada et al.
-  - Published: 2026-02-26 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23139v1) | [PDF](https://arxiv.org/pdf/2602.23139v1)
-  - Matched: cmos, doping
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Temporal metamaterials with passive switching as impedance-matched absorbers**
-  - Authors: Suat Barış İplikçioğlu
-  - Published: 2026-02-26 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2602.23347v1) | [PDF](https://arxiv.org/pdf/2602.23347v1)
-  - Matched: metamaterial
-- **Molecule Mixture Detection and Design for MC Systems with Non-linear, Cross-reactive Receiver Arrays**
-  - Authors: Bastian Heinlein, Kaikai Zhu, Sümeyye Carkit-Yilmaz, Sebastian Lotter, Helene M. Loos, Andrea Buettner, Yansha Deng, Robert Schober, Vahid Jamali
-  - Published: 2026-02-26 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22799v1) | [PDF](https://arxiv.org/pdf/2602.22799v1)
-  - Matched: led
-- **Anti-Thermal Quenching Phosphors based on Metal Halides**
-  - Authors: Baowei Zhang, Liberato Manna
-  - Published: 2026-02-26 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22737v1) | [PDF](https://arxiv.org/pdf/2602.22737v1)
-  - Matched: laser, led
-- _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
+_No matches today._
 
 
 ### MEMS/NEMS & Sensors
@@ -130,17 +80,7 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **Reflectance Multispectral Imaging for Soil Composition Estimation and USDA Texture Classification**
-  - Authors: G. A. S. L Ranasinghe, J. A. S. T. Jayakody, M. C. L. De Silva, G. Thilakarathne, G. M. R. I. Godaliyadda, H. M. V. R. Herath, M. P. B. Ekanayake, S. K. Navaratnarajah
-  - Published: 2026-02-26 | Category: `cs.CV`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22829v1) | [PDF](https://arxiv.org/pdf/2602.22829v1)
-  - Matched: aging
-- **CSI-RFF: Leveraging Micro-Signals on CSI for RF Fingerprinting of Commodity WiFi**
-  - Authors: Ruiqi Kong, He Chen
-  - Published: 2026-02-26 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2602.22738v1) | [PDF](https://arxiv.org/pdf/2602.22738v1)
-  - Matched: aging
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
