@@ -1,71 +1,56 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-03-03
+**Last update:** 2026-03-04
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Identifying field-tunable surface resonance states on black phosphorus**
-  - Authors: Dongming Zhao, Byeongin Lee, Junho Bang, Claudia Felser, Jian-Feng Ge, Doohee Cho
-  - Published: 2026-03-02 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01848v1) | [PDF](https://arxiv.org/pdf/2603.01848v1)
+- **Simultaneous anti-bunched and super-bunched photons from a GaAs Quantum dot in a dielectric metasurface**
+  - Authors: Sanghyeok Park, Oleg Mitrofanov, Kusal M. Abeywickrama, Samuel Prescott, Jaeyeon Yu, Stephanie C Malek, Hyunseung Jung, Emma Renteria, Sadhvikas Addamane, Alisa Javadi et al.
+  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03186v1) | [PDF](https://arxiv.org/pdf/2603.03186v1)
+  - Matched: gaa, sic
+- **Enhancing the Energy Resolution in Scanning Tunneling Microscopy: from dynamical Coulomb blockade to cavity quantum electrodynamics**
+  - Authors: Xianzhe Zeng, Janis Siebrecht, Haonan Huang, Sujoy Karan, Joachim Ankerhold, Klaus Kern, Christian R. Ast
+  - Published: 2026-03-03 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03166v1) | [PDF](https://arxiv.org/pdf/2603.03166v1)
   - Matched: tunneling
-- **Goal-Oriented Access Optimization for ISAC-Enabled Digital Twins**
-  - Authors: Fabio Saggese, Federico Chiariotti, Shashi Raj Pandey, Henk Wymeersch, Luca Sanguinetti, Petar Popovski
-  - Published: 2026-03-02 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01781v1) | [PDF](https://arxiv.org/pdf/2603.01781v1)
-  - Matched: sic
-- **Security Risks in Machining Process Monitoring: Sequence-to-Sequence Learning for Reconstruction of CNC Axis Positions**
-  - Authors: Lukas Krupp, Rickmar Stahlschmidt, Norbert Wehn
-  - Published: 2026-03-02 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01702v1) | [PDF](https://arxiv.org/pdf/2603.01702v1)
-  - Matched: sic
-- **Percolation-driven $β$ -relaxation enables resonant acceleration of crystallization in amorphous phase-change materials**
-  - Authors: Yu-Yao Liu, Liang Gao, Jun-Ying Jiang, Yiming Zhou, Jan Luebben, Di Zhao, Xiaoling Lu, Maximilian J. Müller, Ulrich Boettger, Jiang-Jing Wang et al.
-  - Published: 2026-03-02 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01559v1) | [PDF](https://arxiv.org/pdf/2603.01559v1)
-  - Matched: gan
-- **Topological Diagnosis of Optical Composites via Inversion of Nonlinear Dielectric Mixing Rules**
-  - Authors: Proity Nayeeb Akbar
-  - Published: 2026-03-02 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01380v1) | [PDF](https://arxiv.org/pdf/2603.01380v1)
-  - Matched: sic
-- **The completed High-Low framework for interface state density analysis in MOS capacitors**
-  - Authors: Brian D. Rummel, Sarit Dhar, Robert J. Kaplar
-  - Published: 2026-03-01 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01271v1) | [PDF](https://arxiv.org/pdf/2603.01271v1)
-  - Matched: sic
-- **HAVEN: High-Bandwidth Flash Augmented Vector Engine for Large-Scale Approximate Nearest-Neighbor Search Acceleration**
-  - Authors: Po-Kai Hsu, Weihong Xu, Qunyou Liu, Tajana Rosing, Shimeng Yu
-  - Published: 2026-03-01 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01175v1) | [PDF](https://arxiv.org/pdf/2603.01175v1)
+- **Millisecond-long electron spin lifetime in CsPbI$_3$ perovskite nanocrystals revealed by optically detected magnetic resonance**
+  - Authors: Vasilii V. Belykh, Mikhail M. Glazov, Sergey R. Meliakov, Dmitri R. Yakovlev, Evgeniya V. Kulebyakina, Mikhail L. Skorikov, Mikhail V. Kochiev, Maria S. Kuznetsova, Elena V. Kolobkova, Manfred Bayer
+  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03038v1) | [PDF](https://arxiv.org/pdf/2603.03038v1)
   - Matched: fet
-- **Intrinsic topological spin probes for electrical imaging of nanoscale energy landscapes**
-  - Authors: Liam K. Mitchell, Benjamin J. Brown, Gang Xiao
-  - Published: 2026-03-01 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01133v1) | [PDF](https://arxiv.org/pdf/2603.01133v1)
+- **Intrinsic Electric Field Driven High Sensitive Photodetection in Alloy TMDC MoSSe**
+  - Authors: Chumki Nayak, Suvadip Masanta, Shubhadip Moulick, Manotosh Pramanik, Atanu Kabiraj, Satchidananda Rath, Sukanya Ghosh, Atindra Nath Pal, Bipul Pal, Achintya Singha
+  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02967v1) | [PDF](https://arxiv.org/pdf/2603.02967v1)
+  - Matched: fet, sic
+- **Fast and memory-efficient classical simulation of quantum machine learning via forward and backward gate fusion**
+  - Authors: Yoshiaki Kawase
+  - Published: 2026-03-03 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02804v1) | [PDF](https://arxiv.org/pdf/2603.02804v1)
   - Matched: sic
-- **Networking Molecular Quantum Emitters on a Single Chain : From Single to Cooperative Emitters**
-  - Authors: Jean-Baptiste Marceau, Juliette Le Balle, Christel Poujol, Frédéric Fossard, Annick Loiseau, Gaëlle Recher, Etienne Gaufrès
-  - Published: 2026-03-01 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01107v1) | [PDF](https://arxiv.org/pdf/2603.01107v1)
-  - Matched: gan
-- **Design of 2D V<sub>6</sub>S<sub>n</sub>Se<sub>6-n</sub>Cl<sub>6</sub> (n=0, 2, 3, 5) with multilayer kagome lattice and ultrahigh electron mobility**
-  - Authors: Xing-Yu Wang, En-Qi Bao, Su-Yang Shen, Jun-Hui Yuan, Jiafu Wang
-  - Published: 2026-03-01 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01094v1) | [PDF](https://arxiv.org/pdf/2603.01094v1)
+- **Unlocking the Potential of Ni2+ and Ni2+-Cr3+ Synergy for Bifunctional Pressure and Temperature Optical Sensing**
+  - Authors: M. Szymczak, L. Marciniak
+  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02778v1) | [PDF](https://arxiv.org/pdf/2603.02778v1)
+  - Matched: fet, sic
+- **Decoupling Intrinsic Molecular Efficacy from Platform Effects: An Interpretable Machine Learning Framework for Unbiased Perovskite Passivator Discovery**
+  - Authors: Jing Zhang, Ziyuan Li, Shan Gao, Zhen Zhu, Jing Wang, Xiangmei Duan
+  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02717v1) | [PDF](https://arxiv.org/pdf/2603.02717v1)
   - Matched: sic
-- **Non-reciprocal properties of 2D superconductors**
-  - Authors: Xingrong Ren, Huiqing Ye, Tian Le
-  - Published: 2026-03-01 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2603.01011v1) | [PDF](https://arxiv.org/pdf/2603.01011v1)
+- **Room-temperature magnetic p-n junctions for charge-and-spin diodes**
+  - Authors: Yuzhang Jiao, Yutong Wang, Xiangning Du, You Ba, Yingqi Zhang, Zhiwei Tang, Xiangrong Wang, Tiantian Chai, Xiaoke Mu, Cheng Song et al.
+  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02506v1) | [PDF](https://arxiv.org/pdf/2603.02506v1)
+  - Matched: transistor
+- **Internal Charge Amplification in Germanium at 77K and 4K: From Single-Free-Flight Bounds to a Physics-Informed Ionization Model**
+  - Authors: Dongming Mei, Kunming Dong, Narayan Budhathoki, Shasika Panamaldeniya, Francisco Ponce
+  - Published: 2026-03-02 | Category: `physics.ins-det`
+  - Links: [arXiv](https://arxiv.org/abs/2603.02391v1) | [PDF](https://arxiv.org/pdf/2603.02391v1)
   - Matched: sic
-- **Depletion to Enhancement Mode Transition and Strongly Suppressed Hysteresis in Surface Engineered Multilayer MoS2 FETs**
-  - Authors: Samiksha Bhatia, Ramesh Singh Bisht, Pramod Kumar
-  - Published: 2026-03-01 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.00967v1) | [PDF](https://arxiv.org/pdf/2603.00967v1)
-  - Matched: transistor, fet, gan, sic
 
 ---
 
