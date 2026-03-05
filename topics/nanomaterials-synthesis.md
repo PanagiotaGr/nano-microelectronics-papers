@@ -1,56 +1,56 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-03-04
+**Last update:** 2026-03-05
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Anomalous Klein tunnelling with magnetic barriers in strained graphene**
-  - Authors: Edgardo Marin-Colli, Tonatiuh Gómez-Ramírez, O-Excell Gutierrez, Yonatan Betancur-Ocampo, Alfredo Raya, Erik Díaz-Bautista
-  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03240v1) | [PDF](https://arxiv.org/pdf/2603.03240v1)
+- **Study on the Effect of Annealing on Ga$_2$O$_3$ Thin Films Deposited on Silicon by RF Sputtering**
+  - Authors: Ana Sofia Sousa, Duarte M. Esteves, Tiago T. Robalo, Mário S. Rodrigues, Katharina Lorenz, Marco Peres
+  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04327v1) | [PDF](https://arxiv.org/pdf/2603.04327v1)
+  - Matched: thin film, sputtering
+- **Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices**
+  - Authors: Josef Světlík, Juan F. Sierra, Lorenzo Camosi, Williams Savero Torres, Franz Herling, Vera Marinova, Dimitre Dimitrov, Sergio O. Valenzuela
+  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04297v1) | [PDF](https://arxiv.org/pdf/2603.04297v1)
   - Matched: graphene
-- **Fingerprint of $T_c$ advancement in Li-doped Bi-2223 superconductors prepared by cationic molecular mixing within Pechini sol-gel synthesis**
-  - Authors: N. K. Man, Huu T. Do, Nguyen V. Tu, Nguyen V. Quy
-  - Published: 2026-03-03 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03124v1) | [PDF](https://arxiv.org/pdf/2603.03124v1)
-  - Matched: sol-gel
-- **From stacking to function: emergent states and quantum devices in 2D superconductor heterostructures**
-  - Authors: Sichun Zhao, Junlin Xiong, Ji Zhou, Shi-Jun Liang, Bin Cheng, Feng Miao
-  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02930v1) | [PDF](https://arxiv.org/pdf/2603.02930v1)
-  - Matched: heterostructure
-- **Gate Stack Engineering for High-Mobility and Low-Noise SiMOS Quantum Devices**
-  - Authors: Md. Mamunur Rahman, Ensar Vahapoglu, Kok Wai Chan, Tuomo Tanttu, Ajit Dash, Jonathan Yue Huang, Venkatesh Chenniappan, Fay Hudson, Christopher C. Escott, Yik Kheng Lee et al.
-  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02814v1) | [PDF](https://arxiv.org/pdf/2603.02814v1)
-  - Matched: quantum dot, deposition
-- **Electrical driving of hole spin states in planar silicon MOS device by g-matrix modulation**
-  - Authors: Aaquib Shamim, Scott D. Liles, Joe Hillier, Jonathan Y. Huang, Isaac Vorreiter, Pratik Chowdhury, Chris C. Escott, Fay E. Hudson, Wee Han Lim, Kok Wai Chan et al.
-  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02746v1) | [PDF](https://arxiv.org/pdf/2603.02746v1)
-  - Matched: quantum dot
-- **Exploring stable long-lifetime plasmon excitations in the Lieb lattice**
-  - Authors: Andrii Iurov, Liubov Zhemchuzhna, Godfrey Gumbs, Danhong Huang
-  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02523v1) | [PDF](https://arxiv.org/pdf/2603.02523v1)
+- **Ab initio study of saddle-point excitons in monolayer SnS2**
+  - Authors: Vinicius Alves Bastos, Fulvio Paleari, Eleonora Luppi, Marco Gibertini, Alice Ruini
+  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04294v1) | [PDF](https://arxiv.org/pdf/2603.04294v1)
   - Matched: graphene
-- **Graphene-capped bismuthene on SiC as a platform for correlated quantum spin Hall edge states**
-  - Authors: Huu Thoai Ngo, Zamin Mamiyev, Niclas Tilgner, Andres David Pena Unigarro, Sibylle Gemming, Thomas Seyller, Christoph Tegenkamp
-  - Published: 2026-03-02 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02397v1) | [PDF](https://arxiv.org/pdf/2603.02397v1)
-  - Matched: graphene
-- **Orbital to charge current conversion in copper oxide heterostructures**
-  - Authors: S. Vojkovic, K. Cancino, G. Rodríguez, E. Burgos, G. Herrera, C. Gonzalez-Fuentes, J. Palma, T. V. M. Sreekanth, J. Denardin, R. L. Rodríguez-Suárez et al.
-  - Published: 2026-03-02 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02340v1) | [PDF](https://arxiv.org/pdf/2603.02340v1)
-  - Matched: heterostructure
-- **Unveiling Davydov-Split Excitons in a Template-Engineered Molecular-Graphene Heterostructure**
-  - Authors: Jan Kunc, Bohdan Morzhuk, Veronika Stará, Devanshu Varshney, Mykhailo Shestopalov, Kryštof Matějka, Martin Rejhon, Jiří Novák, Jan Čechal
-  - Published: 2026-03-02 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.02301v1) | [PDF](https://arxiv.org/pdf/2603.02301v1)
+- **Chemical Vapor Deposition of Epitaxial Chromium Nitride Thin Films**
+  - Authors: Lewis J. Adams, Sara Baserga, Laurent Souqui, Enji Sadek, Linus von Fieandt, Per Eklund
+  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04154v1) | [PDF](https://arxiv.org/pdf/2603.04154v1)
+  - Matched: thin film, deposition, cvd
+- **Quantum oscillations and linear magnetoresistance in ultraclean CaVO$_3$ thin films**
+  - Authors: M. Müller, M. Espinosa, O. Chiatti, T. Kuznetsova, R. Engel-Herbert, S. F. Fischer
+  - Published: 2026-03-04 | Category: `cond-mat.str-el`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04138v1) | [PDF](https://arxiv.org/pdf/2603.04138v1)
+  - Matched: thin film, epitaxy
+- **Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2**
+  - Authors: Mayank Joshi, Mengting Jiang, Yu Xing, Yuerui Lu, Jie Zhao, Ping Koy Lam, Syed M Assad, Xuezhi Ma, Young-Wook Cho
+  - Published: 2026-03-04 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04082v1) | [PDF](https://arxiv.org/pdf/2603.04082v1)
   - Matched: graphene, heterostructure
+- **Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging**
+  - Authors: Yicheng Wei, Han Xu, Xingqiang Zhang, Wei Wang, Zhe Cheng
+  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03737v1) | [PDF](https://arxiv.org/pdf/2603.03737v1)
+  - Matched: thin film, deposition
+- **Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth**
+  - Authors: E. I. Titova, A. Titchenko, M. Titova, K. Shein, A. Kuksov, A. Sobolev, M. Kashchenko, M. Kravtsov, L. Elesin, K. S. Novoselov et al.
+  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03554v1) | [PDF](https://arxiv.org/pdf/2603.03554v1)
+  - Matched: graphene
+- **Probing Interface-Driven Mechanisms of Non-Classical Light in van der Waals Heterostructures**
+  - Authors: Bárbara L. T. Rosa, Lara Greten, Raphaela de Oliveira, César Ribahi, Aris Koulas-Simos, Chirag C. Palekar, Yara Gobato, Ingrid D. Barcelos, Andreas Knorr, Stephan Reitzenstein
+  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.03534v1) | [PDF](https://arxiv.org/pdf/2603.03534v1)
+  - Matched: hbn, heterostructure
 
 ---
 
