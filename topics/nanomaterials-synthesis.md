@@ -1,56 +1,41 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-03-05
+**Last update:** 2026-03-06
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Study on the Effect of Annealing on Ga$_2$O$_3$ Thin Films Deposited on Silicon by RF Sputtering**
-  - Authors: Ana Sofia Sousa, Duarte M. Esteves, Tiago T. Robalo, Mário S. Rodrigues, Katharina Lorenz, Marco Peres
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04327v1) | [PDF](https://arxiv.org/pdf/2603.04327v1)
-  - Matched: thin film, sputtering
-- **Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices**
-  - Authors: Josef Světlík, Juan F. Sierra, Lorenzo Camosi, Williams Savero Torres, Franz Herling, Vera Marinova, Dimitre Dimitrov, Sergio O. Valenzuela
+- **Temperature-Dependent Dielectric Function of Tantalum Nitride Formed by Atomic Layer Deposition for Tunnel Barriers in Josephson Junctions**
+  - Authors: Ekta Bhatia, Aaron Lopez Gonzalez, Yoshitha Hettige, Tuan Vo, Sandra Schujman, Kevin Musick, Thomas Murray, Kim Kisslinger, Chenyu Zhou, Mingzhao Liu et al.
+  - Published: 2026-03-05 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05383v1) | [PDF](https://arxiv.org/pdf/2603.05383v1)
+  - Matched: deposition, ald
+- **Precise control of crystallography and magnetism in focused-ion-beam transformed iron-nickel thin films**
+  - Authors: Jakub Holobrádek, Libor Vojáček, Ondřej Wojewoda, Michael Schmid, Michal Urbánek
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05242v1) | [PDF](https://arxiv.org/pdf/2603.05242v1)
+  - Matched: thin film
+- **Epitaxial Growth and Electronic Properties of QuasiFreeStanding Rhombohedral WSe2 Bilayers on Cubic W110**
+  - Authors: Niels Chapuis, Meryem Bouaziz, Eva Desgue, Iann Gerber, François Bertarn, Pierre Legagneux, Fabrice Oehler, Julien Chaste, Abdelkarim Ouerghi
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05199v1) | [PDF](https://arxiv.org/pdf/2603.05199v1)
+  - Matched: heterostructure, epitaxy
+- **Thin amorphous molybdenum silicide superconducting shells around individual nanowires deposited via magnetron co-sputtering**
+  - Authors: Luize Dipane, Martins Zubkins, Gunta Kunakova, Eriks Dipans, Tom Yager, Boris Polyakov, Edgars Butanovs
+  - Published: 2026-03-05 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05176v1) | [PDF](https://arxiv.org/pdf/2603.05176v1)
+  - Matched: thin film, deposition, sputtering
+- **Large-Area Deterministic Stamping of 2D Materials on Arbitrarily Patterned Surfaces**
+  - Authors: Bernardo S. Dias, Reynolds Dziobek-Garrett, Gabriella Mentasti, Abhishek Gupta, Alexander Lambertz, Esther Alarcon-Llado, Peter Schall, Roland Bliem, Jorik van de Groep
   - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04297v1) | [PDF](https://arxiv.org/pdf/2603.04297v1)
-  - Matched: graphene
-- **Ab initio study of saddle-point excitons in monolayer SnS2**
-  - Authors: Vinicius Alves Bastos, Fulvio Paleari, Eleonora Luppi, Marco Gibertini, Alice Ruini
+  - Links: [arXiv](https://arxiv.org/abs/2603.04623v1) | [PDF](https://arxiv.org/pdf/2603.04623v1)
+  - Matched: 2d material, hbn, heterostructure
+- **Ge as an orbitronic platform: giant in-plane orbital magneto-electric effect in a 2-dimensional hole gas**
+  - Authors: James H. Cullen, Dimitrie Culcer
   - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04294v1) | [PDF](https://arxiv.org/pdf/2603.04294v1)
-  - Matched: graphene
-- **Chemical Vapor Deposition of Epitaxial Chromium Nitride Thin Films**
-  - Authors: Lewis J. Adams, Sara Baserga, Laurent Souqui, Enji Sadek, Linus von Fieandt, Per Eklund
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04154v1) | [PDF](https://arxiv.org/pdf/2603.04154v1)
-  - Matched: thin film, deposition, cvd
-- **Quantum oscillations and linear magnetoresistance in ultraclean CaVO$_3$ thin films**
-  - Authors: M. Müller, M. Espinosa, O. Chiatti, T. Kuznetsova, R. Engel-Herbert, S. F. Fischer
-  - Published: 2026-03-04 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04138v1) | [PDF](https://arxiv.org/pdf/2603.04138v1)
-  - Matched: thin film, epitaxy
-- **Air-stable bright entangled photon-pair source from graphene-encapsulated van der Waals ferroelectric NbOI2**
-  - Authors: Mayank Joshi, Mengting Jiang, Yu Xing, Yuerui Lu, Jie Zhao, Ping Koy Lam, Syed M Assad, Xuezhi Ma, Young-Wook Cho
-  - Published: 2026-03-04 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04082v1) | [PDF](https://arxiv.org/pdf/2603.04082v1)
-  - Matched: graphene, heterostructure
-- **Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging**
-  - Authors: Yicheng Wei, Han Xu, Xingqiang Zhang, Wei Wang, Zhe Cheng
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03737v1) | [PDF](https://arxiv.org/pdf/2603.03737v1)
-  - Matched: thin film, deposition
-- **Graphene Zero-Bias Sub-Terahertz Turnkey Detector with Above 43 GHz Bandwidth**
-  - Authors: E. I. Titova, A. Titchenko, M. Titova, K. Shein, A. Kuksov, A. Sobolev, M. Kashchenko, M. Kravtsov, L. Elesin, K. S. Novoselov et al.
-  - Published: 2026-03-03 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03554v1) | [PDF](https://arxiv.org/pdf/2603.03554v1)
-  - Matched: graphene
-- **Probing Interface-Driven Mechanisms of Non-Classical Light in van der Waals Heterostructures**
-  - Authors: Bárbara L. T. Rosa, Lara Greten, Raphaela de Oliveira, César Ribahi, Aris Koulas-Simos, Chirag C. Palekar, Yara Gobato, Ingrid D. Barcelos, Andreas Knorr, Stephan Reitzenstein
-  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03534v1) | [PDF](https://arxiv.org/pdf/2603.03534v1)
-  - Matched: hbn, heterostructure
+  - Links: [arXiv](https://arxiv.org/abs/2603.04500v1) | [PDF](https://arxiv.org/pdf/2603.04500v1)
+  - Matched: 2d material
 
 ---
 

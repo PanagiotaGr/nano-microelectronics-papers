@@ -1,81 +1,71 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-03-05
+**Last update:** 2026-03-06
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **The effect of chemical vapor infiltration process parameters on flexural strength of porous α-SiC: A numerical model**
-  - Authors: Joseph J. Marziale, Jason Sun, Eric A. Walker, Yu Chen, David Salac, James Chen
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04287v1) | [PDF](https://arxiv.org/pdf/2603.04287v1)
-  - Matched: sic
-- **Interfering trajectories in a ballistic Andreev cavity**
-  - Authors: Pankaj Mandal, Marcel Kaschper, Fernando Dominguez, Soumi Mondal, Lukas Lunczer, Dongyun Chen, Martin P. Stehno, Ewelina M. Hankiewicz, Björn Trauzettel, Teun M. Klapwijk et al.
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04046v1) | [PDF](https://arxiv.org/pdf/2603.04046v1)
-  - Matched: sic
-- **Dielectric Barrier Corona Discharge Anomaly by Ionic Wind under Unipolar Voltage Excitation**
-  - Authors: Gan Fu
-  - Published: 2026-03-04 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03986v1) | [PDF](https://arxiv.org/pdf/2603.03986v1)
-  - Matched: sic
-- **Trainable Neuromorphic Spintronic Hardware Via Analog Finite-Difference Gradient Methods**
-  - Authors: Catarina Pereira, Alex Jenkins, Eleonora Raimondo, Mario Carpentieri, Ensieh Iranmehr, Luana Benetti, Subhajit Roy, Ricardo Ferreira, Joao Ventura, Giovanni Finocchio et al.
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03947v1) | [PDF](https://arxiv.org/pdf/2603.03947v1)
-  - Matched: sic
-- **Hydrostatic Pressure Driven Band Gap Tuning and Self-Trapped Exciton Formation in (4FPEA)$_2$SnBr$_{4}$ Halide Perovskite**
-  - Authors: Rafał Bartoszewicz, Jakub Ziembicki, Ewelina Zdanowicz, Artur P. Herman, Jesús Sánchez-Diaz, Samrat Das Adhikari, Iván Mora-Seró, Robert Kudrawiec
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03931v1) | [PDF](https://arxiv.org/pdf/2603.03931v1)
-  - Matched: sic
-- **Constellation Selection and Power Control for OFDM-based ISAC: From Theory to Prototype**
-  - Authors: Kaitao Meng, Kawon Han, Christos Masouros, Fan Liu
-  - Published: 2026-03-04 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03895v1) | [PDF](https://arxiv.org/pdf/2603.03895v1)
-  - Matched: sic
-- **Imaging asymmetric Coulomb blockade phenomena across metallic nanoislands**
-  - Authors: Junho Bang, Byeongin Lee, Hankyu Lee, Jian-Feng Ge, Doohee Cho
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03783v1) | [PDF](https://arxiv.org/pdf/2603.03783v1)
-  - Matched: transistor, tunneling
-- **Nonvolatile Control of Nonlinear Hall and Circular Photogalvanic Effects via Berry Curvature Dipole in Multiferroic Monolayer CrNBr2**
-  - Authors: Wenzhe Zhou, Dehe Zhang, Guibo Zheng, Yinheng Li, Fangping Ouyang
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03670v1) | [PDF](https://arxiv.org/pdf/2603.03670v1)
-  - Matched: ferroelectric
-- **Plasmonic polaron in self-intercalated 1T-TiS2**
-  - Authors: Byoung Ki Choi, Woojin Choi, Zhiyu Tao, Ji-Eun Lee, Sae Hee Ryu, Seungrok Mun, Hyobeom Lee, Kyoungree Park, Seha Lee, Hayoon Im et al.
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03663v1) | [PDF](https://arxiv.org/pdf/2603.03663v1)
-  - Matched: sic
-- **Symmetry selection rules for the intrinsic nonlinear thermal Hall effect in altermagnets: Role of quantum metric and $C_{2}$ rotational symmetry**
-  - Authors: Gunn Kim
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03599v1) | [PDF](https://arxiv.org/pdf/2603.03599v1)
-  - Matched: sic
-- **Probabilistic Occupancy Grid for Radio-Based SLAM**
-  - Authors: Xuhong Li, Erik Leitinger, Fredrik Tufvesson, Florian Meyer
-  - Published: 2026-03-03 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03559v1) | [PDF](https://arxiv.org/pdf/2603.03559v1)
-  - Matched: sic
-- **Finite-Size Effects in Nonlocal Metasurfaces**
-  - Authors: Tom Hoekstra, Sander A. Mann, Jorik van de Groep
-  - Published: 2026-03-03 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03552v1) | [PDF](https://arxiv.org/pdf/2603.03552v1)
-  - Matched: fet
-- **Quantum Theory of Functionally Graded Materials**
-  - Authors: Michael J. Landry, Ryotaro Okabe, Chuliang Fu, Mingda Li
-  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03424v1) | [PDF](https://arxiv.org/pdf/2603.03424v1)
-  - Matched: sic
-- **Computational discovery of bifunctional organic semiconductors for energy and biosensing**
-  - Authors: Patrick Sorrel Mvoto Kongo, Steve Cabrel Teguia Kouam, Jean-Pierre Tchapet Njafa, Serge Guy Nana Engo
-  - Published: 2026-03-03 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03392v1) | [PDF](https://arxiv.org/pdf/2603.03392v1)
+- **Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals**
+  - Authors: Junchi Chen, Tamilarasan Subramani, Deep Mekan, Danielle Gendler, Ray Yang, Manish Kumar, Megan Householder, Alexis Rosado Ortiz, Emil A. Hernandez-Pagan, Kristina Lilova et al.
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05420v1) | [PDF](https://arxiv.org/pdf/2603.05420v1)
+  - Matched: gan, sic
+- **Correcting hybrid density functionals to model Y6 and other non-fullerene acceptors**
+  - Authors: Tom Ward, Isabel Creed, Tim Rein, Jarvist Moore Frost
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05379v1) | [PDF](https://arxiv.org/pdf/2603.05379v1)
   - Matched: gan
+- **Observation of Superfluidity and Meissner Effect of Composite Bosons in GaAs Quantum Hall System**
+  - Authors: Yuanze Li, Renfei Wang, Jiahao Chen, Wenfeng Zhang, Adbhut Gupta, Kirk W. Baldwin, Loren Pfeiffer, Rui-Rui Du, Yang Liu, Tian Liang
+  - Published: 2026-03-05 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05341v1) | [PDF](https://arxiv.org/pdf/2603.05341v1)
+  - Matched: gaa
+- **Multi-fidelity Machine Learning Interatomic Potentials for Charged Point Defects**
+  - Authors: Xinwei Wang, Irea Mosquera-Lois, Aron Walsh
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05238v1) | [PDF](https://arxiv.org/pdf/2603.05238v1)
+  - Matched: sic
+- **A Fully Open-source Implementation of an Analog 8-PAM Demapper for High-speed Communications**
+  - Authors: Mohamed Aiham Hemza, Alex Alvarado, Krzysztof Herman, Piyush Kaul
+  - Published: 2026-03-05 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05127v1) | [PDF](https://arxiv.org/pdf/2603.05127v1)
+  - Matched: fet, mosfet
+- **Topological Surface Charge Detection via Active Capacitive Compensation: A Pathway to the 4D Quantum Hall Effect**
+  - Authors: Yuanze Li, Renfei Wang, Yifan Zhang, Jiahao Chen, Yingdong Deng, Jin Xie, Xufeng Kou, Yang Liu, Tian Liang
+  - Published: 2026-03-05 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05025v1) | [PDF](https://arxiv.org/pdf/2603.05025v1)
+  - Matched: negative capacitance, sic
+- **Label Hijacking in Track Consensus-Based Distributed Multi-Target Tracking**
+  - Authors: Helena Calatrava, Shuo Tang, Pau Closas
+  - Published: 2026-03-05 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05023v1) | [PDF](https://arxiv.org/pdf/2603.05023v1)
+  - Matched: sic
+- **Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**
+  - Authors: Muen Wang, Shucheng Yang, Yuxiang Lin, Yuntian Gao, Xue Zhang, Xiaoping Gao, Minghui Niu, Huanli Liu, Yikang Wan, Wei Peng et al.
+  - Published: 2026-03-05 | Category: `cs.ET`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04966v1) | [PDF](https://arxiv.org/pdf/2603.04966v1)
+  - Matched: sic
+- **Modular memristor model with synaptic-like plasticity and volatile memory**
+  - Authors: Daniel Habart, Stephen H. Foulger, Kristyna Kovacova, Ambika Pandey, Yadu R. Panthi, Jiri Pfleger, Jarmila Vilcakova, Lubomir Kostal
+  - Published: 2026-03-05 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04934v1) | [PDF](https://arxiv.org/pdf/2603.04934v1)
+  - Matched: memristor, sic
+- **Electrochromic chiral ferroelectric nematic liquid crystals**
+  - Authors: Md Sakhawat Hossain Himel, James T. Gleeson, Robert J. Twieg, Samuel Sprunt, Antal Jakli
+  - Published: 2026-03-04 | Category: `cond-mat.soft`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04641v1) | [PDF](https://arxiv.org/pdf/2603.04641v1)
+  - Matched: ferroelectric
+- **Rapid modeling of segregation-driven metal-oxide adhesion in high-entropy alloys using macroscopic atom model**
+  - Authors: Dennis Boakye, Chuang Deng
+  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04575v1) | [PDF](https://arxiv.org/pdf/2603.04575v1)
+  - Matched: sic
+- **Realizing anomalous Floquet non-Abelian band topology in photonic scattering networks**
+  - Authors: Yuze Hu, Mingyu Tong, Tian Jiang, Shuxing Yang, Ning Han, Fujia Chen, Li Zhang, Rui Zhao, Qiaolu Chen, Hongsheng Chen et al.
+  - Published: 2026-03-04 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04489v1) | [PDF](https://arxiv.org/pdf/2603.04489v1)
+  - Matched: sic
 
 ---
 

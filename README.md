@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-03-05  
-**Daily archive:** `digests/2026-03-05.md`  
+**Last update:** 2026-03-06  
+**Daily archive:** `digests/2026-03-06.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,66 +50,71 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Study on the Effect of Annealing on Ga$_2$O$_3$ Thin Films Deposited on Silicon by RF Sputtering**
-  - Authors: Ana Sofia Sousa, Duarte M. Esteves, Tiago T. Robalo, Mário S. Rodrigues, Katharina Lorenz, Marco Peres
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04327v1) | [PDF](https://arxiv.org/pdf/2603.04327v1)
-  - Matched: thin film, sputtering
-- **Hanle lineshapes and spin-rotation signatures from in-plane anisotropic spin relaxation in heterogeneous spin devices**
-  - Authors: Josef Světlík, Juan F. Sierra, Lorenzo Camosi, Williams Savero Torres, Franz Herling, Vera Marinova, Dimitre Dimitrov, Sergio O. Valenzuela
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04297v1) | [PDF](https://arxiv.org/pdf/2603.04297v1)
-  - Matched: graphene
-- **Ab initio study of saddle-point excitons in monolayer SnS2**
-  - Authors: Vinicius Alves Bastos, Fulvio Paleari, Eleonora Luppi, Marco Gibertini, Alice Ruini
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04294v1) | [PDF](https://arxiv.org/pdf/2603.04294v1)
-  - Matched: graphene
+- **Temperature-Dependent Dielectric Function of Tantalum Nitride Formed by Atomic Layer Deposition for Tunnel Barriers in Josephson Junctions**
+  - Authors: Ekta Bhatia, Aaron Lopez Gonzalez, Yoshitha Hettige, Tuan Vo, Sandra Schujman, Kevin Musick, Thomas Murray, Kim Kisslinger, Chenyu Zhou, Mingzhao Liu et al.
+  - Published: 2026-03-05 | Category: `cond-mat.supr-con`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05383v1) | [PDF](https://arxiv.org/pdf/2603.05383v1)
+  - Matched: deposition, ald
+- **Precise control of crystallography and magnetism in focused-ion-beam transformed iron-nickel thin films**
+  - Authors: Jakub Holobrádek, Libor Vojáček, Ondřej Wojewoda, Michael Schmid, Michal Urbánek
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05242v1) | [PDF](https://arxiv.org/pdf/2603.05242v1)
+  - Matched: thin film
+- **Epitaxial Growth and Electronic Properties of QuasiFreeStanding Rhombohedral WSe2 Bilayers on Cubic W110**
+  - Authors: Niels Chapuis, Meryem Bouaziz, Eva Desgue, Iann Gerber, François Bertarn, Pierre Legagneux, Fabrice Oehler, Julien Chaste, Abdelkarim Ouerghi
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05199v1) | [PDF](https://arxiv.org/pdf/2603.05199v1)
+  - Matched: heterostructure, epitaxy
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **The effect of chemical vapor infiltration process parameters on flexural strength of porous α-SiC: A numerical model**
-  - Authors: Joseph J. Marziale, Jason Sun, Eric A. Walker, Yu Chen, David Salac, James Chen
-  - Published: 2026-03-04 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04287v1) | [PDF](https://arxiv.org/pdf/2603.04287v1)
-  - Matched: sic
-- **Interfering trajectories in a ballistic Andreev cavity**
-  - Authors: Pankaj Mandal, Marcel Kaschper, Fernando Dominguez, Soumi Mondal, Lukas Lunczer, Dongyun Chen, Martin P. Stehno, Ewelina M. Hankiewicz, Björn Trauzettel, Teun M. Klapwijk et al.
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04046v1) | [PDF](https://arxiv.org/pdf/2603.04046v1)
-  - Matched: sic
-- **Dielectric Barrier Corona Discharge Anomaly by Ionic Wind under Unipolar Voltage Excitation**
-  - Authors: Gan Fu
-  - Published: 2026-03-04 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03986v1) | [PDF](https://arxiv.org/pdf/2603.03986v1)
-  - Matched: sic
+- **Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals**
+  - Authors: Junchi Chen, Tamilarasan Subramani, Deep Mekan, Danielle Gendler, Ray Yang, Manish Kumar, Megan Householder, Alexis Rosado Ortiz, Emil A. Hernandez-Pagan, Kristina Lilova et al.
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05420v1) | [PDF](https://arxiv.org/pdf/2603.05420v1)
+  - Matched: gan, sic
+- **Correcting hybrid density functionals to model Y6 and other non-fullerene acceptors**
+  - Authors: Tom Ward, Isabel Creed, Tim Rein, Jarvist Moore Frost
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05379v1) | [PDF](https://arxiv.org/pdf/2603.05379v1)
+  - Matched: gan
+- **Observation of Superfluidity and Meissner Effect of Composite Bosons in GaAs Quantum Hall System**
+  - Authors: Yuanze Li, Renfei Wang, Jiahao Chen, Wenfeng Zhang, Adbhut Gupta, Kirk W. Baldwin, Loren Pfeiffer, Rui-Rui Du, Yang Liu, Tian Liang
+  - Published: 2026-03-05 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05341v1) | [PDF](https://arxiv.org/pdf/2603.05341v1)
+  - Matched: gaa
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-_No matches today._
+- **Domain-Direct Band Gaps: Classification and Material Realization**
+  - Authors: Yalan Wei, Hairui Ding, Shifang Li, Yuke Song, Chi Ren, Xiao Dong, Chaoyu He
+  - Published: 2026-03-05 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05103v1) | [PDF](https://arxiv.org/pdf/2603.05103v1)
+  - Matched: yield
+- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**
-  - Authors: Zeyu Zhang, Koorosh Sadri, Brian Gould, Mikael Rechtsman
-  - Published: 2026-03-04 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04389v1) | [PDF](https://arxiv.org/pdf/2603.04389v1)
-  - Matched: photonics, waveguide
-- **Sub-wavelength mid-infrared imaging of locally driven photocurrents using diamond campanile probes**
-  - Authors: Rajasekhar Medapalli, Nathan D. Cottam, Khushboo Agarwal, Benjamin T. Dewes, Nils Dessmann, Sergio Gonzalez-Munoz, Wenjing Yan, Vaidotas Mišeikis, Sergey Kafanov, Rostislav V. Mikhaylovskiy et al.
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04318v1) | [PDF](https://arxiv.org/pdf/2603.04318v1)
-  - Matched: photonics, optoelectronics, laser
-- **Generating Exceptional Knots and Links with Arbitrary Braiding Topology**
-  - Authors: Bin Jiang, Aolong Guo, Qilin Cai, Jian-Hua Jiang
-  - Published: 2026-03-04 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04143v1) | [PDF](https://arxiv.org/pdf/2603.04143v1)
-  - Matched: led
+- **Technical design report of a complete and compact broadband high-harmonics femtosecond beamline based on a modular hollow waveguide for photons generation centered on the upper region of the extreme ultraviolet spectral range**
+  - Authors: Yohann Brelet, Arnaud Marquette, Nicolas Beyer, Gilles Versini, Jacques Faerber, Mircea Vomir, Valerie Halte, Marie Barthelemy
+  - Published: 2026-03-05 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05431v1) | [PDF](https://arxiv.org/pdf/2603.05431v1)
+  - Matched: waveguide, laser
+- **Pulse-duration-sensitive high harmonics and attosecond locally-chiral light from a chiral topological Weyl semimetal**
+  - Authors: Alba de las Heras, Ofer Neufeld, Angel Rubio
+  - Published: 2026-03-05 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05346v1) | [PDF](https://arxiv.org/pdf/2603.05346v1)
+  - Matched: laser
+- **On Dual-Fed Pinching Antenna Systems with In-Waveguide Attenuation**
+  - Authors: Ximing Xie, Hao Qin, Fang Fang, Xianbin Wang
+  - Published: 2026-03-05 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.05251v1) | [PDF](https://arxiv.org/pdf/2603.05251v1)
+  - Matched: waveguide, led
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
@@ -125,16 +130,11 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **FedCova: Robust Federated Covariance Learning Against Noisy Labels**
-  - Authors: Xiangyu Zhong, Xiaojun Yuan, Ying-Jun Angela Zhang
-  - Published: 2026-03-04 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2603.04062v1) | [PDF](https://arxiv.org/pdf/2603.04062v1)
-  - Matched: aging, noise
-- **When Small Variations Become Big Failures: Reliability Challenges in Compute-in-Memory Neural Accelerators**
-  - Authors: Yifan Qin, Jiahao Zheng, Zheyu Yan, Wujie Wen, Xiaobo Sharon Hu, Yiyu Shi
-  - Published: 2026-03-03 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2603.03491v1) | [PDF](https://arxiv.org/pdf/2603.03491v1)
-  - Matched: reliability, degradation, noise
+- **Long-Lived Mechanically-Detected Molecular Spins for Quantum Sensing**
+  - Authors: Sahand Tabatabaei, Pritam Priyadarsi, Daniel Tay, Namanish Singh, Pardis Sahafi, Andrew Jordan, Raffi Budakian
+  - Published: 2026-03-05 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.04708v1) | [PDF](https://arxiv.org/pdf/2603.04708v1)
+  - Matched: aging
 - _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
 <!-- END TODAY -->
 
