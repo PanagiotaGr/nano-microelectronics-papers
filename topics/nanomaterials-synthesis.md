@@ -1,61 +1,46 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-03-10
+**Last update:** 2026-03-11
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Second harmonic study of thermally oxidized mono- and few-layer 2H-MoS2**
-  - Authors: Katharina Burgholzer, Henry Volker Hübschmann, Gerhard Berth, Adriana Bocchini, Uwe Gerstmann, Wolf Gero Schmidt, Klaus D. Jöns, Alberta Bonanni
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08461v1) | [PDF](https://arxiv.org/pdf/2603.08461v1)
-  - Matched: mos2
-- **Unveiling the Thermal and Aqueous Stability of 1D Lepidocrocite Titania**
-  - Authors: Risha A. Iythichanda, Sukanya Maity, Mustafa M. Aboulsaad, Tomas Edvinsson, Johanna Rosen, Per O. Å. Persson
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08355v1) | [PDF](https://arxiv.org/pdf/2603.08355v1)
-  - Matched: nanoparticles
-- **Atomic-resolution imaging of gold species at organic liquid-solid interfaces**
-  - Authors: Sam Sullivan-Allsop, Nick Clark, Wendong Wang, Rongsheng Cai, William Thornley, David G. Hopkinson, James G. McHugh, Ben Davies, Samuel Pattisson, Nicholas F. Dummer et al.
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08299v1) | [PDF](https://arxiv.org/pdf/2603.08299v1)
-  - Matched: graphene
-- **Strain-driven magnetic anisotropy and spin reorientation in epitaxial Co V 2 O 4 spinel oxide thin films**
-  - Authors: Lamiae El Khabchi, Laurent Schlur, Jérôme Robert, Marc Lenertz, Cédric Leuvrey, Gilles Versini, François Roulland, Gilbert Chahine, Nils Blanc, Daniele Preziosi et al.
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08187v1) | [PDF](https://arxiv.org/pdf/2603.08187v1)
-  - Matched: thin film, deposition
-- **All-in-plane image sensors free from readout integrated circuits**
-  - Authors: Kirill Kapralov, Ilya Mazurenko, Elizaveta Tarkaeva, Valentin Semkin, Oleg Kononenko, Maxim Knyazev, Viktor Matveev, Mikhail Kashchenko, Alexander Morozov, Ivan Domaratsky et al.
-  - Published: 2026-03-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08178v1) | [PDF](https://arxiv.org/pdf/2603.08178v1)
-  - Matched: graphene
-- **Layer-Dependent Orbital Magnetization in Graphene-Haldane Heterostructures**
-  - Authors: Sovan Ghosh, Bheema Lingam Chittari
-  - Published: 2026-03-09 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08170v1) | [PDF](https://arxiv.org/pdf/2603.08170v1)
-  - Matched: graphene, heterostructure, ald
-- **SiPM non-linearity studies in beam tests with scintillating crystals**
-  - Authors: Zhiyu Zhao, Dejing Du, Shu Li, Yong Liu, Baohua Qi, Jack Rolph, Haijun Yang
-  - Published: 2026-03-09 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08167v1) | [PDF](https://arxiv.org/pdf/2603.08167v1)
-  - Matched: deposition
-- **Four-state discrimination for a pair of spin qubits via gate reflectometry**
-  - Authors: Aritra Sen, András Pályi
-  - Published: 2026-03-08 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.07806v1) | [PDF](https://arxiv.org/pdf/2603.07806v1)
+- **Higher-harmonic acoustic driving of quantum-dot optical transitions beyond Rabi-frequency resonance**
+  - Authors: Mateusz Kuniej, Paweł Machnikowski, Michał Gawełczyk
+  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09849v1) | [PDF](https://arxiv.org/pdf/2603.09849v1)
   - Matched: quantum dot
-- **Comprehensive Optical, Electrical and Humidity Sensing Properties of Bifidobacterium infantis 35624 Thin Films**
-  - Authors: S. Ozturk, H. Tatlipinar, K. Bozkurt, O. Ozdemir, B. C. Omur, A. Altindal, H. S. Bozkurt
-  - Published: 2026-03-08 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.07762v1) | [PDF](https://arxiv.org/pdf/2603.07762v1)
+- **AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**
+  - Authors: Bonwook Gu, Trinh Ngoc Le, Wonjoong Kim, Zunair Masroor, Han-Bo-Ram Lee
+  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09744v1) | [PDF](https://arxiv.org/pdf/2603.09744v1)
+  - Matched: thin film, deposition, ald
+- **On the origin of diverse interlayer charge redistribution in transition-metal dichalcogenides**
+  - Authors: Yu-Meng Gao, Nie-Wei Wang, Shi-Xuan Yuan, Wen-Xin Xia, Jiang-Long Wang, Xing-Qiang Shi
+  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09603v1) | [PDF](https://arxiv.org/pdf/2603.09603v1)
+  - Matched: mos2
+- **Magneto-optical Response of 5-SL MnBi$_2$Te$_4$ in Spin-Flip States**
+  - Authors: Shahid Sattar, Roman Stepanov, A. H. MacDonald, C. M. Canali
+  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09578v1) | [PDF](https://arxiv.org/pdf/2603.09578v1)
   - Matched: thin film
-- **Optimizing quantum transport in multi-barrier graphene systems using differential evolution**
-  - Authors: Leon Browne, Stephen R. Power
-  - Published: 2026-03-08 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.07585v1) | [PDF](https://arxiv.org/pdf/2603.07585v1)
+- **Interface Engineered Moiré Graphene Superlattices: Breaking the Auger Carrier Multiplication Limit for Infrared Single-Photon Detection**
+  - Authors: Sichao Du, Ning Li, Zhufeng Pan, Munir Ali, Hengrui Zhang, Duokai Chang, Yuehang Zhang, Qiang Wen, Shuo Zhang, Hao Wu et al.
+  - Published: 2026-03-10 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09366v1) | [PDF](https://arxiv.org/pdf/2603.09366v1)
   - Matched: graphene
+- **Structural and electronic signatures of strain-tunable marginally twisted bilayer graphene**
+  - Authors: Pei Ouyang, Jiawei Yu, Qian Li, Guihao Jia, Yuyang Wang, Kebin Xiao, Hongyun Zhang, Zhiqiang Hu, Pierre A. Pantaleón, Zhen Zhan et al.
+  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.09295v1) | [PDF](https://arxiv.org/pdf/2603.09295v1)
+  - Matched: graphene
+- **Pfaffian-based topological invariants for one dimensional semiconductor-superconductor heterostructures**
+  - Authors: Binayyak B. Roy, William B. Cason, Nimish Sharma, Sumanta Tewari
+  - Published: 2026-03-09 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.08786v1) | [PDF](https://arxiv.org/pdf/2603.08786v1)
+  - Matched: heterostructure
 
 ---
 
