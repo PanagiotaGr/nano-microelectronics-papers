@@ -1,16 +1,16 @@
 # Reliability, Modeling & TCAD
 
-**Last update:** 2026-03-11
+**Last update:** 2026-03-12
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **CTPX1: A Highly Integrated and High-Throughput Data-Driven Camera Based on Timepix4**
-  - Authors: Qicai Li, Hongbin Liu, Xingfen Jiang, Jianrong Zhou, Yujie Zhou, Haoran Guo, Dongcheng Cai, Weile Gong, Yimie Yuan, Chengshuo Zhang et al.
-  - Published: 2026-03-10 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09534v1) | [PDF](https://arxiv.org/pdf/2603.09534v1)
-  - Matched: aging, noise
+- **Prioritizing Gradient Sign Over Modulus: An Importance-Aware Framework for Wireless Federated Learning**
+  - Authors: Yiyang Yue, Jiacheng Yao, Wei Xu, Zhaohui Yang, George K. Karagiannidis, Dusit Niyato
+  - Published: 2026-03-11 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10763v1) | [PDF](https://arxiv.org/pdf/2603.10763v1)
+  - Matched: reliability
 
 ---
 

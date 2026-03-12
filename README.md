@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-03-11  
-**Daily archive:** `digests/2026-03-11.md`  
+**Last update:** 2026-03-12  
+**Daily archive:** `digests/2026-03-12.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,66 +50,71 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Higher-harmonic acoustic driving of quantum-dot optical transitions beyond Rabi-frequency resonance**
-  - Authors: Mateusz Kuniej, Paweł Machnikowski, Michał Gawełczyk
-  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09849v1) | [PDF](https://arxiv.org/pdf/2603.09849v1)
-  - Matched: quantum dot
-- **AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**
-  - Authors: Bonwook Gu, Trinh Ngoc Le, Wonjoong Kim, Zunair Masroor, Han-Bo-Ram Lee
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09744v1) | [PDF](https://arxiv.org/pdf/2603.09744v1)
-  - Matched: thin film, deposition, ald
-- **On the origin of diverse interlayer charge redistribution in transition-metal dichalcogenides**
-  - Authors: Yu-Meng Gao, Nie-Wei Wang, Shi-Xuan Yuan, Wen-Xin Xia, Jiang-Long Wang, Xing-Qiang Shi
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09603v1) | [PDF](https://arxiv.org/pdf/2603.09603v1)
-  - Matched: mos2
+- **Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability**
+  - Authors: Quinn T. Campbell, Manny Xavier de Jesus Lopez, Anthony Rice, Timothy J. Ruggles, Taisuke Ohta, Caitlin McCowan, Sadhvikas Addamane, Scott W. Schmucker, Justine Koepke
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10968v1) | [PDF](https://arxiv.org/pdf/2603.10968v1)
+  - Matched: graphene, epitaxy
+- **Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**
+  - Authors: Jeyong Park, Mingdi Luo, Louk Rademaker, Jurgen Smet, Mathias S. Scheurer, Laura Classen
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10914v1) | [PDF](https://arxiv.org/pdf/2603.10914v1)
+  - Matched: graphene
+- **Fast Programming of In-Plane Hyperbolic Phonon Polariton Optics Through van der Waals Crystals using the Phase-Change Material In3SbTe2**
+  - Authors: Lina Jäckering, Umberto Saldarelli, Aaron Moos, Lukas Conrads, Enrique Terán-García, Christian Lanza, Aitana Tarazaga Martín-Luengo, Gonzalo Álvarez-Pérez, Pablo Alonso-González, Matthias Wuttig et al.
+  - Published: 2026-03-11 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10900v1) | [PDF](https://arxiv.org/pdf/2603.10900v1)
+  - Matched: deposition
 - _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
 
 
 ### Nano/Microelectronic Devices
 
-- **A systematic study of single molecule metallocenes with 4d and 3d transition metal atoms**
-  - Authors: Daniela Herrera-Molina, Kushantha P. K. Withanage, Jesus N. Pedroza-Montero, Pardeep Kaur, Mark. R. Pederson, M. F. Islam
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09863v1) | [PDF](https://arxiv.org/pdf/2603.09863v1)
+- **Microscopic screening theory for excitons in two-dimensional materials: A bridge between effective models and ab initio descriptions**
+  - Authors: P. Ninhos, A. J. Uría-Álvarez, C. Tserkezis, N. A. Mortensen, J. J. Palacios
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10966v1) | [PDF](https://arxiv.org/pdf/2603.10966v1)
+  - Matched: sic
+- **Importance of nonlinear long-range electron-phonon interaction on the carrier mobility of anharmonic halide perovskites**
+  - Authors: Matthew Houtput, Ingvar Zappacosta, Serghei Klimin, Samuel Poncé, Jacques Tempere, Cesare Franchini
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10954v1) | [PDF](https://arxiv.org/pdf/2603.10954v1)
   - Matched: gan
-- **Layered Dielectric Characterization of Human Skin in the Sub-Terahertz and Terahertz Frequency Ranges**
-  - Authors: Silvia Mura, Elisabetta Marini, Maurizio Magarini, Matti Hamalainen, Marco Hernandez
-  - Published: 2026-03-10 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09822v1) | [PDF](https://arxiv.org/pdf/2603.09822v1)
-  - Matched: sic
-- **Gate-tunable anisotropic Josephson diode effect in topological Dirac semimetal Cd$_3$As$_2$ nanowires**
-  - Authors: Yan-Liang Hou, An-Qi Wang, Na Li, Chun-Guang Chu, Alexander Brinkman, Zhi-Min Liao, Chuan Li
-  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09676v1) | [PDF](https://arxiv.org/pdf/2603.09676v1)
-  - Matched: sic
+- **Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**
+  - Authors: Rui Peng, Guangxu Su, Yangyang Fan, Jiaan Li, Fanxin Liu, Yee Sin Ang
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10907v1) | [PDF](https://arxiv.org/pdf/2603.10907v1)
+  - Matched: ferroelectric
 - _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
 
 
 ### CMOS, Process & Fabrication
 
-_No matches today._
+- **Engineering photomagnetism in collinear van der Waals antiferromagnets**
+  - Authors: MengXing Na, Viktoriia Radovskaia, Dinar Khusyainov, Peter Kim, Kingshuk Mukhuti, Peter C. M. Christianen, Ekaterina Kochetkova, Anna Isaeva, Anne de Visser, Dimitar Pashov et al.
+  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10186v1) | [PDF](https://arxiv.org/pdf/2603.10186v1)
+  - Matched: doping
+- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Resolving Transient Electron-Phonon Coupling with Time-Resolved Spontaneous Raman Spectroscopy**
-  - Authors: Guy Reuveni, Maya Levy Greenberg, Matan Menahem, Olle Hellman, Omer Yaffe
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09755v1) | [PDF](https://arxiv.org/pdf/2603.09755v1)
+- **Helium-Cooled Cryogenic STEM Imaging and Ptychography for Atomic-Scale Study of Low-Temperature Phases**
+  - Authors: Noah Schnitzer, Mariana Palos, Geri Topore, Nishkarsh Agarwal, Maya Gates, Yaqi Li, Robert Hovden, Ismail El Baggari, Suk Hyun Sung, Michele Shelly Conroy
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10892v1) | [PDF](https://arxiv.org/pdf/2603.10892v1)
   - Matched: led
-- **Reconfigurable Superconducting Quantum Circuits Enabled by Micro-Scale Liquid-Metal Interconnects**
-  - Authors: Zhancheng Yao, Nicholas E. Fuhr, Nicholas Russo, David W. Abraham, Kevin E. Smith, David J. Bishop
-  - Published: 2026-03-10 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09096v1) | [PDF](https://arxiv.org/pdf/2603.09096v1)
-  - Matched: waveguide, led
-- **Ionic-instability induced color tuning in lead-based, mixed-halide perovskites**
-  - Authors: Anthony Ruth, Halyna Okrepka, Michele Vergari, Charlie Desnoyers, Minh Nguyen, Luca Gavioli, Prashant V. Kamat, Masaru Kuno
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08953v1) | [PDF](https://arxiv.org/pdf/2603.08953v1)
-  - Matched: laser
+- **Human Presence Detection via Wi-Fi Range-Filtered Doppler Spectrum on Commodity Laptops**
+  - Authors: Jessica Sanson, Rahul C. Shah, Valerio Frascolla
+  - Published: 2026-03-11 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10845v1) | [PDF](https://arxiv.org/pdf/2603.10845v1)
+  - Matched: led
+- **Low-loss phase-change material based programmable mode converter for photonic computing**
+  - Authors: Xueyang Shen, Ruixuan Chu, Ding Xu, Yuan Gao, Wen Zhou, Wei Zhang
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10667v1) | [PDF](https://arxiv.org/pdf/2603.10667v1)
+  - Matched: waveguide, laser, led
 - _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
 
 
@@ -125,11 +130,11 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **CTPX1: A Highly Integrated and High-Throughput Data-Driven Camera Based on Timepix4**
-  - Authors: Qicai Li, Hongbin Liu, Xingfen Jiang, Jianrong Zhou, Yujie Zhou, Haoran Guo, Dongcheng Cai, Weile Gong, Yimie Yuan, Chengshuo Zhang et al.
-  - Published: 2026-03-10 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09534v1) | [PDF](https://arxiv.org/pdf/2603.09534v1)
-  - Matched: aging, noise
+- **Prioritizing Gradient Sign Over Modulus: An Importance-Aware Framework for Wireless Federated Learning**
+  - Authors: Yiyang Yue, Jiacheng Yao, Wei Xu, Zhaohui Yang, George K. Karagiannidis, Dusit Niyato
+  - Published: 2026-03-11 | Category: `cs.LG`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10763v1) | [PDF](https://arxiv.org/pdf/2603.10763v1)
+  - Matched: reliability
 - _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
 <!-- END TODAY -->
 

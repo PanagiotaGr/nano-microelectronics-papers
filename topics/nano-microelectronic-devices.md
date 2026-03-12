@@ -1,71 +1,86 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-03-11
+**Last update:** 2026-03-12
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **A systematic study of single molecule metallocenes with 4d and 3d transition metal atoms**
-  - Authors: Daniela Herrera-Molina, Kushantha P. K. Withanage, Jesus N. Pedroza-Montero, Pardeep Kaur, Mark. R. Pederson, M. F. Islam
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09863v1) | [PDF](https://arxiv.org/pdf/2603.09863v1)
+- **Microscopic screening theory for excitons in two-dimensional materials: A bridge between effective models and ab initio descriptions**
+  - Authors: P. Ninhos, A. J. Uría-Álvarez, C. Tserkezis, N. A. Mortensen, J. J. Palacios
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10966v1) | [PDF](https://arxiv.org/pdf/2603.10966v1)
+  - Matched: sic
+- **Importance of nonlinear long-range electron-phonon interaction on the carrier mobility of anharmonic halide perovskites**
+  - Authors: Matthew Houtput, Ingvar Zappacosta, Serghei Klimin, Samuel Poncé, Jacques Tempere, Cesare Franchini
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10954v1) | [PDF](https://arxiv.org/pdf/2603.10954v1)
   - Matched: gan
-- **Layered Dielectric Characterization of Human Skin in the Sub-Terahertz and Terahertz Frequency Ranges**
-  - Authors: Silvia Mura, Elisabetta Marini, Maurizio Magarini, Matti Hamalainen, Marco Hernandez
-  - Published: 2026-03-10 | Category: `cs.ET`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09822v1) | [PDF](https://arxiv.org/pdf/2603.09822v1)
+- **Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**
+  - Authors: Rui Peng, Guangxu Su, Yangyang Fan, Jiaan Li, Fanxin Liu, Yee Sin Ang
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10907v1) | [PDF](https://arxiv.org/pdf/2603.10907v1)
+  - Matched: ferroelectric
+- **Modeling anisotropic energy dissipation of light ions at the atomistic scale**
+  - Authors: Evgeniia Ponomareva, Artur Tamm, Andrea E. Sand
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10838v1) | [PDF](https://arxiv.org/pdf/2603.10838v1)
   - Matched: sic
-- **Gate-tunable anisotropic Josephson diode effect in topological Dirac semimetal Cd$_3$As$_2$ nanowires**
-  - Authors: Yan-Liang Hou, An-Qi Wang, Na Li, Chun-Guang Chu, Alexander Brinkman, Zhi-Min Liao, Chuan Li
-  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09676v1) | [PDF](https://arxiv.org/pdf/2603.09676v1)
+- **Transverse and Longitudinal Magnetothermopower Promoted by Ambipolar Effect in Half-Heusler Topological Materials**
+  - Authors: Orest Pavlosiuk, Marcin Matusiak, Andrzej Ptok, Piotr Wiśniewski, Dariusz Kaczorowski
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10499v1) | [PDF](https://arxiv.org/pdf/2603.10499v1)
   - Matched: sic
-- **Comprehensive structural and optical analysis of differently oriented Yb-implanted $β$-Ga$_2$O$_3$**
-  - Authors: Joanna Matulewicz, Renata Ratajczak, Mahwish Sarwar, Ewa Grzanka, Vitalii Ivanov, Damian Kalita, Cyprian Mieszczynski, Przemyslaw Jozwik, Slawomir Prucnal, Ulrich Kentsch et al.
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09592v1) | [PDF](https://arxiv.org/pdf/2603.09592v1)
-  - Matched: wide bandgap
-- **Optical calibration systems of the Pacific Ocean Neutrino Experiment**
-  - Authors: M. Agostini, A. Alexander Wight, M. Altomare, K. Baş, N. Baily, P. S. Barbeau, A. J. Baron, S. Bash, C. Bellenghi, M. Boehmer et al.
-  - Published: 2026-03-10 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09495v1) | [PDF](https://arxiv.org/pdf/2603.09495v1)
-  - Matched: transistor
-- **Receptogenesis in a Vascularized Robotic Embodiment**
-  - Authors: Kadri-Ann Pankratov, Leonid Zinatullin, Hans Priks, Adele Metsniit, Urmas Johanson, Tarmo Tamm, Alvo Aabloo, Edoardo Sinibaldi, Indrek Must
-  - Published: 2026-03-10 | Category: `cs.RO`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09473v1) | [PDF](https://arxiv.org/pdf/2603.09473v1)
+- **Parabolic-Cylinder Approach to Valley-Polarized Conductance in Tilted Anisotropic Dirac-Weyl Systems**
+  - Authors: Can Yesilyurt
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10490v1) | [PDF](https://arxiv.org/pdf/2603.10490v1)
+  - Matched: tunneling
+- **Symmetry-directed electronic and optical properties in a two-dimensional square-lattice ZnPc-MOF**
+  - Authors: Zhonghui Han, Lanting Feng, Guodong Yu, Shengjun Yuan
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10482v1) | [PDF](https://arxiv.org/pdf/2603.10482v1)
   - Matched: gan, sic
-- **Recent application studies of an INTPIX4NA SOIPIX detector-based X-ray camera using an SiTCP-XG 10GbE-based high-speed readout system at KEK facilities**
-  - Authors: Ryutaro Nishimura, Noriyuki Igarashi, Daisuke Wakabayashi, Yuki Shibazaki, Yoshio Suzuki, Keiichi Hirano, Hiromi Miki, Akio Yoneyama, Hiroshi Sugiyama, Kazuyuki Hyodo et al.
-  - Published: 2026-03-10 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09461v1) | [PDF](https://arxiv.org/pdf/2603.09461v1)
-  - Matched: gan
-- **DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**
-  - Authors: Jann Krausse, Zhe Su, Kyrus Mama, Maryada, Klaus Knobloch, Giacomo Indiveri, Jürgen Becker
-  - Published: 2026-03-10 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09274v1) | [PDF](https://arxiv.org/pdf/2603.09274v1)
+- **Polarization transfer force on ferroelectric domain walls**
+  - Authors: Huanhuan Yang, Peng Yan, Gerrit E. W. Bauer
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10460v1) | [PDF](https://arxiv.org/pdf/2603.10460v1)
+  - Matched: ferroelectric, sic
+- **Do single-shot projective readouts necessarily estimate the $T_1$ lifetime ?**
+  - Authors: Aparajita Modak, Sundeep Kapila, Bent Weber, Klaus Ensslin, Guido Burkard, Bhaskaran Muralidharan
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10447v1) | [PDF](https://arxiv.org/pdf/2603.10447v1)
+  - Matched: fet, sic
+- **Information-Theoretic Spectroscopy: Universal Sparsity of Extinction Manifold and Optimal Sensing across Scattering Regimes**
+  - Authors: Proity Nayeeb Akbar
+  - Published: 2026-03-11 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10364v1) | [PDF](https://arxiv.org/pdf/2603.10364v1)
   - Matched: sic
-- **A Stable, High-Order Time-Stepping Scheme for the Drift-Diffusion Model in Modern Solar Cell Simulation**
-  - Authors: Jun Du, Jun Yan
-  - Published: 2026-03-10 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09063v1) | [PDF](https://arxiv.org/pdf/2603.09063v1)
-  - Matched: fet, gan, sic
-- **Two Teachers Better Than One: Hardware-Physics Co-Guided Distributed Scientific Machine Learning**
-  - Authors: Yuchen Yuan, Junhuan Yang, Hao Wan, Yipei Liu, Hanhan Wu, Youzuo Lin, Lei Yang
-  - Published: 2026-03-10 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09032v1) | [PDF](https://arxiv.org/pdf/2603.09032v1)
+- **Electron-phonon physics at the exascale: A hybrid MPI-GPU-OpenMP framework for scalable Wannier interpolation**
+  - Authors: Tae Yun Kim, Zhe Liu, Sabyasachi Tiwari, Elena R. Margine, Feliciano Giustino
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10295v1) | [PDF](https://arxiv.org/pdf/2603.10295v1)
   - Matched: sic
-- **Intrinsic magnetization of the superconducting condensate in Fe(Te,Se)**
-  - Authors: Mohammad Javadi Balakan, Shiva Heidari, Genda Gu, Qiang Li, Kenji Watanabe, Takashi Taniguchi, Ji Ung Lee
-  - Published: 2026-03-09 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08891v1) | [PDF](https://arxiv.org/pdf/2603.08891v1)
+- **A fully solution-processed organic microcavity laser in the strong light-matter coupling regime**
+  - Authors: Hassan A. Qureshi, Henri Lyyra, Akseli Korkeamäki, Oskar Tuomi, Antti J. Moilanen, Konstantinos S. Daskalakis
+  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10257v1) | [PDF](https://arxiv.org/pdf/2603.10257v1)
+  - Matched: gan, sic
+- **Learning from Radio using Variational Quantum RF Sensing**
+  - Authors: Ivana Nikoloska
+  - Published: 2026-03-10 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10239v1) | [PDF](https://arxiv.org/pdf/2603.10239v1)
   - Matched: sic
-- **Uncovering the properties of homo-epitaxial GaN devices through cross-sectional infrared nanoscopy**
-  - Authors: Hossein Zandipour, Felix Kaps, Robin Buschbeck, Maximilian Obst, Aditha Senarath, Richarda Niemann, Niclas S. Mueller, Gonzalo Alvarez-Perez, Katja Diaz-Granados, Ryan A Kowalski et al.
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08858v1) | [PDF](https://arxiv.org/pdf/2603.08858v1)
-  - Matched: gan
+- **Intertwined Swirling Polarization States in BaTiO$_3$ with Embedded BaZrO$_3$ Nanoregions**
+  - Authors: R. Machado, F. Di Rino, M. Sepliarsky, M. G. Stachiotti
+  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10154v1) | [PDF](https://arxiv.org/pdf/2603.10154v1)
+  - Matched: ferroelectric, sic
+- **Unveiling local magnetic moments in copper-oxide atomic junctions**
+  - Authors: Marcel Strohmeier, Samanwita Biswas, Wolfgang Belzig, Regina Hoffmann-Vogel, Elke Scheer
+  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10129v1) | [PDF](https://arxiv.org/pdf/2603.10129v1)
+  - Matched: sic
 
 ---
 

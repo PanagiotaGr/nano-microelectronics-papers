@@ -1,26 +1,41 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-03-11
+**Last update:** 2026-03-12
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Resolving Transient Electron-Phonon Coupling with Time-Resolved Spontaneous Raman Spectroscopy**
-  - Authors: Guy Reuveni, Maya Levy Greenberg, Matan Menahem, Olle Hellman, Omer Yaffe
-  - Published: 2026-03-10 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09755v1) | [PDF](https://arxiv.org/pdf/2603.09755v1)
+- **Helium-Cooled Cryogenic STEM Imaging and Ptychography for Atomic-Scale Study of Low-Temperature Phases**
+  - Authors: Noah Schnitzer, Mariana Palos, Geri Topore, Nishkarsh Agarwal, Maya Gates, Yaqi Li, Robert Hovden, Ismail El Baggari, Suk Hyun Sung, Michele Shelly Conroy
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10892v1) | [PDF](https://arxiv.org/pdf/2603.10892v1)
   - Matched: led
-- **Reconfigurable Superconducting Quantum Circuits Enabled by Micro-Scale Liquid-Metal Interconnects**
-  - Authors: Zhancheng Yao, Nicholas E. Fuhr, Nicholas Russo, David W. Abraham, Kevin E. Smith, David J. Bishop
-  - Published: 2026-03-10 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.09096v1) | [PDF](https://arxiv.org/pdf/2603.09096v1)
-  - Matched: waveguide, led
-- **Ionic-instability induced color tuning in lead-based, mixed-halide perovskites**
-  - Authors: Anthony Ruth, Halyna Okrepka, Michele Vergari, Charlie Desnoyers, Minh Nguyen, Luca Gavioli, Prashant V. Kamat, Masaru Kuno
-  - Published: 2026-03-09 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.08953v1) | [PDF](https://arxiv.org/pdf/2603.08953v1)
-  - Matched: laser
+- **Human Presence Detection via Wi-Fi Range-Filtered Doppler Spectrum on Commodity Laptops**
+  - Authors: Jessica Sanson, Rahul C. Shah, Valerio Frascolla
+  - Published: 2026-03-11 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10845v1) | [PDF](https://arxiv.org/pdf/2603.10845v1)
+  - Matched: led
+- **Low-loss phase-change material based programmable mode converter for photonic computing**
+  - Authors: Xueyang Shen, Ruixuan Chu, Ding Xu, Yuan Gao, Wen Zhou, Wei Zhang
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10667v1) | [PDF](https://arxiv.org/pdf/2603.10667v1)
+  - Matched: waveguide, laser, led
+- **High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials**
+  - Authors: Aljoscha Felix Baumann, Daniel Mutter, Daniel F. Urban, Christian Elsässer
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10631v1) | [PDF](https://arxiv.org/pdf/2603.10631v1)
+  - Matched: led
+- **Flexible Multi-Target Angular Emulation for Over-the-Air Testing of Large-Scale ISAC Base Stations: Principle and Experimental Verification**
+  - Authors: Chunhui Li, Hao Sun, Wei Fan
+  - Published: 2026-03-11 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10629v1) | [PDF](https://arxiv.org/pdf/2603.10629v1)
+  - Matched: led
+- **Path Planning for Sound Speed Profile Estimation**
+  - Authors: Ludvig Lindström, Tadas Paskevicius, Andreas Jakobsson, Isaac Skog
+  - Published: 2026-03-11 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.10585v1) | [PDF](https://arxiv.org/pdf/2603.10585v1)
+  - Matched: led
 
 ---
 
