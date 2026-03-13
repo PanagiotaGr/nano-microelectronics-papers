@@ -1,56 +1,86 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-03-12
+**Last update:** 2026-03-13
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Island Sliding Barriers: A first-principles metric for determining remote epitaxy viability**
-  - Authors: Quinn T. Campbell, Manny Xavier de Jesus Lopez, Anthony Rice, Timothy J. Ruggles, Taisuke Ohta, Caitlin McCowan, Sadhvikas Addamane, Scott W. Schmucker, Justine Koepke
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10968v1) | [PDF](https://arxiv.org/pdf/2603.10968v1)
-  - Matched: graphene, epitaxy
-- **Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**
-  - Authors: Jeyong Park, Mingdi Luo, Louk Rademaker, Jurgen Smet, Mathias S. Scheurer, Laura Classen
-  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10914v1) | [PDF](https://arxiv.org/pdf/2603.10914v1)
-  - Matched: graphene
-- **Fast Programming of In-Plane Hyperbolic Phonon Polariton Optics Through van der Waals Crystals using the Phase-Change Material In3SbTe2**
-  - Authors: Lina Jäckering, Umberto Saldarelli, Aaron Moos, Lukas Conrads, Enrique Terán-García, Christian Lanza, Aitana Tarazaga Martín-Luengo, Gonzalo Álvarez-Pérez, Pablo Alonso-González, Matthias Wuttig et al.
-  - Published: 2026-03-11 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10900v1) | [PDF](https://arxiv.org/pdf/2603.10900v1)
-  - Matched: deposition
-- **Engineering Magnetic Anisotropy in Permalloy Films via Atomic Force Nanolithography**
-  - Authors: Abhishek Naik, Cyril Delforge, Nicolas Lejeune, Daniel Stoffels, Joris Van de Vondel, Kristiaan Temst, Alejandro V. Silhanek, Emile Fourneau
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10798v1) | [PDF](https://arxiv.org/pdf/2603.10798v1)
+- **Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**
+  - Authors: Yufei Zhao, Saswata Mandal, Chao-Xing Liu, Binghai Yan
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.12259v1) | [PDF](https://arxiv.org/pdf/2603.12259v1)
   - Matched: thin film
-- **Electronic Structure and Resonant Circular Dichroism of La$_{0.7}$Sr$_{0.3}$MnO$_3$ from Soft X-ray Angle-Resolved Photoemission**
-  - Authors: Øyvind Finnseth, Damian Brzozowski, Anders Christian Mathisen, Stefanie Suzanne Brinkman, Xin Liang Tan, Fabian Gohler, Benjamin A. D. Williamson, Kristoffer Eggestad, Meng-Jie Huang, Jens Buck et al.
-  - Published: 2026-03-11 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10794v1) | [PDF](https://arxiv.org/pdf/2603.10794v1)
+- **Quantum Inductance as a Phase-Sensitive Probe of Fermion Parity Switching in Majorana Nanowires**
+  - Authors: Binayyak B. Roy, Jay D. Sau, Sumanta Tewari
+  - Published: 2026-03-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.12256v1) | [PDF](https://arxiv.org/pdf/2603.12256v1)
+  - Matched: quantum dot
+- **Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT**
+  - Authors: Elizabeth A. Peterson, Dongye Liu, Sean H. Mills, Tiffany C. Kaspar, Hyosim Kim, Yongqiang Wang, Blas P. Uberuaga, Andrew M. Minor
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.12153v1) | [PDF](https://arxiv.org/pdf/2603.12153v1)
+  - Matched: heterostructure, thin film
+- **Single-nanoparticle detection using quasi-bound states in the continuum supported by silicon metasurfaces**
+  - Authors: Keisuke Watanabe, Samuel Crowther, Masanobu Iwanaga, Frank Vollmer, Tadaaki Nagao
+  - Published: 2026-03-12 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.12135v1) | [PDF](https://arxiv.org/pdf/2603.12135v1)
+  - Matched: nanoparticles
+- **Depth-resolved magnetization dynamics in Fe thin films after ultrafast laser excitation**
+  - Authors: Valentin Chardonnet, Marcel Hennes, Romain Jarrier, Renaud Delaunay, Nicolas Jaouen, Marion Kuhlmann, Cyril Leveillé, Clemens von Korff Schmising, Daniel Schick, Kelvin Yao et al.
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11913v1) | [PDF](https://arxiv.org/pdf/2603.11913v1)
   - Matched: thin film
-- **Study of Magnon-Photon Coupling in Ultra-thin Films Using the Derivative-Divide Method**
-  - Authors: Kang An, Zhenhui Hao, Yongzhang Shi, Yingjie Zhu, Xiling Li, Chi Zhang, Guozhi Chai
-  - Published: 2026-03-11 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10770v1) | [PDF](https://arxiv.org/pdf/2603.10770v1)
-  - Matched: thin film
-- **Dielectric Tensor of CrSBr from Spectroscopic Imaging Ellipsometry**
-  - Authors: Pierre-Maurice Piel, Sebastian Schaper, Aleksandra Ł opion, Jakob Henz, Aljoscha Soll, Zdenek Sofer, Ursula Wurstbauer
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10698v1) | [PDF](https://arxiv.org/pdf/2603.10698v1)
-  - Matched: thin film
-- **Microstructural Characterization of Nb3Sn Thin Films Using FIB Tomography**
-  - Authors: Eric Viklund, David N. Seidman, Sam Posen
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10472v1) | [PDF](https://arxiv.org/pdf/2603.10472v1)
-  - Matched: thin film
-- **Charge-tunable Cooper-pair diode**
-  - Authors: Jon Ortuzar, Stefano Trivini, Leonard Edens, F. Sebastian Bergeret, Jose Ignacio Pascual
-  - Published: 2026-03-10 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10193v1) | [PDF](https://arxiv.org/pdf/2603.10193v1)
+- **Origin and Propagation of Spin-orbit Torques in Pt/Co/Cu/NiFe/Capping Multilayers**
+  - Authors: Yuming Bai, Rulin Tian, Yue Zhang, Tao Wang
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11843v1) | [PDF](https://arxiv.org/pdf/2603.11843v1)
   - Matched: heterostructure
+- **Melting of thin silicon films: a molecular dynamics study with two machine learning potentials**
+  - Authors: Yu. D. Fomin, E. N. Tsiok, V. N. Ryzhov
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11722v1) | [PDF](https://arxiv.org/pdf/2603.11722v1)
+  - Matched: thin film
+- **Rainbow Scattering from Graphene**
+  - Authors: Carolin Frank, Kevin Vomschee, Radek Holeňák, Yossarian Liebsch, Marika Schleberger, Daniel Primetzhofer
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11672v1) | [PDF](https://arxiv.org/pdf/2603.11672v1)
+  - Matched: graphene
+- **Primitive-cell-resolved Crystallography for Moiré Bilayers from Imaging**
+  - Authors: Zhidan Li, Xianghua Kong
+  - Published: 2026-03-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11671v1) | [PDF](https://arxiv.org/pdf/2603.11671v1)
+  - Matched: graphene
+- **Unlocking nanoscale microstructural detail in aluminium alloys through differential phase contrast segmentation in STEM**
+  - Authors: Matheus A. Tunes, Martin Hasenburger, Rostislav Daniel, Oscar M. Prada-Ramirez, Philip Aster, Sebastian Samberger, Thomas M. Kremmer, Johannes A. Österreicher
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11643v1) | [PDF](https://arxiv.org/pdf/2603.11643v1)
+  - Matched: thin film
+- **Atomic-Scale Mechanisms of SiO$_2$ Plasma-Enhanced Chemical Vapor Deposition Revealed by Molecular Dynamics with a Machine-Learning Interatomic Potential**
+  - Authors: Jaehoon Kim, Minseok Moon, Hyunsung Cho, Hyeon-Deuk Kim, Rokyeon Kim, Gyehyun Park, Seungwu Han, Youngho Kang
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11416v1) | [PDF](https://arxiv.org/pdf/2603.11416v1)
+  - Matched: thin film, deposition, cvd
+- **Intrinsic Even-Odd Thickness-Driven Anomalous Hall in Epitaxial MnBi2Te4 Thin Films**
+  - Authors: Debarghya Mallick, Simon Kim, An-Hsi Chen, Gabriel A. Vázquez-Lizardi, Alessandro R. Mazza, T. Zac Ward, Gyula Eres, Yue Cao, Debangshu Mukherjee, Hu Miao et al.
+  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11305v1) | [PDF](https://arxiv.org/pdf/2603.11305v1)
+  - Matched: thin film, epitaxy
+- **Linear response of the Chern insulator MnBi$_2$Te$_4$: A Wannier function approach**
+  - Authors: Matthew Albert, Javier Sivianes, Jason G. Kattan, Julen Ibañez-Azpiroz, J. E. Sipe
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11268v1) | [PDF](https://arxiv.org/pdf/2603.11268v1)
+  - Matched: thin film
+- **Controlled localization of anyons in a graphene quantum Hall interferometer**
+  - Authors: Christina E. Henzinger, James R. Ehrets, Rikuto Fushio, Junkai Dong, Thomas Werkmeister, Marie E. Wesson, Kenji Watanabe, Takashi Taniguchi, Ashvin Vishwanath, Bertrand I. Halperin et al.
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11182v1) | [PDF](https://arxiv.org/pdf/2603.11182v1)
+  - Matched: graphene
+- **Imaging flat band electron hydrodynamics in biased bilayer graphene**
+  - Authors: Canxun Zhang, Evgeny Redekop, Hari Stoyanov, Jack H. Farrell, Sunghoon Kim, Ludwig Holleis, David Gong, Aidan Keough, Youngjoon Choi, Takashi Taniguchi et al.
+  - Published: 2026-03-11 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11175v1) | [PDF](https://arxiv.org/pdf/2603.11175v1)
+  - Matched: graphene
 
 ---
 

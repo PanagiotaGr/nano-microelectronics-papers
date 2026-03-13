@@ -1,41 +1,26 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-03-12
+**Last update:** 2026-03-13
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Helium-Cooled Cryogenic STEM Imaging and Ptychography for Atomic-Scale Study of Low-Temperature Phases**
-  - Authors: Noah Schnitzer, Mariana Palos, Geri Topore, Nishkarsh Agarwal, Maya Gates, Yaqi Li, Robert Hovden, Ismail El Baggari, Suk Hyun Sung, Michele Shelly Conroy
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10892v1) | [PDF](https://arxiv.org/pdf/2603.10892v1)
+- **Symmetry-Driven Floquet Engineering in Multivalley SnS**
+  - Authors: Sotirios Fragkos, Benshu Fan, Umberto De Giovannini, Dominique Descamps, Stéphane Petit, Hannes Hübener, Angel Rubio, Samuel Beaulieu
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11878v1) | [PDF](https://arxiv.org/pdf/2603.11878v1)
   - Matched: led
-- **Human Presence Detection via Wi-Fi Range-Filtered Doppler Spectrum on Commodity Laptops**
-  - Authors: Jessica Sanson, Rahul C. Shah, Valerio Frascolla
-  - Published: 2026-03-11 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10845v1) | [PDF](https://arxiv.org/pdf/2603.10845v1)
+- **Spin Chern phases and persistent spin texture in a quasi 2D SSH model**
+  - Authors: Hemant K Sharma, Saptarshi Mandal, Kush Saha
+  - Published: 2026-03-12 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11865v1) | [PDF](https://arxiv.org/pdf/2603.11865v1)
   - Matched: led
-- **Low-loss phase-change material based programmable mode converter for photonic computing**
-  - Authors: Xueyang Shen, Ruixuan Chu, Ding Xu, Yuan Gao, Wen Zhou, Wei Zhang
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10667v1) | [PDF](https://arxiv.org/pdf/2603.10667v1)
-  - Matched: waveguide, laser, led
-- **High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials**
-  - Authors: Aljoscha Felix Baumann, Daniel Mutter, Daniel F. Urban, Christian Elsässer
-  - Published: 2026-03-11 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10631v1) | [PDF](https://arxiv.org/pdf/2603.10631v1)
-  - Matched: led
-- **Flexible Multi-Target Angular Emulation for Over-the-Air Testing of Large-Scale ISAC Base Stations: Principle and Experimental Verification**
-  - Authors: Chunhui Li, Hao Sun, Wei Fan
-  - Published: 2026-03-11 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10629v1) | [PDF](https://arxiv.org/pdf/2603.10629v1)
-  - Matched: led
-- **Path Planning for Sound Speed Profile Estimation**
-  - Authors: Ludvig Lindström, Tadas Paskevicius, Andreas Jakobsson, Isaac Skog
-  - Published: 2026-03-11 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.10585v1) | [PDF](https://arxiv.org/pdf/2603.10585v1)
-  - Matched: led
+- **First-principles insights into the optoelectronic and thermoelectric properties of X3NbY4(X= Cu, Ag, Au; Y=S, Se, Te) sulvanite compounds for energy applications**
+  - Authors: Sadeya Sabnam Emo, Md. Sharear Aman, Md. Abdur Rashid, Jaker Hossain
+  - Published: 2026-03-12 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.11733v1) | [PDF](https://arxiv.org/pdf/2603.11733v1)
+  - Matched: optoelectronics
 
 ---
 
