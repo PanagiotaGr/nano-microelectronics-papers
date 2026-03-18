@@ -1,46 +1,46 @@
 # Nano/Microelectronic Devices
 
-**Last update:** 2026-03-17
+**Last update:** 2026-03-18
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask**
-  - Authors: Vasiliy A. Es'kin, Egor V. Ivanov
-  - Published: 2026-03-16 | Category: `cs.LG`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15584v1) | [PDF](https://arxiv.org/pdf/2603.15584v1)
+- **Complex Wannier centers and drifting Wannier functions in non-Hermitian Hamiltonians**
+  - Authors: Pedro Fittipaldi de Castro, Wladimir A. Benalcazar
+  - Published: 2026-03-17 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16838v1) | [PDF](https://arxiv.org/pdf/2603.16838v1)
   - Matched: sic
-- **Polar Charge-Ordered States in BiFeO$_3$/CaFeO$_3$ Superlattice**
-  - Authors: Rajan Gowsalya, Monirul Shaikh, Sathiyamoorthy Buvaneswaran, Saurabh Ghosh
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15362v1) | [PDF](https://arxiv.org/pdf/2603.15362v1)
-  - Matched: ferroelectric
-- **Design and operation of a spark chamber for vacuum ultraviolet light production**
-  - Authors: Silas Bosco, Jonas Bürgi, Livio Calivers, Richard Diurba, Johannes Furrer, Jan Kunzmann, Saba Parsa, Sascha Rivera, Nicolas Sallin, Camilla Tognina et al.
-  - Published: 2026-03-16 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15273v1) | [PDF](https://arxiv.org/pdf/2603.15273v1)
+- **Nanostructuring SiC by sequential plasma oxidation and reactive ion etching**
+  - Authors: Joonas Isometsä, Auguste Bieleviciute, Xiaolong Liu, Ville Vähänissi, Hele Savin
+  - Published: 2026-03-17 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16589v1) | [PDF](https://arxiv.org/pdf/2603.16589v1)
   - Matched: sic
-- **Monolithic integration of diverse crystalline thin films on diamond for near-junction thermal management**
-  - Authors: Tiancheng Zhao, Tianqi Bai, Yang He, Wenhui Xu, Xinxin Yu, Ruochen Shi, Zhenyu Qu, Jiaxin Liu, Rui Shen, Haodong Jiang et al.
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15142v1) | [PDF](https://arxiv.org/pdf/2603.15142v1)
-  - Matched: fet, mosfet, gan
-- **Photonic Quantum-Enhanced Knowledge Distillation**
-  - Authors: Kuan-Cheng Chen, Shang Yu, Chen-Yu Liu, Samuel Yen-Chi Chen, Huan-Hsin Tseng, Yen Jui Chang, Wei-Hao Huang, Felix Burt, Esperanza Cuenca Gomez, Zohim Chandani et al.
+- **Deep Learning-Driven Black-Box Doherty Power Amplifier with Pixelated Output Combiner and Extended Efficiency Range**
+  - Authors: Han Zhou, Haojie Chang, David Widen
+  - Published: 2026-03-17 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16565v1) | [PDF](https://arxiv.org/pdf/2603.16565v1)
+  - Matched: transistor, gan
+- **Electron Tesla valve**
+  - Authors: Daniil I. Sarypov, Dmitriy A. Pokhabov, Arthur G. Pogosov, Evgeny Yu. Zhdanov, Andrey A. Shevyrin, Askhat K. Bakarov
+  - Published: 2026-03-17 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16443v1) | [PDF](https://arxiv.org/pdf/2603.16443v1)
+  - Matched: gaa, sic
+- **Dopability limits in Al-rich AlGaN alloys for far-UVC LEDs**
+  - Authors: Ling Zhang, Miao Zhou, Alex M. Ganose
+  - Published: 2026-03-17 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16310v1) | [PDF](https://arxiv.org/pdf/2603.16310v1)
+  - Matched: gan, sic
+- **Dissipation effects in the Su-Schrieffer-Heeger model coupled to a metallic environment**
+  - Authors: Leandro M. Arancibia, Cristián G. Sánchez, Alejandro M. Lobos
+  - Published: 2026-03-16 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.15835v1) | [PDF](https://arxiv.org/pdf/2603.15835v1)
+  - Matched: gan, sic
+- **Entanglement advantage in sensing power-law spatiotemporal noise correlations**
+  - Authors: Yu-Xin Wang, Anthony J. Brady, Federico Belliardo, Alexey V. Gorshkov
   - Published: 2026-03-16 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14898v1) | [PDF](https://arxiv.org/pdf/2603.14898v1)
+  - Links: [arXiv](https://arxiv.org/abs/2603.15742v1) | [PDF](https://arxiv.org/pdf/2603.15742v1)
   - Matched: sic
-- **Sequential Quenching to Predict Semiconductor Defect Concentrations from Formation & Migration Energies: The Case of CdTe:As Doping**
-  - Authors: Khandakar Aaditta Arnab, Intuon Chatratin, Anderson Janotti, Michael Scarpulla
-  - Published: 2026-03-15 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14618v1) | [PDF](https://arxiv.org/pdf/2603.14618v1)
-  - Matched: sic
-- **Ab Initio Transfer Length Method Simulations of Tunneling Limits in 2D Semiconductors**
-  - Authors: Tae Hyung Kim, Juho Lee, Yong-Hoon Kim
-  - Published: 2026-03-15 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14296v1) | [PDF](https://arxiv.org/pdf/2603.14296v1)
-  - Matched: transistor, tunneling, contact resistance, sic
 
 ---
 

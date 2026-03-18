@@ -1,16 +1,16 @@
 # Reliability, Modeling & TCAD
 
-**Last update:** 2026-03-17
+**Last update:** 2026-03-18
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Co-Design of Memory-Storage Systems for Workload Awareness with Interpretable Models**
-  - Authors: Jay Sarkar, Vamsi Pavan Rayaprolu, Abhijeet Bhalerao
-  - Published: 2026-03-16 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15571v1) | [PDF](https://arxiv.org/pdf/2603.15571v1)
-  - Matched: reliability, aging
+- **Applicability of Radiowave Anechoic Chambers for Acoustic Free-Field Measurements on the Example of the Chamber at ITMO University**
+  - Authors: Farid Bikmukhametov, Ksenia Razrezova, Roman Smolnitsky, Yuri Shchelokov, Nikolay Kanev, Mariia Krasikova
+  - Published: 2026-03-17 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16556v1) | [PDF](https://arxiv.org/pdf/2603.16556v1)
+  - Matched: noise
 
 ---
 

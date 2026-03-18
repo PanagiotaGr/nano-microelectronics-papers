@@ -1,71 +1,56 @@
 # Nanomaterials & Synthesis
 
-**Last update:** 2026-03-17
+**Last update:** 2026-03-18
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Flat-Band Generation in InAs/GaSb Quantum Wells through Vertically Engineered Heterostructures**
-  - Authors: Zachery A. Enderson, Jiyuan Fang, Wei-Chen Wang, Li Xiang, Mykhaylo Ozerov, Dmitry Smirnov, Zhigang Jiang, Samuel D. Hawkins, Aaron J. Muhowski, John F. Klem et al.
-  - Published: 2026-03-16 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15593v1) | [PDF](https://arxiv.org/pdf/2603.15593v1)
-  - Matched: graphene, heterostructure, epitaxy
-- **Engineering van der Waals heterostructures for dispersion-selective meV-scale quantum sensing**
-  - Authors: Elizabeth A. Peterson
+- **Majorana Crystal in Rhombohedral Graphene**
+  - Authors: Chiho Yoon, Fan Zhang
+  - Published: 2026-03-17 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16828v1) | [PDF](https://arxiv.org/pdf/2603.16828v1)
+  - Matched: graphene, ald
+- **Low bending rigidity and large Young's modulus drive strong flexural phonon renormalization in two-dimensional monolayers**
+  - Authors: Navaneetha K Ravichandran
+  - Published: 2026-03-17 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16717v1) | [PDF](https://arxiv.org/pdf/2603.16717v1)
+  - Matched: 2d material, graphene
+- **Correlated Quantum Phenomena in Confined Two-Dimensional Hexagonal Crystals**
+  - Authors: Xiang Liua, Zheng Taoa, Wenchen Luoa, Tapash Chakraborty
+  - Published: 2026-03-17 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16677v1) | [PDF](https://arxiv.org/pdf/2603.16677v1)
+  - Matched: quantum dot, graphene, heterostructure
+- **FAlCon: A unified framework for algorithmic control of quantum dot devices**
+  - Authors: Tyler J. Kovach, Daniel Schug, Zach D. Merino, Mark Friesen, Mark A. Eriksson, Justyna P. Zwolak
+  - Published: 2026-03-17 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16650v1) | [PDF](https://arxiv.org/pdf/2603.16650v1)
+  - Matched: quantum dot
+- **Superballistic transport of thermal photons in confined many-body systems**
+  - Authors: Jian Dong, Junming Zhao, Philippe Ben-Abdallah, Linhua Liu
+  - Published: 2026-03-17 | Category: `physics.optics`
+  - Links: [arXiv](https://arxiv.org/abs/2603.16296v1) | [PDF](https://arxiv.org/pdf/2603.16296v1)
+  - Matched: nanoparticles
+- **Mechanical Control of Polar Order**
+  - Authors: Pushpendra Gupta, Peter Meisenheimer, Xinyan Li, Sajid Husain, Vishantak Srikrishna, Ashley Cortesis, Yimo Han, Ramamoorthy Ramesh
   - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15581v1) | [PDF](https://arxiv.org/pdf/2603.15581v1)
-  - Matched: heterostructure
-- **Effect of pulse duration on current-induced selective oxygen migration in high-Tc superconductors**
-  - Authors: Fridrich Egyenes, Daniel Stoffels, Stefan Marinkovic, Bernd Aichner, Huidong Li, Anna Palau, Milan Tapajna, Wolfgang Lang, Alejandro V. Silhanek
-  - Published: 2026-03-16 | Category: `cond-mat.supr-con`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15509v1) | [PDF](https://arxiv.org/pdf/2603.15509v1)
+  - Links: [arXiv](https://arxiv.org/abs/2603.15984v1) | [PDF](https://arxiv.org/pdf/2603.15984v1)
   - Matched: thin film
-- **Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale**
-  - Authors: Emmanuel Uwayezu, Shaolou Wei, Yujiao Li, Johannes D. Bartl, Dierk Raabe, Alfred Ludwig
+- **Tuning the optoelectronic properties of graphene quantum dots by BN-ring doping: A density functional theory study**
+  - Authors: Samayita Das, Alok Shukla
   - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15456v1) | [PDF](https://arxiv.org/pdf/2603.15456v1)
-  - Matched: thin film, deposition
-- **Epitaxial growth of topological insulator $β$-Ag2Te thin films**
-  - Authors: Ayuki Takegawa, Kouya Imoto, Minoru Kawamura, Moeta Tsukamoto, Ryutaro Yoshimi
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15406v1) | [PDF](https://arxiv.org/pdf/2603.15406v1)
-  - Matched: thin film, epitaxy
-- **Low-frequency noise as a probe of microscopic disorder in CVD-grown graphene**
-  - Authors: Jagadis Prasad Nayak, Smrutirekha Sahoo, Shreya Barman, Gopi Nath Daptary
+  - Links: [arXiv](https://arxiv.org/abs/2603.15906v1) | [PDF](https://arxiv.org/pdf/2603.15906v1)
+  - Matched: quantum dot, graphene
+- **Tailoring spontaneous symmetry breaking in engineered van der Waals superlattices**
+  - Authors: Keda Jin, Lennart Klebl, Zachary A. H. Goodwin, Junting Zhao, Felix Lüpke, Dante M. Kennes, Jose Martinez-Castro, Markus Ternes
   - Published: 2026-03-16 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15327v1) | [PDF](https://arxiv.org/pdf/2603.15327v1)
-  - Matched: graphene, deposition, cvd
-- **Decoding the Complexity of Ferroelectric Orthorhombic HfO2: A Unified Mode Expansion Approach**
-  - Authors: Chenxi Yu, Jiajia Zhang, Xujin Song, Fei Liu, Jinfeng Kang
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15162v1) | [PDF](https://arxiv.org/pdf/2603.15162v1)
-  - Matched: thin film
-- **Persistent incommensurate amorphous/crystalline meta-interfaces enable engineering-grade superlubricity**
-  - Authors: Wan Wang, Zijun Ding, Panpan Li, Wanying Ying, Hongxuan Li, Xiaohong Liu, Huidi Zhou, Jianmin Chen, Wengen Ouyang, Li Ji
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.15089v1) | [PDF](https://arxiv.org/pdf/2603.15089v1)
-  - Matched: mos2
-- **Predicting electron-phonon coupling and electronic transport at the moiré scale in twisted bilayer graphene**
-  - Authors: David J. Abramovitch, Marco Bernardi
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14800v1) | [PDF](https://arxiv.org/pdf/2603.14800v1)
-  - Matched: graphene
-- **Universal tuning of quantum electrodynamic interactions from power laws to exponential screening and logarithmic antiscreening**
-  - Authors: Michael N. Leuenberger, Daniel Gunlycke
-  - Published: 2026-03-16 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14780v1) | [PDF](https://arxiv.org/pdf/2603.14780v1)
-  - Matched: heterostructure
-- **Interfacial exchange and magnetostatic coupling in a CoFeB/Thulium Iron Garnet heterostructure**
-  - Authors: Walid Al Misba, Jenae E. Shoup, Miela J. Gross, Dhritiman Bhattacharya, Kai Liu, Caroline A. Ross, Daniel B. Gopman, Jayasimha Atulasimha
-  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14766v1) | [PDF](https://arxiv.org/pdf/2603.14766v1)
-  - Matched: heterostructure
-- **Gas sensing potential of stacked graphene/h-BN structures: a DFT-based investigation**
-  - Authors: Martin Siebel, Pavel Rubin, Raivo Jaaniso
-  - Published: 2026-03-15 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.14530v1) | [PDF](https://arxiv.org/pdf/2603.14530v1)
+  - Links: [arXiv](https://arxiv.org/abs/2603.15787v1) | [PDF](https://arxiv.org/pdf/2603.15787v1)
   - Matched: graphene, heterostructure
+- **Synthesis and Transfer of Freestanding Strain-Engineered Vertically Aligned Nanocomposite Thin Films**
+  - Authors: Carlos Rodríguez Cortéz, Moussa Mebarki, Bruno Berini, Dominique Demaille, Vincent Polewczyk, Yunlin Zheng, Pal Bhuyan, Boris Vodungbo, Emmanuelle Jal, Horia Popescu et al.
+  - Published: 2026-03-16 | Category: `cond-mat.mtrl-sci`
+  - Links: [arXiv](https://arxiv.org/abs/2603.15772v1) | [PDF](https://arxiv.org/pdf/2603.15772v1)
+  - Matched: heterostructure, thin film
 
 ---
 
