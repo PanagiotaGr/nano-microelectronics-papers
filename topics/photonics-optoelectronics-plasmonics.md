@@ -1,26 +1,46 @@
 # Photonics, Optoelectronics & Plasmonics
 
-**Last update:** 2026-03-19
+**Last update:** 2026-03-20
 
 > Auto-generated. Edit `config.yml` to change keywords/topics.
 
 ## Latest
 
-- **Giant intrinsic dichroism in \b{eta}-Ga2O3 enables filter-free, high-fidelity polarization division multiplexing**
-  - Authors: Yonghui Zhang, Rui Zhu, Huili Liang, Guochao Zhao, Shuli Wei, Qing Lu, Zengxia Mei
-  - Published: 2026-03-18 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.17814v1) | [PDF](https://arxiv.org/pdf/2603.17814v1)
-  - Matched: optoelectronics, photodetector
-- **Characterization of Deconvolution-Based PMT Waveform Reconstruction Under Large Charge Dynamic Range and Varying Scintillation Time Profiles**
-  - Authors: Xingyi Lin, Jinghuan Xu, Yongbo Huang, Jingzhe Tang, Tianying Xiao, Yingke Li
-  - Published: 2026-03-18 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.17556v1) | [PDF](https://arxiv.org/pdf/2603.17556v1)
+- **Outage Probability Analysis of NOMA Enabled Hierarchical UAV Networks with Non-Linear Energy Harvesting**
+  - Authors: Faicel Khennoufa, Khelil Abdellatif, Metin Ozturk, Halim Yanikomeroglu, Safwan Alfattani
+  - Published: 2026-03-19 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.19214v1) | [PDF](https://arxiv.org/pdf/2603.19214v1)
   - Matched: led
-- **Design and First Results of COFFEE3: A 55nm HVCMOS Pixel Sensor Prototype for High-Energy Physics Applications**
-  - Authors: Xiaomin Wei, Zijun Xu, Weiguo Lu, Yang Zhou, Zhan Shi, Leyi Li, Xiaoxu Zhang, Pengxu Li, Jianpeng Deng, Yang Chen et al.
-  - Published: 2026-03-18 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.17346v1) | [PDF](https://arxiv.org/pdf/2603.17346v1)
-  - Matched: laser, led
+- **Mitigating the Bandwidth Wall via Data-Streaming System-Accelerator Co-Design**
+  - Authors: Qunyou Liu, Marina Zapater, David Atienza
+  - Published: 2026-03-19 | Category: `cs.AR`
+  - Links: [arXiv](https://arxiv.org/abs/2603.19057v1) | [PDF](https://arxiv.org/pdf/2603.19057v1)
+  - Matched: led
+- **Cavity Control of Strongly Correlated Electrons Beyond Resonant Coupling**
+  - Authors: Lukas Grunwald, Xinle Cheng, Emil Viñas Boström, Michael Ruggenthaler, Marios H. Michael, Dante M. Kennes, Angel Rubio
+  - Published: 2026-03-19 | Category: `quant-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.18933v1) | [PDF](https://arxiv.org/pdf/2603.18933v1)
+  - Matched: led
+- **Fine-grained topological structures hidden in Fermi sea**
+  - Authors: Wei Jia
+  - Published: 2026-03-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.18843v1) | [PDF](https://arxiv.org/pdf/2603.18843v1)
+  - Matched: led
+- **Reversible Steady Domain-Wall Motion Driven by a Direct Current**
+  - Authors: K. Y. Jing, X. R. Wang, H. Y. Yuan
+  - Published: 2026-03-19 | Category: `cond-mat.mes-hall`
+  - Links: [arXiv](https://arxiv.org/abs/2603.18722v1) | [PDF](https://arxiv.org/pdf/2603.18722v1)
+  - Matched: led
+- **Holter-to-Sleep: AI-Enabled Repurposing of Single-Lead ECG for Sleep Phenotyping**
+  - Authors: Donglin Xie, Qingshuo Zhao, Jingyu Wang, Shijia Geng, Jiarui Jin, Jun Li, Rongrong Guo, Guangkun Nie, Gongzheng Tang, Yuxi Zhou et al.
+  - Published: 2026-03-19 | Category: `eess.SP`
+  - Links: [arXiv](https://arxiv.org/abs/2603.18714v1) | [PDF](https://arxiv.org/pdf/2603.18714v1)
+  - Matched: led
+- **Resonance-enhanced integrated acousto-optic beam steering**
+  - Authors: Yue Yu, Qixuan Lin, Shucheng Fang, Joseph G. Thomas, Yibing Zhou, Zichen Xi, Jun Ji, Yizheng Zhu, Linbo Shao, Bingzhao Li et al.
+  - Published: 2026-03-18 | Category: `physics.app-ph`
+  - Links: [arXiv](https://arxiv.org/abs/2603.18191v1) | [PDF](https://arxiv.org/pdf/2603.18191v1)
+  - Matched: laser
 
 ---
 
