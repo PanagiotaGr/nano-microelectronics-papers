@@ -33,8 +33,8 @@ To reduce off-topic papers, enable stricter matching:
 <!-- BEGIN TODAY -->
 ## ✅ Today
 
-**Last update:** 2026-03-20  
-**Daily archive:** `digests/2026-03-20.md`  
+**Last update:** 2026-03-21  
+**Daily archive:** `digests/2026-03-21.md`  
 
 _Auto-generated. Edit `config.yml` to change topics/keywords._
 
@@ -50,82 +50,22 @@ _Auto-generated. Edit `config.yml` to change topics/keywords._
 
 ### Nanomaterials & Synthesis
 
-- **Interface magnetic coupling and magnetization dynamic of La$_{2/3}$Sr$_{1/3}$MnO$_3$ single layer and (La$_{2/3}$Sr$_{1/3}$MnO$_3$/SrRuO$_3$)$_n$ (n = 1, 5) superlattice on SrTiO$_3$(001) substrate**
-  - Authors: Ilyas Noor Bhatti, Rachna Chaurasia, Kazi Rumanna Rahman, Sukhendu Sadhukhan, Amantulla Mansuri, Imtiaz Noor Bhatti
-  - Published: 2026-03-19 | Category: `cond-mat.str-el`
-  - Links: [arXiv](https://arxiv.org/abs/2603.19179v1) | [PDF](https://arxiv.org/pdf/2603.19179v1)
-  - Matched: heterostructure
-- **Longitudinal Nonreciprocal Charge Transport with Time Reversal Symmetry**
-  - Authors: Harsh Varshney, Amit Agarwal
-  - Published: 2026-03-19 | Category: `cond-mat.mes-hall`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18823v1) | [PDF](https://arxiv.org/pdf/2603.18823v1)
-  - Matched: graphene
-- **Direct observation of strain and confinement shaping the hole subbands of Ge quantum wells**
-  - Authors: Enrico Della Valle, Arianna Nigro, Miki Bonacci, Nicola Colonna, Andrea Hofmann, Michael Schüler, Nicola Marzari, Ilaria Zardo, Vladimir N. Strocov
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18753v1) | [PDF](https://arxiv.org/pdf/2603.18753v1)
-  - Matched: heterostructure
-- _(See full topic page: [Nanomaterials & Synthesis](topics/nanomaterials-synthesis.md))_
+_No matches today._
 
 
 ### Nano/Microelectronic Devices
 
-- **Photoferroelectric Coupling and Polarization-Controlled Interfacial Band Modulation in van der Waal Compound CuInP2S6**
-  - Authors: Subhashree Chatterjee, Rabindra Basnet, Rajeev Nepal, Ramesh C. Budhani
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.19148v1) | [PDF](https://arxiv.org/pdf/2603.19148v1)
-  - Matched: ferroelectric, neuromorphic device
-- **Deterministic nucleation of nanocrystal superlattices on 2D perovskites for light-funneling heterostructures**
-  - Authors: Umberto Filippi, Alexander Schleusener, Simone Lauciello, Roman Krahne, Dmitry Baranov, Liberato Manna, Masaru Kuno
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18959v1) | [PDF](https://arxiv.org/pdf/2603.18959v1)
-  - Matched: fet, sic
-- **Microscopic Origin of Temperature-Dependent Anisotropic Heat Transport in Ultrawide-Bandgap Rutile GeO2**
-  - Authors: Pouria Emtenani, Marta Loletti, Felix Nippert, Eduardo Bede Barros, Zbigniew Galazka, Hans Tornatzky, Christian Thomsen, Juan Sebastian Reparaz, Riccardo Rurali, Markus R. Wagner
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18885v1) | [PDF](https://arxiv.org/pdf/2603.18885v1)
-  - Matched: fet
-- _(See full topic page: [Nano/Microelectronic Devices](topics/nano-microelectronic-devices.md))_
+_No matches today._
 
 
 ### CMOS, Process & Fabrication
 
-- **A Minimal-Component 100 MHz Full-Duplex Digital Link Over a Single Coaxial Cable for Laboratory Instrumentation**
-  - Authors: Michael Wiebusch
-  - Published: 2026-03-19 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18848v1) | [PDF](https://arxiv.org/pdf/2603.18848v1)
-  - Matched: cmos
-- **Programmatically Generated Microparticles Using SUEX Dry-Film Epoxy Resist**
-  - Authors: Jason P. Beech, Jonas O. Tegenfeldt
-  - Published: 2026-03-19 | Category: `physics.app-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18607v1) | [PDF](https://arxiv.org/pdf/2603.18607v1)
-  - Matched: yield
-- **Optimization of all-optical phase-change waveguide devices for photonic computing from the atomic scale**
-  - Authors: Hanyi Zhang, Wanting Ma, Wen Zhou, Xueqi Xing, Junying Zhang, Tiankuo Huang, Ding Xu, Xiaozhe Wang, Riccardo Mazzarello, En Ma et al.
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18468v1) | [PDF](https://arxiv.org/pdf/2603.18468v1)
-  - Matched: yield
-- _(See full topic page: [CMOS, Process & Fabrication](topics/cmos-process-fabrication.md))_
+_No matches today._
 
 
 ### Photonics, Optoelectronics & Plasmonics
 
-- **Outage Probability Analysis of NOMA Enabled Hierarchical UAV Networks with Non-Linear Energy Harvesting**
-  - Authors: Faicel Khennoufa, Khelil Abdellatif, Metin Ozturk, Halim Yanikomeroglu, Safwan Alfattani
-  - Published: 2026-03-19 | Category: `eess.SP`
-  - Links: [arXiv](https://arxiv.org/abs/2603.19214v1) | [PDF](https://arxiv.org/pdf/2603.19214v1)
-  - Matched: led
-- **Mitigating the Bandwidth Wall via Data-Streaming System-Accelerator Co-Design**
-  - Authors: Qunyou Liu, Marina Zapater, David Atienza
-  - Published: 2026-03-19 | Category: `cs.AR`
-  - Links: [arXiv](https://arxiv.org/abs/2603.19057v1) | [PDF](https://arxiv.org/pdf/2603.19057v1)
-  - Matched: led
-- **Cavity Control of Strongly Correlated Electrons Beyond Resonant Coupling**
-  - Authors: Lukas Grunwald, Xinle Cheng, Emil Viñas Boström, Michael Ruggenthaler, Marios H. Michael, Dante M. Kennes, Angel Rubio
-  - Published: 2026-03-19 | Category: `quant-ph`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18933v1) | [PDF](https://arxiv.org/pdf/2603.18933v1)
-  - Matched: led
-- _(See full topic page: [Photonics, Optoelectronics & Plasmonics](topics/photonics-optoelectronics-plasmonics.md))_
+_No matches today._
 
 
 ### MEMS/NEMS & Sensors
@@ -140,22 +80,7 @@ _No matches today._
 
 ### Reliability, Modeling & TCAD
 
-- **A Sub-electron-noise Skipper-CCD Readout ASIC with Improved Channel-to-channel Isolation and an Integrated Cryogenic Voltage Reference**
-  - Authors: Fabricio Alcalde Bessia, Claudio Chavez, Troy England, Hongzhi Sun, Andrew Lathrop, Davide Braga, Miguel Sofo-Haro, Juan Estrada, Farah Fahim
-  - Published: 2026-03-19 | Category: `physics.ins-det`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18993v1) | [PDF](https://arxiv.org/pdf/2603.18993v1)
-  - Matched: aging, noise
-- **Imaging short- and long-range magnetic order in a quantum anomalous Hall insulator**
-  - Authors: Andriani Vervelaki, Boris Gross, Daniel Jetter, Katharina Kress, Timur Weber, Dieter Koelle, Kajetan M. Fijalkowski, Martin Klement, Nan Liu, Karl Brunner et al.
-  - Published: 2026-03-19 | Category: `cond-mat.mtrl-sci`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18906v1) | [PDF](https://arxiv.org/pdf/2603.18906v1)
-  - Matched: aging
-- **Direct observation of ultrafast defect-bound and free exciton dynamics in defect-engineered WS$_2$ monolayers**
-  - Authors: Tae Gwan Park, Xufan Li, Kyungnam Kang, Austin Houston, Liam Collins, Gerd Duscher, David B. Geohegan, Christopher M. Rouleau, Kai Xiao, Alexander A. Puretzky
-  - Published: 2026-03-18 | Category: `physics.optics`
-  - Links: [arXiv](https://arxiv.org/abs/2603.18230v1) | [PDF](https://arxiv.org/pdf/2603.18230v1)
-  - Matched: hot carrier, trap
-- _(See full topic page: [Reliability, Modeling & TCAD](topics/reliability-modeling-tcad.md))_
+_No matches today._
 <!-- END TODAY -->
 
 ---
